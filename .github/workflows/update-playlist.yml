@@ -1,0 +1,33 @@
+name: Update channel playlist
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-channel-playlist
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate playlist
+        run: python3 scripts/update_playlist.py
+
+      - name: Commit playlist changes
+        run: |
+          if ! git diff --quiet -- channels.m3u; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add channels.m3u
+            git commit -m "Update channel playlist"
+            git push
+          fi
