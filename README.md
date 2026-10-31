@@ -1,4 +1,4 @@
-# Channels playlist
+# channels
 
 `channels.m3u` is generated from the source playlist page at
 <https://iptv.b2og.com/list/o_all.list>.
