@@ -47,3 +47,5 @@ https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="ZA" tvg-language="afr,eng,nbl,nso,sot,ssw,tsn,tso,ven,xho,zul" group-title="Country: South Africa;Type: Outdoor;Type: Relax;Type: Documentary;Type: Education;Language: Afrikaans;Language: English;Language: South Ndebele;Language: Northern Sotho;Language: Southern Sotho;Language: Swati;Language: Tswana;Language: Tsonga;Language: Venda;Language: Xhosa;Language: Zulu",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-country="ZA" tvg-language="afr,eng,nbl,nso,sot,ssw,tsn,tso,ven,xho,zul" group-title="Country: South Africa;Language: Afrikaans;Language: English;Language: South Ndebele;Language: Northern Sotho;Language: Southern Sotho;Language: Swati;Language: Tswana;Language: Tsonga;Language: Venda;Language: Xhosa;Language: Zulu",Fresh
+http://my.forcetv.pro:8880/movie/eJuxRCgKsb/c0OOJn2D2e/413.mkv

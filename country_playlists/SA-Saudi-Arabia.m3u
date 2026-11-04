@@ -89,3 +89,25 @@ https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u
 https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
 #EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Classic;Language: Arabic",Thikrayat TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Movies;Language: Arabic",Mbc Max
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7764.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Series;Language: Arabic",Rotana Drama
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7797.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Music;Language: Arabic",Rotana Khalijia
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7800.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Language: Arabic",Rotana Clip
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7801.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Music;Language: Arabic",Rotana Music
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7804.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Comedy;Language: Arabic",Rotana Comedy
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7805.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Classic;Language: Arabic",Rotana Classic
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7810.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Movies;Language: Arabic",Rotana Cinema Ksa
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7816.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Documentary;Language: Arabic",Al MAJD Documentary
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7962.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Religious;Type: Education;Language: Arabic",Al MAJD Scientific
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7963.ts
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia;Type: Kids;Language: Arabic",Al MAJD Kids
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7968.ts

@@ -20,11 +20,11 @@ repository. Set `output_folder` to choose where that source's folder-level
 `combined.m3u` is written; sources assigned to the same folder are merged
 together. The updater leaves source files unchanged, removes duplicate stream
 URLs (keeping the first occurrence), and also includes the configured M3Us in
-the master and country playlists. The config has an inactive `example` entry
-pointing to [`examples/sample.m3u`](./examples/sample.m3u); copy its `source`
-and `output_folder` values into `m3u_sources` and replace them with a real
-source to enable it. Example URLs use `example.com` and are placeholders.
-An active entry looks like:
+the master and country playlists. The current `m3u_sources` entry uses
+[`examples/sample.m3u`](./examples/sample.m3u) and writes its combined output
+to `playlists/sample/combined.m3u`. To add another source, copy the `example`
+entry from the config into `m3u_sources` and replace the source and output
+folder values. An active entry looks like:
 
 ```json
 {

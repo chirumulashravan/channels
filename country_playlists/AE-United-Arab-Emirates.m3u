@@ -65,3 +65,11 @@ https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/ind
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Country: United Arab Emirates;Language: Arabic",Watar Radio (1080p)
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+#EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Country: United Arab Emirates;Type: General;Language: Arabic",OSN POP UP
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/4058.ts
+#EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Country: United Arab Emirates;Type: Comedy;Language: Arabic",OSN Comedy
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/4032.ts
+#EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Country: United Arab Emirates;Type: Entertainment;Language: Arabic",Mbc Action
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7765.ts
+#EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Country: United Arab Emirates;Type: Movies;Language: Arabic",Mbc Bollywood
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7776.ts

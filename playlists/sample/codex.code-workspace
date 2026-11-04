@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../firestick/firestick-adb/free-my-tv"
+		}
+	],
+	"settings": {}
+}
