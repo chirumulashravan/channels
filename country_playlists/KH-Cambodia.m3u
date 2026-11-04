@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: General;Language: Khmer",Apsara TV11 (720p)
+https://live.ams.com.kh/app/stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: Outdoor;Language: Khmer",ARDB TV (1080p) [Not 24/7]
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: General;Language: Khmer",Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: General;Language: Khmer",CTV8 HD
+https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Language: Khmer",CTV 9 (1080p)
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: Music;Language: Khmer",D Music (1280p) [Not 24/7]
+http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: News;Language: Khmer",EAC News TV
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: Education;Language: Khmer",EBC General Education (720p) [Not 24/7]
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: News;Language: Khmer",Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: Entertainment;Language: Khmer",iTV HD
+https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: Movies;Language: Khmer",Komsan TV [Not 24/7]
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: Education;Language: Khmer",One TV E-School Cambodia (1080p)
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: Religious;Language: Khmer",Sangkem TV
+https://live.sangkemtv.com/memfs/sangkem.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Language: Khmer",Town TV
+https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Language: Khmer",TV5 Cambodia
+https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
+#EXTINF:-1 tvg-country="KH" tvg-language="khm" group-title="Country: Cambodia;Type: Education;Language: Khmer",Wiki TV (720p)
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8

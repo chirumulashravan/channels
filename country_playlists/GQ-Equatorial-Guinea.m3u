@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="GQ" tvg-language="fra,por,spa" group-title="Country: Equatorial Guinea;Type: General;Language: French;Language: Portuguese;Language: Spanish",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8

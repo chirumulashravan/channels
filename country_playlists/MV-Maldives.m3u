@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="MV" tvg-language="div" group-title="Country: Maldives;Type: Travel;Language: Dhivehi",Maldives TV (720p)
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:-1 tvg-country="MV" tvg-language="div" group-title="Country: Maldives;Type: Religious;Language: Dhivehi",Munnaaru
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+#EXTINF:-1 tvg-country="MV" tvg-language="div" group-title="Country: Maldives;Type: News;Language: Dhivehi",PSM News
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+#EXTINF:-1 tvg-country="MV" tvg-language="div" group-title="Country: Maldives;Type: General;Language: Dhivehi",Raajje TV
+https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
+#EXTINF:-1 tvg-country="MV" tvg-language="div" group-title="Country: Maldives;Type: General;Language: Dhivehi",TV Maldives
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8
+#EXTINF:-1 tvg-country="MV" tvg-language="div" group-title="Country: Maldives;Type: Entertainment;Type: Sports;Type: Culture;Language: Dhivehi",YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8

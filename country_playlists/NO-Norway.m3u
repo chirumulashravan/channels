@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: Auto;Language: Norwegian",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",Frikanalen (720p)
+https://frikanalen.no/stream/index.m3u8
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",NRK1 (1080i)
+https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",NRK2 (1080i)
+https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: Entertainment;Language: Norwegian",NRK3 (1080i)
+https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: Kids;Language: Norwegian",NRK Super (1080i)
+https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",NRK Tegnsprak (1080i)
+https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",TV Ostfold (1080p)
+https://streamnorge.com:8088/hls/tvo.m3u8
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",TVModum (720p)
+https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8

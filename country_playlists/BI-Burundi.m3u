@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="BI" tvg-language="fra,run" group-title="Country: Burundi;Type: Entertainment;Language: French;Language: Rundi",RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
+#EXTINF:-1 tvg-country="BI" tvg-language="fra,run" group-title="Country: Burundi;Type: General;Language: French;Language: Rundi",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8

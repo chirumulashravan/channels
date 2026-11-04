@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sample.news" tvg-name="Sample News" tvg-logo="https://example.com/news.png" group-title="News",Sample News
+https://example.com/live/news.m3u8
+#EXTINF:-1 tvg-id="sample.sports" tvg-name="Sample Sports" group-title="Sports",Sample Sports
+https://example.com/live/sports.m3u8

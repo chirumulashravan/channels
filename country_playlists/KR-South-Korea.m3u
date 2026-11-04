@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",Arirang Radio (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: News;Type: General;Language: Korean",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: News;Language: Korean",Arirang UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Education;Language: Korean",EBS 1TV (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Education;Language: Korean",EBS 2TV (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Education;Language: Korean",EBS English (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Kids;Language: Korean",EBS Kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Education;Language: Korean",EBS Plus 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Education;Language: Korean",EBS Plus 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Religious;Language: Korean",GCN (720p)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",Gongyoung Home Shopping (720p)
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",GS My Shop (1080p)
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Music;Language: Korean",Gugak TV (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: News;Language: Korean",Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLAJ-DTV (352p) [Not 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLAM-DTV (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLAN-DTV (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLAO-DTV (720p) [Not 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLAQ-DTV (1080p) [Not 24/7]
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLAT-DTV (1080p) [Not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLAW-DTV (360p) [Not 24/7]
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLCG-DTV (360p) [Not 24/7]
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLCN-DTV (1080p)
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLCQ-DTV (720p) [Not 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLCT-DTV (480p) [Not 24/7]
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLCX-DTV (450p)
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLDE-DTV (540p)
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLDG-DTV (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLDH-DTV (1080p) [Not 24/7]
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLDP-DTV (540p) [Not 24/7]
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLDQ-DTV (406p) [Not 24/7]
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLDR-DTV (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLKJ-DTV (720p) [Not 24/7]
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLKU-DTV (360p) [Not 24/7]
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",HLQS-DTV (540p) [Not 24/7]
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",Hyundai Home Shopping (720p)
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",Hyundai Home Shopping + Shop (720p)
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",K Shopping (1080p)
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",Lotte Home Shopping (720p)
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",Lotte OneTV (720p)
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",MBC Gyeongnam TV (1080p) [Not 24/7]
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Language: Korean",MBC Net (480p)
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Legislative;Language: Korean",National Assembly TV (720p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Education;Language: Korean",NBS (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Entertainment;Language: Korean",NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",NS Home Shopping (720p)
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",NS Shop+ (720p)
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Education;Language: Korean",OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Religious;Language: Korean",RUTC TV (720p)
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",Shinsegae TV Shopping (720p)
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: Shop;Language: Korean",W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-language="kor" group-title="Country: South Korea;Type: General;Language: Korean",YTN (720p)
+http://202.60.106.14:8080/214/playlist.m3u8

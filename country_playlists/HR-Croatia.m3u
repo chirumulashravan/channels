@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: Kids;Language: Croatian",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: Music;Language: Croatian",CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: General;Language: Croatian",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: Music;Language: Croatian",Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: Movies;Language: Croatian",Klasik (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: General;Language: Croatian",Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Language: Croatian",Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: General;Language: Croatian",SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: Auto;Language: Croatian",Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: General;Language: Croatian",Trend TV (480p)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: News;Language: Croatian",TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: General;Language: Croatian",TV Zapad (1080p) [Not 24/7]
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="LV" tvg-language="lav" group-title="Country: Latvia;Type: Animation;Type: Kids;Language: Latvian",Pingviins (720p)
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+#EXTINF:-1 tvg-country="LV" tvg-language="lav" group-title="Country: Latvia;Type: Music;Language: Latvian",Radio SWH TV (1080p)
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="LV" tvg-language="lav" group-title="Country: Latvia;Type: General;Language: Latvian",TV Jurmala (1080p)
+https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+#EXTINF:-1 tvg-country="LV" tvg-language="lav" group-title="Country: Latvia;Type: General;Language: Latvian",Vidusdaugavas Televizija (576p)
+https://straume.vdtv.lv/vdtv2/index.m3u8

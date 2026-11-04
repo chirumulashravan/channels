@@ -1,0 +1,12 @@
+{
+  "m3u_sources": [
+    {
+      "source": "https://provider.example.com/live.m3u",
+      "output_folder": "playlists/provider"
+    }
+  ],
+  "example": {
+    "source": "examples/sample.m3u",
+    "output_folder": "playlists/sample"
+  }
+}

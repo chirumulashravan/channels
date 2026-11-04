@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="NE" tvg-language="fra" group-title="Country: Niger;Type: General;Language: French",Dounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+#EXTINF:-1 tvg-country="NE" tvg-language="fra" group-title="Country: Niger;Type: General;Language: French",Saraounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+#EXTINF:-1 tvg-country="NE" tvg-language="fra" group-title="Country: Niger;Type: Entertainment;Language: French",Tal TV (1080p)
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 tvg-country="NE" tvg-language="fra" group-title="Country: Niger;Type: General;Language: French",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8

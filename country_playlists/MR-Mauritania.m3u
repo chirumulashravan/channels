@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="MR" tvg-language="ara" group-title="Country: Mauritania;Type: News;Language: Arabic",Sahara 24 (1080p)
+https://live.saharamedias.net:3317/live/shara24live.m3u8

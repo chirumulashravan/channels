@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="GP" tvg-language="fra" group-title="Country: Guadeloupe;Type: Music;Language: French",Madras FM TV (1080p)
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:-1 tvg-country="GP" tvg-language="fra" group-title="Country: Guadeloupe;Type: General;Language: French",Radio TV Basse-Terre (720p)
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
+#EXTINF:-1 tvg-country="GP" tvg-language="fra" group-title="Country: Guadeloupe;Type: Music;Language: French",RHT Guadeloupe (720p)
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-country="GP" tvg-language="fra" group-title="Country: Guadeloupe;Type: Music;Language: French",TMA (1080p)
+http://hls.tmacaraibes.com/live/index.m3u8

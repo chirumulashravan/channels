@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="LY" tvg-language="ara" group-title="Country: Libya;Type: News;Language: Arabic",Al Masar TV (576p)
+https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 tvg-country="LY" tvg-language="ara" group-title="Country: Libya;Type: General;Language: Arabic",Libya Al Wataniya (360p)
+https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-country="LY" tvg-language="ara" group-title="Country: Libya;Type: General;Language: Arabic",Tanasuh TV (1080p)
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8

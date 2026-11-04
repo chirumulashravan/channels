@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Music;Language: Polish",4 Fun Dance
+http://92.114.85.87:8018/play/a00k/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Kids;Language: Polish",4 Fun Kids (576i)
+https://stream.4fun.tv:8889/hls/4fk.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Music;Language: Polish",4 Fun TV
+https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Entertainment;Language: Polish",American Crime Channel
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Movies;Language: Polish",AXN Poland (1080p)
+http://92.114.85.87:8015/play/a00f/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Belsat TV
+http://78.62.9.23:55555/Belsat
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Entertainment;Language: Polish",Bialogardzka Telewizja Kablowa (1080p)
+https://bsmbialogard.pl/live/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Bigtime
+https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",BTB 2 (1080p)
+https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",BTB 3 (1080p)
+https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Documentary;Type: News;Language: Polish",BTB Info (1080p)
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Buzzfeed Unsolved
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Family;Language: Polish",CANAL+ 360 (576i)
+http://92.114.85.87:8019/play/a003/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Canal+ Domo (576i)
+http://92.114.85.87:8019/play/a008/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Cooking;Language: Polish",Canal+ Kuchnia (576i)
+http://92.114.85.87:8019/play/a009/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Canal+ Now (576i)
+http://92.114.85.87:8006/play/a005/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Car City Adventures
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Entertainment;Language: Polish",Crime + Investigation Polsat (576i)
+http://92.114.85.87:8015/play/a00d/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Music;Language: Polish",Disco Polo Music (1080p)
+http://185.227.34.179:8080/disco-polo-music/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Dr G Medical Examiner
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Echo24 (720p)
+https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Sports;Language: Polish",Eleven Sports 1
+http://92.114.85.87:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Music;Language: Polish",Eska Rock TV (1080p)
+http://92.114.85.87:8016/play/a005/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Music;Language: Polish",Eska TV (1080p)
+http://92.114.85.87:8018/play/a00h/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Music;Language: Polish",Eska TV Extra (1080p)
+http://92.114.85.87:8016/play/a008/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: News;Language: Polish",Euronews (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Sports;Language: Polish",Eurosport 1 Polska (1080p)
+http://57.128.210.196:8080/264/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Sports;Language: Polish",Eurosport 2 Polska (1080p)
+http://57.128.210.196:8080/263/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Religious;Language: Polish",EWTN Poland (1080p)
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Movies;Language: Polish",FILMBOX+ Comedy (720p)
+http://92.114.85.87:8008/play/a009/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Movies;Language: Polish",FILMBOX+ Emotion (720p)
+http://92.114.85.87:8008/play/a008/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Movies;Language: Polish",FILMBOX+ Festival
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Movies;Language: Polish",FILMBOX+ Hits (576i)
+http://92.114.85.87:8008/play/a00a/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Fokus TV
+http://92.114.85.87:8018/play/a00i/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Grjngo
+https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Moconomy
+https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: News;Language: Polish",Newsmax Polska (576i)
+http://92.114.85.87:8014/play/a006/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Nowa TV (1080p)
+http://92.114.85.87:8001/play/a013/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Lifestyle;Type: Documentary;Language: Polish",Nuta Gold
+http://92.114.85.87:8010/play/a00i/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Polonia 1 (576i)
+http://92.114.85.87:8012/play/a006/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Polsat 2 (1080p)
+http://57.128.210.196:8080/208/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Polsat
+https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Kids;Language: Polish",Polsat JimJam (576p)
+http://185.227.34.179:8080/jimjam/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Music;Language: Polish",Polsat Music (1080p)
+http://92.114.85.87:8001/play/a00z/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: News;Language: Polish",Polsat News 2 (1080p)
+https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: News;Language: Polish",Polsat News (1080p)
+https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: News;Language: Polish",Polsat News Polityka (1080p)
+https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Polsat Rodzina (1080p)
+http://57.128.210.196:8080/197/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Series;Language: Polish",Polsat Seriale (1080p)
+http://57.128.210.196:8080/196/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Polsat Sport 1 (1080p)
+http://57.128.210.196:8080/193/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Polsat Sport 2 (1080p)
+http://57.128.210.196:8080/195/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Polsat Sport 3 (1080p)
+http://57.128.210.196:8080/192/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Sports;Language: Polish",Polsat Sport Fight
+http://92.114.85.87:8016/play/a00b/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Documentary;Language: Polish",Polsat Viasat Explore
+http://92.114.85.87:8014/play/a00g/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Documentary;Language: Polish",Polsat Viasat History (1080p)
+http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Documentary;Language: Polish",Polsat Viasat Nature
+http://92.114.85.87:8016/play/a004/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Puls 2 (1080p)
+https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Sports;Language: Polish",RACER International (1080p)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Music;Language: Polish",Radio RAM (1080p)
+https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Entertainment;Language: Polish",Radiowa Czworka (1080p)
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Red Carpet TV International (1080p)
+https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Entertainment;Language: Polish",Remonty TV (1080p)
+https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Royalworld
+https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Stars TV (1080p)
+http://92.114.85.87:8001/play/a00o/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Stopklatka TV
+http://92.114.85.87:8018/play/a004/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: News;Language: Polish",Super Express TV (1080p)
+https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Super Polsat
+http://92.114.85.87:8004/play/a00c/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Szlagier TV
+http://92.114.85.87:8010/play/a00l/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Business;Language: Polish",Telewizja Biznesowa (1080p)
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Telewizja iTTV (1080p)
+https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Telewizja Jaslo (720p)
+https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Telewizja Luban (720p) [Not 24/7]
+http://stream.herissons.cloud/hls/tvluban.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Telewizja Regionalna Zary
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",Telewizja Relax (1080p)
+https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TNA Wrestling Channel (720p)
+https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TOP Barca (1080p)
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Top Movies Polska (1080p)
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Language: Polish",TV ASTA (720p)
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TV Kujawy (576p) [Not 24/7]
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TV Okazje (576i)
+http://92.114.85.87:8014/play/a008/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TV Puls (1080p)
+https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TV Regionalna Lubin (1080p)
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TV Republika
+http://92.114.85.87:8018/play/a008/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TV Torun (1080p) [Not 24/7]
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TV Trwam (1080p)
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVC Super
+http://92.114.85.87:8010/play/a00n/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: General;Type: News;Language: Polish",TVK Stella (576p)
+https://stream.tvkstella.pl/stella/stella.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVP1 (1080p)
+http://57.128.210.196:8080/144/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVP2 (1080p)
+http://57.128.210.196:8080/143/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Kids;Language: Polish",TVP ABC (576i)
+http://92.114.85.87:8002/play/a00b/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVP HD (1080p)
+http://57.128.210.196:8080/141/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVP Historia (576i)
+http://92.114.85.87:8002/play/a00d/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVP Info
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVP Kultura (1080p)
+http://92.114.85.87:8006/play/a007/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVP Rozrywka (576p)
+http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Series;Language: Polish",TVP Seriale (1080p)
+http://92.114.85.87:8019/play/a00a/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Sports;Language: Polish",TVP Sport (1080p)
+http://57.128.210.196:8080/134/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: News;Language: Polish",TVP Wilno
+http://78.62.9.23:55555/TVP%20Wilno%20HD
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: News;Language: Polish",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",TVT Zgorzelec (576p) [Not 24/7]
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Twoja.TV (1080p)
+https://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Viasat Explore Classic (720p)
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",Viasat True Crime
+http://92.114.85.87:8010/play/a00a/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",VOD 205 (576p)
+http://91.228.35.249:8001/1:0:1:3F:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",VOD 206 (576p)
+http://91.228.35.249:8001/1:0:1:40:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",VOD 207 (576p)
+http://91.228.35.249:8001/1:0:1:41:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",VOD 208 (576p)
+http://91.228.35.249:8001/1:0:1:42:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Music;Language: Polish",VOX Music TV (1080p)
+http://92.114.85.87:8016/play/a00a/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",W Polsce PL (720p)
+https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: Auto;Language: Polish",wedotv Auta (480p)
+https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Language: Polish",World Billiards
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland;Type: News;Language: Polish",Wydarzenia 24 (576i)
+http://92.114.85.87:8016/play/a007/index.m3u8

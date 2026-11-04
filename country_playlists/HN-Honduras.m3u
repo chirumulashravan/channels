@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Alfa & Omega Vision (480p) [Not 24/7]
+https://srv.panelcast.net/dorian/dorian/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Alsacias Television (720p)
+https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Language: Spanish",Aviva TV (288p) [Not 24/7]
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",AZA TV HD (1080p)
+https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Azteca Honduras (720p)
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: News;Language: Spanish",Buendia TV
+https://servilive.com:3508/stream/play.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Canal 5 El Lider (720p)
+http://186.33.26.18:8000/play/a0s4/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Canal 7 Talanga Vision (720p)
+https://amixtv.com:8081/talangavision/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Canal 32 STO (720p) [Not 24/7]
+https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",CCI Channel (1080p)
+https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: News;Language: Spanish",Cholusat Sur 36 (214p) [Not 24/7]
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",Choluteca TV (1080p)
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",CVA TV (480p) [Not 24/7]
+http://190.124.161.21:8086/cvatv/live.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Sports;Language: Spanish",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",Dios Te Ve (720p)
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Type: Kids;Language: Spanish",Dios Te Ve Kids (720p)
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",Dios Tv Talanga (1080p)
+https://tv.webmedialive.com/unciontv/live/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Entertainment;Language: Spanish",EDN TV (1080p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Entertainment;Language: Spanish",Girasol TV (1080i)
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Guayape TV
+https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: News;Language: Spanish",HCH (720p)
+https://live.streamhch.com/live/streams/hch1.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: News;Language: Spanish",ICN Digital
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Music;Language: Spanish",Imagen FM 105.1 (720p) [Not 24/7]
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",Inmaculada TV (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",JBN TV (1080p)
+https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",Jehova TV
+https://mp.panelchs.com:1936/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",JEMR TV (1080p)
+https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",Kerusso TV (720p)
+https://s.emisoras.tv:8081/kerussotv/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Music;Language: Spanish",La 98.1 TV (720p) [Not 24/7]
+https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Music;Language: Spanish",La Top 102.9 (720p)
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Music;Language: Spanish",La Top 107.7 (720p)
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: News;Language: Spanish",Lenca TV (720p) [Not 24/7]
+https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Litoral Atlantico HD (720p)
+https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: News;Language: Spanish",Mas Noticias Television (720p)
+https://www.amixtv.com:8081/mntvh/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Music;Language: Spanish",Picosa TV (720p)
+http://45.167.2.101:8000/play/a0sd/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Puringla TV
+https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Language: Spanish",Q'hubo TV (410p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",Radio Fiesta de Milagros TV (1080p)
+https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Music;Language: Spanish",Radio Ideal (720p) [Not 24/7]
+https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Entertainment;Language: Spanish",Radio Omega TV (720p) [Not 24/7]
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Entertainment;Language: Spanish",RSV Honduras (720p)
+https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",San Ignacio TV (720p)
+https://amixtv.live:3753/live/sitvlive.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Language: Spanish",Sercano TV (720p) [Not 24/7]
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Education;Language: Spanish",STVE Telebasica (1080p)
+https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Sula TV (1080p)
+https://tv.webmedialive.com/sulatv/live/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",Suyapa TV (1080p)
+https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Family;Language: Spanish",Talanga TV Canal 39 (480p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",TDV TV (240p)
+https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Telavision (720p)
+https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Telecadena 7 y 4 (576p)
+http://45.167.2.101:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Language: Spanish",Teleceiba (1080p)
+http://45.238.141.222:8000/play/a0pf/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Language: Spanish",TeleDanli (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Entertainment;Language: Spanish",Telerayo (1080p)
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Language: Spanish",Television Comayagua Canal 40 (720p) [Not 24/7]
+https://mediacp.us:8081/8034/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Television Metropolis 19.1 (1080p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Television Metropolis 19.2 (1080p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Television Olanchana (1080p)
+https://viewhn.com/canal30/live/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Language: Spanish",TEN Canal 10 (720p) [Not 24/7]
+https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: News;Language: Spanish",TSi
+http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Entertainment;Language: Spanish",TV Centro 27.2 HD (720p)
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",TV Centro HD (720p)
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Language: Spanish",TV Copan (720p) [Not 24/7]
+https://s.emisoras.tv:8081/tvcopan/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: Religious;Language: Spanish",TV Estrella (720p)
+https://s.emisoras.tv:8081/tve/index.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Language: Spanish",UNAH UTV (360p) [Not 24/7]
+https://live-utv.unah.edu.hn/web/salida.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: News;Language: Spanish",UNE TV (720p)
+https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras;Type: General;Language: Spanish",Waldivision Internacional
+https://media.streambrothers.com:19360/8308/8308.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="BN" tvg-language="msa" group-title="Country: Brunei;Type: General;Language: Malay",RTB Go (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-country="BN" tvg-language="msa" group-title="Country: Brunei;Type: General;Language: Malay",RTB Sukmaindera (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8

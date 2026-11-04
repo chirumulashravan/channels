@@ -1,0 +1,615 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",3sat
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",16 Anni e Incinta
+https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",90210
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Adventure Earth (1080p)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Alle hassen Chris
+https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Allgau TV (1080p)
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Altenburg TV (1080p)
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Outdoor;Language: German",ANIMAL KINGDOM (720p)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Anixe + (360p)
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Anixe HD Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Education;Language: German",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Aristo TV (360p)
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Lifestyle;Language: German",Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Bibel TV Musik (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",BIG BROTHER CLASSIC
+https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",BLK Regional TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Kids;Language: German",Bob Esponja (720p)
+https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",BR Fernsehen (720p)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Cagney & Lacey
+https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",CC Pluto TV
+https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Type: Classic;Language: German",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine 666 by Pluto TV
+https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine Action by Pluto TV
+https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine by Pluto TV
+https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine Catastrophe by Pluto TV
+https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine d'Asie by Pluto TV
+https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine Horreur by Pluto TV
+https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine Retro by Pluto TV
+https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine Romance by Pluto TV
+https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine Sci-Fi by Pluto TV
+https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine Thrillers by Pluto TV
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Cine Western by Pluto TV
+https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Cira TV (1080p)
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Comedia a lo bestia de Pluto TV
+https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",CSI: Crime Scene Investigation
+https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Sports;Language: German",DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Sports;Language: German",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Deluxe Lounge (720p)
+https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Deluxe Rap (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",DMF (1080p) [Not 24/7]
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Dokusat (1080p)
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Kids;Language: German",Drake & Josh
+https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Religious;Language: German",EchtJetzt TV (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Filstalwelle (1080p)
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Finest TV (288p) [Not 24/7]
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Folx Music Television
+https://folxapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Franken Fernsehen (1080p) [Not 24/7]
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Frasier: Beruhmte Gaste
+https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Germany Shore
+https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Grjngo Western Movies (720p)
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Hamburg 1 (1080p)
+https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Shop;Language: German",Handystar (404p) [Not 24/7]
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Religious;Language: German",Hope Channel German (1080p)
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Shop;Language: German",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Shop;Language: German",HSE Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Shop;Language: German",HSE Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Il Testimone
+https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Investigation by Pluto TV
+https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Education;Language: German",iSTUFF (720p) [Not 24/7]
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",kabel eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",kabel eins Doku (720p)
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Kanal12 Spremberg TV (404p) [Not 24/7]
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Shop;Language: German",KaufBei TV (576p)
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Kids;Language: German",KiKA (1080p) [Not 24/7]
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Culture;Language: German",KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Lausitzwelle (1080p)
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",MagentaMusik 360 (1080p)
+https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",McLeods Tochter
+https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",MDR Fernsehen (1080p)
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Sports;Language: German",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",More TV Crime
+https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Type: Series;Language: German",More TV Sci-fi
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",MTV (Germany)
+https://ma.anixa.tv/clips/stream/mtv/playlist.php
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",MTV Geordies
+https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",MTV Jerseys
+https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",MTV Originals
+https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",MTV Verguenza ajena (720p)
+https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Munchen TV (1080p) [Not 24/7]
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: News;Language: German",Nachrichten 360 (1080p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",NDR Fernsehen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",NDR Fernsehen International (720p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Type: Kids;Language: German",Nick/Comedy Central +1
+http://90.183.52.46:4000/play/a046/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Kids;Language: German",Nickelodeon Classics (720p)
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Niederbayern TV Deggendorf & Straubing (1080p)
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Niederbayern TV Landshut (1080p)
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Niederbayern TV Passau (1080p)
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Nitro
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",noa4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",noa4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Education;Language: German",NRWision (1080p)
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",Oberpfalz TV (1080p)
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK4 (720p)
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK54 (720p)
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Flensburg (576p)
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Kaiserslautern (720p)
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Kassel (720p)
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Kiel (576p)
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Rhein-Main (576p)
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Trier (720p)
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Weinstrasse Neustadt (432p)
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",OK-TV Ludwigshafen (720p)
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",One Music Television
+https://oneapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Legislative;Language: German",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Legislative;Language: German",Parlamentsfernsehen 2 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Legislative;Language: German",Parlamentsfernsehen 3 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Legislative;Language: German",Parlamentsfernsehen 4 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",phoenix (720p)
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Type: Series;Language: German",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Animation;Type: Comedy;Language: German",Pluto TV Adult Animation
+https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Alberto Sordi
+https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Type: Documentary;Language: German",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Animales
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Type: Animation;Language: German",Pluto TV Animation
+https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Pluto TV ANIME GO!
+https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Brigade Criminelle
+https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Britain at War
+https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Britische Serien
+https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Catastrofes
+https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Christmas tutto l'anno
+https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Cine de autor
+https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Cine Romantico
+https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Cinema Italiano
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Cinema Orientale
+https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Classic;Language: German",Pluto TV Classic TV
+https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Cooking;Type: Lifestyle;Language: German",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Pluto TV Comedia made in Spain
+https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Type: Movies;Language: German",Pluto TV Comedias Romanticas
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Pluto TV Comedie
+https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Type: Movies;Language: German",Pluto TV Comedies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Pluto TV Comedy Therapie
+https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Conspiracy
+https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Crime
+https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Cooking;Type: Lifestyle;Language: German",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Cooking;Type: Lifestyle;Language: German",Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Dating (720p)
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Pluto TV Deutsche Comedy
+https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Lifestyle;Language: German",Pluto TV Diseno
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Explore
+https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Family Movie Club
+https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Fantasy & Horror
+https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Ferne Galaxien
+https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Film Ancora Piu Romantici
+https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Film Commedia
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Film Romantici
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Film Storici
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Film Thriller
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Cooking;Type: Documentary;Language: German",Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Pluto TV Fran: Beste Mama-Momente
+https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Pluto TV French Collection
+https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Pluto TV Gasolina
+https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Pluto TV Gore & Slasher
+https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Type: Series;Language: German",Pluto TV Haialarm
+https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Histoire (720p)
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Historische Serien
+https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Horror-Serien
+https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Pluto TV Impacto
+https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Pluto TV Inside
+https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Invasion Alien
+https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Investigation
+https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV K-Drama
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Kids;Language: German",Pluto TV Kids Classics (720p)
+https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Type: Comedy;Language: German",Pluto TV Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Kultfilme
+https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Pluto TV Laughs in Spanish
+https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Legami Letali
+https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Movies
+https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Mystery
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Nordic Crime
+https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Notti di Passione
+https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Notti di Sangue
+https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Notti di Terrore
+https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV PetrolHeads
+https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Polar
+https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Polizeiserien
+https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Psycho
+https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Lifestyle;Language: German",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Reportagen
+https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Animation;Type: Kids;Language: German",Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Pluto TV Scherzi e risate
+https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Sci-fi Series
+https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Serie Crime
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Serie Sci-Fi
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Series criminales
+https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Series Fantastiques
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Classic;Language: German",Pluto TV Sherlock
+https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Pluto TV Shore
+https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Type: Comedy;Language: German",Pluto TV Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Animation;Language: German",Pluto TV Star Trek: Animation
+https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Pluto TV Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Kids;Language: German",Pluto TV Super Kids
+https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Kids;Language: German",Pluto TV Teen (720p)
+https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Telenovelas Clasicas
+https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Pluto TV Telerealite France
+https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Toto
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Type: Documentary;Language: German",Pluto TV Tough Jobs
+https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Lifestyle;Language: German",Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Weihnachten im Sommer
+https://jmp2.uk/plu-642ad072283aa4000806148c.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",Pluto TV Western
+https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Pluto TV Western Serien
+https://jmp2.uk/plu-682453215c646751955e1204.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Pluto TV Worst of Bundy
+https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Type: Series;Language: German",Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",ProSieben (1080p)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",ProSieben Maxx (576p)
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",PUNKTum Fernsehen (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Shop;Language: German",QVC Zwei (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Radio 21 TV (720p)
+https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Radio Bremen Fernsehen (1080p)
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",RAN1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",rbb Fernsehen
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Regio TV Bodensee (1080p)
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",RFH (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",RFO (1080p)
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Kids;Type: Family;Language: German",RiC (1080p)
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",RiC.today
+http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Rockland TV (480p) [Not 24/7]
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: News;Language: German",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",RTL Zwei
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Saarland Fernsehen 2 (720p) [Not 24/7]
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Sabrina: Total verhext!
+https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Sachsen Eins (1080p)
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Sachsen Fernsehen Chemnitz (1080p)
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Sachsen Fernsehen Dresden (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Sachsen Fernsehen Leipzig (1080p)
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Salve TV (720p)
+https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",SAT.1 Gold (576p)
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Seenluft24 (1080p)
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Sender Neu Jerusalem (576p)
+https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Movies;Language: German",SensaCine TV x Pluto
+https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Sonnenklar TV (1080p)
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Sonus FM (1080p) [Not 24/7]
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Sophia TV Espanol (720p)
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Religious;Language: German",Sophia TV Francais (720p)
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Animation;Type: Comedy;Language: German",South Park Version Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Animation;Type: Comedy;Language: German",South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Kids;Language: German",SpongeBob Schwammkopf (720p)
+https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",SR Fernsehen (720p)
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",SRF (1080p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",SWR Fernsehen Baden-Wurttemberg (720p)
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",SWR Fernsehen HD
+https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",SWR Fernsehen Rheinland-Pfalz (720p)
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",tagesschau24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Comedy;Language: German",Takeshi's Castle
+https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Animation;Type: Kids;Language: German",Teenage Mutant Ninja Turtles (720p)
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",teltOwkanal (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Documentary;Language: German",Terra Mater WILD (1080p)
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",The L Word – Wenn Frauen lieben
+https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",The Yellow Couch with Jeremy Lynch
+https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Tide TV (1080p)
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",Tout le monde deteste Chris
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Series;Language: German",True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",Turbo (720p)
+https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",TV38 Sudost-Niedersachen (1080p)
+https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",TV Bozsike Hamburg HD (1080p)
+https://rtmp.radiobozsike.com/hls/stream1.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",TV Ingolstadt (1080p)
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",TV Oberfranken (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Unserding (720p)
+https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Volksmusik TV (1080p)
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",WDR 1 Live (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",WDR Fernsehen (720p)
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: News;Language: German",WELT
+https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Sports;Language: German",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",ZDF
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",ZDFinfo (720p)
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",ZDFneo (720p)
+http://5.180.164.197:8080/ZDFNEO/index.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Zwei Music Television
+https://zweiapp.b-cdn.net/1080p/index.m3u8

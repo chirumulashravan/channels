@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Entertainment;Language: Spanish",AbejalesTV (720p)
+https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Entertainment;Language: Spanish",Aguacate TV (1080p)
+https://stream.aguacatetv.com:3949/hybrid/play.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Anzoategui TV (360p) [Not 24/7]
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Sports;Language: Spanish",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Religious;Language: Spanish",Audaz TV (432p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Barinas TV (720p) [Not 24/7]
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Canal 21 Tachira (360p)
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Culture;Language: Spanish",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: News;Language: Spanish",Canal I (1080p)
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Catatumbo TV (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Animation;Language: Spanish",eSports Max TV
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Science;Language: Spanish",EXC TV (720p) [Not 24/7]
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Globovision (576p)
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Grande TV
+https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Entertainment;Language: Spanish",Guaro TV (720p)
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Isla TV (480p)
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Music;Language: Spanish",Italianissimo (360p) [Not 24/7]
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Music;Language: Spanish",KandelaTV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Entertainment;Language: Spanish",La Tele Tuya (576p)
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Music;Language: Spanish",LaPuraCrema Television
+https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Entertainment;Language: Spanish",Lara en Redes
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Latina TV (1080p)
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Religious;Language: Spanish",LGD Television (720p)
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Entertainment;Language: Spanish",Mas Talk (1080p)
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Animation;Language: Spanish",MAX Anime (1080p)
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Sports;Language: Spanish",Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Monagas Vision (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Entertainment;Language: Spanish",Nortena Tv (576p)
+https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Oasis Television (720p) [Not 24/7]
+http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Onza TV (720p)
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Music;Language: Spanish",Oxigeno TV (360p) [Not 24/7]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Lifestyle;Language: Spanish",Plous TV (1080p)
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Portuguesa Television (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Religious;Language: Spanish",Proclamacion TV [Not 24/7]
+https://video2.getstreamhosting.com:19360/8000/8000.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",PromarTV (576p)
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Religious;Language: Spanish",Reforma TV (1080p)
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Culture;Type: Music;Language: Spanish",ShowVen TV (720p)
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Travel;Language: Spanish",Sun Channel (720p)
+http://168.196.127.137:6001/play/a06p/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",TAM TV
+https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Telebocono (720p) [Not 24/7]
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: News;Language: Spanish",Telesur (1080p)
+http://181.78.211.244:8005/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Televen (1080p)
+http://38.134.250.110:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Televisora de Oriente (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",TNO Radio (720p)
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Torococo TV (720p) [Not 24/7]
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",TV Andes (720p) [Not 24/7]
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Family;Language: Spanish",TV Familia (720p)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",TV Oasis Monay (1080i)
+https://live.teve.pro/live/tvoasis/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",TVM para ti (1080p)
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Vale TV (480p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: Entertainment;Language: Spanish",Ve Plus (720p)
+http://186.148.196.100:8000/play/a01d
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Venevision (576p)
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Venevision Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Vepaco TV (480p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Country: Venezuela;Type: General;Language: Spanish",Wata Vision
+https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8

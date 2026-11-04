@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="AW" tvg-language="nld,pap" group-title="Country: Aruba;Type: Culture;Language: Dutch;Language: Papiamento",Balchi TV
+https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8
+#EXTINF:-1 tvg-country="AW" tvg-language="nld,pap" group-title="Country: Aruba;Type: Music;Language: Dutch;Language: Papiamento",Cool FM 98.9 (720p)
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 tvg-country="AW" tvg-language="nld,pap" group-title="Country: Aruba;Type: Music;Language: Dutch;Language: Papiamento",Heart Radio Aruba
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-country="AW" tvg-language="nld,pap" group-title="Country: Aruba;Type: Music;Language: Dutch;Language: Papiamento",Power 101.7 FM (720p)
+https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
+#EXTINF:-1 tvg-country="AW" tvg-language="nld,pap" group-title="Country: Aruba;Type: Music;Language: Dutch;Language: Papiamento",Wavez FM
+https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
+#EXTINF:-1 tvg-country="AW" tvg-language="nld,pap" group-title="Country: Aruba;Type: Music;Language: Dutch;Language: Papiamento",X 102.7 FM
+https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8

@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Stars (1080p)
+http://89.33.29.115:8080/IL_5Stars/index.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Language: Arabic;Language: Hebrew",Comedy Channel (1080p)
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: General;Language: Arabic;Language: Hebrew",Hala TV (1080p) [Not 24/7]
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Lifestyle;Language: Arabic;Language: Hebrew",Health Channel (1080p)
+http://89.33.29.115:8080/Health/index.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Religious;Language: Arabic;Language: Hebrew",Hidabroot (1080p)
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Kids;Language: Arabic;Language: Hebrew",Hop! (1080p)
+http://stream.mcquack.net/44/index.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",i24NEWS Arabic (1080p)
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",i24NEWS English World (1080p)
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",i24NEWS French (1080p)
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",i24NEWS Hebrew (1080p)
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Religious;Language: Arabic;Language: Hebrew",Kabbalah for the People Israel (504p) [Not 24/7]
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: General;Language: Arabic;Language: Hebrew",Kan 11 (1080p)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Education;Language: Arabic;Language: Hebrew",Kan Educational (720p)
+http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",Makan 33 (1080p)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: General;Language: Arabic;Language: Hebrew",Now 14 (1080p)
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Entertainment;Language: Arabic;Language: Hebrew",Reality Channel
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Religious;Language: Arabic;Language: Hebrew",Shelanu.TV (720p)
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Entertainment;Language: Arabic;Language: Hebrew",Vacation Channel
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: General;Language: Arabic;Language: Hebrew",Viva Premium (1080p)
+http://stream.mcquack.net/43/index.m3u8

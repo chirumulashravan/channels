@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Entertainment;Language: Burmese",Channel K (720p)
+https://mmtvs.exliatycl.online/channelk/stream.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: News;Language: Burmese",DVB TV (720p)
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Entertainment;Language: Burmese",Fortune TV (720p)
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Legislative;Language: Burmese",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Entertainment;Language: Burmese",M Entertainment Channel (720p)
+https://mmtvs.exliatycl.online/mchannel/stream.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Entertainment;Language: Burmese",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Documentary;Type: Lifestyle;Language: Burmese",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: News;Language: Burmese",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Culture;Language: Burmese",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Sports;Language: Burmese",MRTV Sports [Not 24/7]
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: General;Language: Burmese",MWD (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Documentary;Language: Burmese",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Movies;Language: Burmese",MWD Movies [Not 24/7]
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: Entertainment;Language: Burmese",MWD Variety (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-country="MM" tvg-language="mya" group-title="Country: Myanmar;Type: General;Language: Burmese",Myanmar International TV
+https://mrtvott.com/cache/MITV/master.m3u8

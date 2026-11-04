@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: Religious;Language: English;Language: Swahili",3ABN TV Uganda (720p) [Not 24/7]
+https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: General;Type: Music;Language: English;Language: Swahili",ACW UG TV (480p)
+https://live.acwugtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: Religious;Language: English;Language: Swahili",Alpha Digital (480p)
+https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: Religious;Language: English;Language: Swahili",Ark TV (1080p) [Not 24/7]
+https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: General;Language: English;Language: Swahili",BTM TV (480p) [Not 24/7]
+https://btmug.zerocdn.org/hls/stream.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: General;Language: English;Language: Swahili",Bukedde TV 1 (576p)
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: General;Language: English;Language: Swahili",Bukedde TV 2 (576p) [Not 24/7]
+https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: General;Language: English;Language: Swahili",Faraja Television (1080p) [Not 24/7]
+https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: Entertainment;Language: English;Language: Swahili",FORT TV (480p)
+https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: Religious;Language: English;Language: Swahili",Gugudde TV (480p)
+https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: General;Language: English;Language: Swahili",KRC TV
+https://channels.ad-ug.com/live/ch03/index.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: Religious;Language: English;Language: Swahili",KSTV Uganda
+https://live.esteem.africa/kstv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: General;Language: English;Language: Swahili",Rwenzori TV
+https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: General;Language: English;Language: Swahili",Tayari West TV (1080p)
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Country: Uganda;Type: General;Language: English;Language: Swahili",Wan Luo TV (576p)
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8

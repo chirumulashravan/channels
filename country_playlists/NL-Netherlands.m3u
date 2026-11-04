@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",1AlmereTV (720p)
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",1Twente TV (1080p)
+https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",360TuneBox (1080p)
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Altena TV (720p)
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Assen TV (720p)
+https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Type: Entertainment;Language: Dutch",BEATTV (1080p)
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",BNR Nieuwsradio (720p)
+https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",BR6 TV (720p)
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",BVN (576p)
+https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",Dance Television (1080p)
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",Deep House District (1080p)
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Den Haag TV (1080p) [Not 24/7]
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Dit is Helmond (480p)
+http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Documentary;Language: Dutch",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",DTV Den Bosch (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",DTV Maashorst (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",DTV Oss & Bernheze (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Sports;Language: Dutch",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Lifestyle;Language: Dutch",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Feel Good TV (720p) [Not 24/7]
+https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",Gigant FM (720p)
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Haarlem105 TV (720p)
+https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",HTR TV (720p)
+https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",Hype Visual Radio (1080p)
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Ideaal TV (480p) [Not 24/7]
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Lifestyle;Language: Dutch",INFAST (1080p)
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Travel;Language: Dutch",INTRAVEL (1080p)
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Auto;Type: Sports;Type: Outdoor;Language: Dutch",InTrouble (1080p)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Documentary;Language: Dutch",INWILD (1080p)
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Science;Language: Dutch",InWonder (1080p)
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Culture;Language: Dutch",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",KempenTV (480p)
+http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",L1 TV (720p) [Not 24/7]
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Langstraat TV (720p)
+https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Lansingerland TV (720p)
+https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",LEO Middelse TV (480p)
+https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",LINQ TV (480p)
+https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",LOE TV (720p)
+https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Lokale Omroep Zeewolde (720p)
+https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",LON TV (720p)
+https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Entertainment;Language: Dutch",Magic PowerRadio (288p) [Not 24/7]
+https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Entertainment;Language: Dutch",MaLive (1080p)
+https://live.salto.nl/hls/malive_high.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Meer TV (720p) [Not 24/7]
+https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",MerweTV (720p)
+https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",ML5 TV (480p)
+https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Type: News;Language: Dutch",NH (1080p)
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",NOOS TV (720p)
+https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",NPO 1 (360p)
+https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Brabant (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Brabant Radio (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Centraal TV (480p) [Not 24/7]
+https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Dommelland (720p)
+https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Flevoland (720p) [Not 24/7]
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Hoeksche Waard (480p)
+https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Hulst (720p) [Not 24/7]
+https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Land van Cuijk (720p)
+https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Lingewaard (720p)
+https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Meierijstad (480p)
+https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Ons West Brabant (480p)
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Peelrand (720p)
+https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Sudwest (720p)
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Tilburg (480p)
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Venlo (720p)
+https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Venray (720p)
+https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omroep Zeeland (1080p)
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Omrop Fryslan (1080p) [Not 24/7]
+https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",OOG TV (720p)
+https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",OPEN Rotterdam TV (480p) [Not 24/7]
+https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",ORTS TV (480p) [Not 24/7]
+https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Podium.TV 2 (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Podium.TV 3 (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Podium.TV (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Radio 10 (720p)
+https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Radio 350 (360p) [Not 24/7]
+https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Radio 538 (270p)
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Radio Aalsmeer TV (720p) [Not 24/7]
+https://radioaalsmeer.nl:4443/live/tv.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",Radio JND (1080p)
+https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",Radio Stad den Haag (720p)
+https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",RadioNL TV (1080p) [Not 24/7]
+https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Entertainment;Language: Dutch",RadioToppers (720p)
+https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",Rararadio (720p)
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Regio90 TV (720p)
+https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Regio TV De Bilt (720p)
+https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Regio TV Nieuws (1080p) [Not 24/7]
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RN7 (1080p)
+https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",RPL Woerden (720p)
+https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Arnhem TV (480p) [Not 24/7]
+https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Drenthe (1080p)
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV GO! (1080p) [Not 24/7]
+http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Horizon (720p)
+https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",RTV LOVE (720p)
+https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Maastricht (720p) [Not 24/7]
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",RTV Meppel (720p)
+https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV NOF Achtkarspelen & Tytsjerksteradiel (720p)
+https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Noord (720p) [Not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Noord Extra (1080p) [Not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Noordoost Friesland (720p) [Not 24/7]
+https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Oost (720p)
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",RTV Parkstad (1080p)
+https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Purmerend (720p)
+https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Rijnmond (1080p)
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",RTV Rijnmond Extra (1080p)
+http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Rijnstreek TV (720p) [Not 24/7]
+https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV SLOS (720p)
+https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Utrecht (1080p)
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Veluwezoom TV (720p)
+https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",RTV Westerwolde (432p)
+https://media.rtvwesterwolde.nl/hls/live/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",RTV Zulthe (720p)
+http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Entertainment;Language: Dutch",Salto 1 (720p)
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Culture;Language: Dutch",Salto 2 (720p)
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Salto 4 (720p)
+https://salto-streams.nl/hls/sotv2.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Salto ADE (720p)
+https://live.salto.nl/hls/at5.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",Salto Brasa Music (1080p)
+https://salto-streams.nl/hls/sotv1.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Entertainment;Language: Dutch",SBS6 Classics (1080p)
+https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Schie TV (576i)
+https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Siris TV (720p)
+https://cdn.streammy.events/siris/playout/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Sleutelstad TV (720p)
+https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Slotstad TV (720p)
+https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",SOL2 (1080p)
+https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",SRC TV (720p)
+http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Streekstad Central (1080p)
+https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",StreekTV (720p) [Not 24/7]
+http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",Studio040 TV (720p)
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Studio Rheden (1080p)
+https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Classic;Type: Music;Language: Dutch",TMF (1080p)
+https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",TV Ellef (1080p)
+http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",TV Rain (1080p)
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Enquetezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Tweede Kamer: Klompezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Plenaire zaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Tilanuskamer (1080p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Legislative;Language: Dutch",Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",UStad (1080p)
+http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",Vechtdal TV (480p)
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: General;Language: Dutch",WeertFM TV (720p)
+https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",WOS (1080p)
+https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",XITE (720p)
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",XITE Classic Country (720p)
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",XITE Hits (1080p)
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",XITE Just Chill (1080p)
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",XITE Reggae Vibes (1080p)
+https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",XITE Rock x Metal (1080p)
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",XON (480p) [Not 24/7]
+http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Music;Language: Dutch",ZFM Zoetermeer TV (720p)
+https://zfmzoetermeer.nl/live/master.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",ZO!34 (720p)
+https://video.uitzending.tv:19360/zo34/zo34.m3u8

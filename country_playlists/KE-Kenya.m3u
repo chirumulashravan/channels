@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",3 Stones TV (240p) [Not 24/7]
+https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Kids;Language: English;Language: Swahili",Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Aviation TV (480p)
+http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Capuchin TV
+https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Clergy TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",CMTv Kenya (576p) [Not 24/7]
+https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Dacwa TV (576p) [Not 24/7]
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",EBN TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Elevate TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",GTN TV (1080p) [Not 24/7]
+https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Heaven Bound TV (480p) [Not 24/7]
+https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",His Grace TV (480p) [Not 24/7]
+https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",HLC TV (480p) [Not 24/7]
+https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",Inooro TV
+https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",JCM TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",K24 (1080p)
+https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",Kass TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: News;Language: English;Language: Swahili",Lolwe TV (576p) [Not 24/7]
+https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",Luyaa TV (480p) [Not 24/7]
+https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",MERU TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",MOF TV
+https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Morning Cloud TV (720p)
+https://livecdn.live247stream.com/mc/tv/playlist.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Muugi TV (480p) [Not 24/7]
+https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Mwangaza TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Ndurumeni TV (480p) [Not 24/7]
+https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",Nice TV Kenya (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: General;Language: English;Language: Swahili",Njata TV (576p) [Not 24/7]
+https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Pillar TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Language: English;Language: Swahili",Raia TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Sayare TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Urejesho TV Africa (360p) [Not 24/7]
+https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
+#EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Country: Kenya;Type: Religious;Language: English;Language: Swahili",YOUNIB Media TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8

@@ -24,10 +24,10 @@ jobs:
 
       - name: Commit playlist changes
         run: |
-          if ! git diff --quiet -- channels.m3u; then
+          git add -A -- '*.m3u' country_playlists/ .generated-source-playlists.json
+          if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add channels.m3u
             git commit -m "Update channel playlist"
             git push
           fi

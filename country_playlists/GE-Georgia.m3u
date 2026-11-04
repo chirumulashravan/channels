@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: Sports;Language: Georgian",Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: General;Language: Georgian",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: Business;Language: Georgian",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: Religious;Language: Georgian",Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: News;Language: Georgian",Euronews Georgia
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: News;Language: Georgian",Formula (1080p)
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: General;Language: Georgian",GDS TV
+http://31.146.5.178:8087/play/a00a/index.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: General;Language: Georgian",Imedi TV (1080p)
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: General;Language: Georgian",Mtavari Arkhi
+https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: News;Language: Georgian",Obieqtivi TV
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: News;Language: Georgian",Palitra News (480p) [Not 24/7]
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Language: Georgian",Rioni TV (720p) [Not 24/7]
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Language: Georgian",Rustavi 2
+http://31.146.5.178:8087/play/a008/index.m3u8
+#EXTINF:-1 tvg-country="GE" tvg-language="kat" group-title="Country: Georgia;Type: General;Language: Georgian",TV Pirveli
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts

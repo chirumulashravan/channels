@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="NA" tvg-language="afr,deu,eng,her,hgm,kwn,loz,ndo,tsn" group-title="Country: Namibia;Type: General;Language: Afrikaans;Language: German;Language: English;Language: Herero;Language: Haiǁom;Language: Kwangali;Language: Lozi;Language: Ndonga;Language: Tswana",NBC 1 [Not 24/7]
+https://hls2.nbcplus.na/hls/high_nbc1.m3u8
+#EXTINF:-1 tvg-country="NA" tvg-language="afr,deu,eng,her,hgm,kwn,loz,ndo,tsn" group-title="Country: Namibia;Type: Music;Language: Afrikaans;Language: German;Language: English;Language: Herero;Language: Haiǁom;Language: Kwangali;Language: Lozi;Language: Ndonga;Language: Tswana",Tjil TV (720p)
+https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8

@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Religious;Language: Chinese",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Religious;Language: Chinese",CGNTV Chinese (1080p)
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: General;Language: Chinese",CTi Variety (720p)
+http://23.237.10.66:16372
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: News;Language: Chinese",CTS News
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: General;Language: Chinese",DaAi 1 (720p)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: General;Language: Chinese",DaAi 2 (1080p)
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: General;Language: Chinese",Dali TV (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Entertainment;Language: Chinese",Discovery Asia Taiwan (1080p)
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: News;Language: Chinese",EBC Financial News (1080p) [Not 24/7]
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Movies;Language: Chinese",EBC Foreign Movie
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: News;Language: Chinese",EBC News (1080p) [Not 24/7]
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: General;Language: Chinese",FTV One (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: News;Language: Chinese",FTV Taiwan (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Religious;Language: Chinese",Good 2 (720p)
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Culture;Language: Chinese",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Culture;Language: Chinese",Indigenous TV (720p)
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Shop;Language: Chinese",MOMO TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Language: Chinese",PTS 3
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: News;Language: Chinese",SET News (1080p)
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Language: Chinese",SJTV
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Language: Chinese",Supreme Master TV (720p)
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: General;Language: Chinese",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Language: Chinese",Taiwan Plus TV (1080p)
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: News;Language: Chinese",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: News;Language: Chinese",TVBS News
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Entertainment;Language: Chinese",TVBS-Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Country: Taiwan;Type: Religious;Language: Chinese",WXTV (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

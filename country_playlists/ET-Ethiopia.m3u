@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="ET" tvg-language="amh" group-title="Country: Ethiopia;Type: General;Language: Amharic",Addis TV (720p)
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="ET" tvg-language="amh" group-title="Country: Ethiopia;Type: News;Language: Amharic",Mereja TV
+https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="ET" tvg-language="amh" group-title="Country: Ethiopia;Type: Religious;Language: Amharic",Nesiha TV (720p)
+https://stream.cisk.tech/nasihatv/index.m3u8
