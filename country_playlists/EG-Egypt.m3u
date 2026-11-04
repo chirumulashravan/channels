@@ -29,7 +29,3 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-country="EG" tvg-language="ara" group-title="Country: Egypt;Type: General;Language: Arabic",Watan TV (1080p)
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-country="EG" tvg-language="ara" group-title="Country: Egypt;Type: General;Language: Arabic",Mbc Masr
-http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7768.ts
-#EXTINF:-1 tvg-country="EG" tvg-language="ara" group-title="Country: Egypt;Type: General;Language: Arabic",Mbc Masr 2
-http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7769.ts
