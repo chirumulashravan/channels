@@ -101,3 +101,5 @@ https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
 #EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Waar TV (1080p)
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",MBC IRAQ
+http://my.forcetv.pro:8880/live/eJuxRCgKsb/c0OOJn2D2e/7775.ts

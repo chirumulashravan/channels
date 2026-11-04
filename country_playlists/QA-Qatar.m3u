@@ -29,3 +29,5 @@ https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
 #EXTINF:-1 tvg-country="QA" tvg-language="ara" group-title="Country: Qatar;Type: Business;Type: News;Language: Arabic",QBC (1080p)
 https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
+#EXTINF:-1 tvg-country="QA" tvg-language="ara" group-title="Country: Qatar;Type: News;Language: Arabic",الجزيرة 2
+http://my.forcetv.pro:8880/movie/eJuxRCgKsb/c0OOJn2D2e/128.mkv
