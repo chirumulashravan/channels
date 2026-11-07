@@ -65,7 +65,7 @@ https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3
 https://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Canal 25 TV (1080p)
 https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Canal 33 Madrid
+#EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Canal 33 Madrid (720p)
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Canal 2000 (720p) [Not 24/7]
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
@@ -189,7 +189,7 @@ https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain;Type: General;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",La 1 Catalunya (720p)
 https://ztnr.rtve.es/ztnr/3293681.m3u8
-#EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain;Type: General;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",La 2
+#EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain;Type: General;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",La 2 (720p)
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain;Type: General;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",La 2 Canarias (720p)
 https://ztnr.rtve.es/ztnr/5468585.m3u8

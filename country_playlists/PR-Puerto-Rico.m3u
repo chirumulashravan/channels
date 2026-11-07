@@ -9,7 +9,7 @@ https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playl
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Type: Religious;Language: English;Language: Spanish",DNJ TV (720p)
 https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
-#EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Type: Religious;Language: English;Language: Spanish",Familia Vision HD [Not 24/7]
+#EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Type: Religious;Language: English;Language: Spanish",Familia Vision HD (1080p) [Not 24/7]
 https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Type: Religious;Language: English;Language: Spanish",Faro de Santidad TV (720p)
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
@@ -40,6 +40,6 @@ https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Language: English;Language: Spanish",WIPR-TV 6.1 (1080p)
 https://streamwipr.pr/hls/stream/index.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Language: English;Language: Spanish",WKAQ-TV 2.2 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Language: English;Language: Spanish",WXWZ-LD 23.1 (720p)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8

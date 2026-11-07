@@ -3,7 +3,7 @@
 https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
 #EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: Music;Language: Croatian",CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: General;Language: Croatian",Diadora TV
+#EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: General;Language: Croatian",Diadora TV (720p)
 https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Country: Croatia;Type: Music;Language: Croatian",Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8

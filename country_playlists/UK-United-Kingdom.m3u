@@ -93,7 +93,7 @@ http://193.46.58.239:8080/CBBCHD/index.m3u8
 http://45.14.84.37/bbc4/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Brit Asia TV (1080p)
 https://hls.autopo.st/hls/britasiatv/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Canaf54 TV
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Canaf54 TV (480p)
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Animation;Type: Kids;Language: English",Cartoon Network CEE
 http://193.33.39.108:9007/play/a00l
@@ -261,8 +261,8 @@ https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Relax;Type: Travel;Language: English",Space Live powered by sen (1080p)
 https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",Strongman Champions League (720p)
-https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",Strongman Champions League (1080p)
+https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Takbeer TV (720p)
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Talking Pictures TV (576p)
@@ -290,7 +290,7 @@ https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Shop;Language: English",TJC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",TNT Sports 1
-http://37.49.224.5:80/stream/1/index.m3u8
+http://37.49.224.5/stream/1/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Together TV (576p)
 http://92.114.85.72:8000/play/a0j8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Type: Auto;Language: English",Top Gear (720p)

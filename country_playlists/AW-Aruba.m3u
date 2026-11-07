@@ -9,5 +9,5 @@ https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
 #EXTINF:-1 tvg-country="AW" tvg-language="nld,pap" group-title="Country: Aruba;Type: Music;Language: Dutch;Language: Papiamento",Wavez FM
 https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
-#EXTINF:-1 tvg-country="AW" tvg-language="nld,pap" group-title="Country: Aruba;Type: Music;Language: Dutch;Language: Papiamento",X 102.7 FM
+#EXTINF:-1 tvg-country="AW" tvg-language="nld,pap" group-title="Country: Aruba;Type: Music;Language: Dutch;Language: Papiamento",X 102.7 FM (720p)
 https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8

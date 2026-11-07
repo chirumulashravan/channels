@@ -12,9 +12,9 @@ https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: Kids;Language: Arabic;Language: Hebrew",Hop! (1080p)
 http://stream.mcquack.net/44/index.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",i24NEWS Arabic (1080p)
-https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",i24NEWS English World (1080p)
-https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",i24NEWS French (1080p)
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",i24NEWS Hebrew (1080p)

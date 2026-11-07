@@ -53,8 +53,6 @@ https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Ontustik (360p)
 https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Qazaqstan (576p)
-https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Sports;Language: Kazakh;Language: Russian",QazSport (1080p)

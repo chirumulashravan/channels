@@ -125,7 +125,7 @@ https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
 https://edge.essastream.com/enntivision/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",entelevision (1080p) [Not 24/7]
 https://stream.haislin.com/entelevision/index.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Enterate RD [Not 24/7]
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Enterate RD (1080p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Entuno TV (1080p) [Not 24/7]
 https://soportedvb.click:3442/live/entunotvlive.m3u8
@@ -173,7 +173,7 @@ https://edge.essastream.com/lacaletatv/playlist.m3u8
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",La Hora TV (720p) [Not 24/7]
 https://edge.enhdtv.com/8206/index.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",La Reina TV
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",La Reina TV (360p)
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",La Ruta TV
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
@@ -187,7 +187,7 @@ https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8
 https://live.larivision.net/livelan/live.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Latina TV Internacional (720p)
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Lena TV [Not 24/7]
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Lena TV (614p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: News;Language: Spanish",Linieros TV (480p) [Not 24/7]
 https://soportedvb.click:3017/live/linierostvlive.m3u8
@@ -201,7 +201,7 @@ https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
 https://live.obslivestream.com/makaomux/index.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Makina TV (720p) [Not 24/7]
 https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Manaclar Television [Not 24/7]
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Manaclar Television (1080p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Maniel TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/manieltv/manieltv/playlist.m3u8
@@ -231,13 +231,13 @@ https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Navarrete Television (1080p) [Not 24/7]
 https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Nexxo TV
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Nexxo TV (1080p)
 https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Entertainment;Language: Spanish",Nitida TV (720p) [Not 24/7]
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: News;Language: Spanish",Noticias 16 (720p) [Not 24/7]
 https://edge.essastream.com/noticias16/playlist.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Notisur TV [Not 24/7]
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Notisur TV (720p) [Not 24/7]
 https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Nueva Vision 14 (1080p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
@@ -261,7 +261,7 @@ https://fox.hostlagarto.com:8081/pulatv/index.m3u8
 https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Punto TV (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/puntotv/index.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Punto TV Digital 40
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Punto TV Digital 40 (360p)
 https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",R Television [Not 24/7]
 https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
@@ -315,7 +315,7 @@ https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 https://teleola.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Tele Poder TV (720p) [Not 24/7]
 https://cdn.telepoder.online:3229/dash/stream.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Tele Proyecto TV [Not 24/7]
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Tele Proyecto TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Telealtura (1080p) [Not 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/telealtura/playlist.m3u8
@@ -405,7 +405,7 @@ https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
 https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Villa Altagracia TV (1080p) [Not 24/7]
 https://stream.inliveserver.com:19360/8004/8004.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Vision 3000
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Vision 3000 (720p)
 https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Entertainment;Language: Spanish",Vision NDV (720p) [Not 24/7]
 https://soportedvb.click:3891/live/visionndvlive.m3u8
@@ -419,5 +419,5 @@ https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 https://cloud5.zastv.net/hls/zastv.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Zinc Nombre TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Zonavision TV [Not 24/7]
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Zonavision TV (720p) [Not 24/7]
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8

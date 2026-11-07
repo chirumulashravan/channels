@@ -55,7 +55,7 @@ http://95.105.193.219:88/hls/tvm.m3u8
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Country: Slovakia;Type: Legislative;Language: Slovak;Language: Czech",TV NRSR (720p) [Not 24/7]
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Country: Slovakia;Type: General;Language: Slovak;Language: Czech",TV Panorama
+#EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Country: Slovakia;Type: General;Language: Slovak;Language: Czech",TV Panorama (1080p)
 https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Country: Slovakia;Type: General;Language: Slovak;Language: Czech",TV Poprad (1080p) [Not 24/7]
 http://213.81.153.221:8080/poprad

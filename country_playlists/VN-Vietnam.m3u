@@ -50,7 +50,7 @@ https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: News;Type: General;Language: Vietnamese",HTV9 (720p)
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Sports;Language: Vietnamese",HTV Sports (1080i)
-https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+https://vmttv.dpdns.org/tv360?id=htv-the-thao
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Family;Language: Vietnamese",HTVC Family (720p)
 https://dethich.pw/htvcgiadinh/index.m3u8
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Series;Type: Movies;Language: Vietnamese",HTVC Movies (720p)
@@ -80,7 +80,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Lifestyle;Language: Vietnamese",ON O2TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Series;Language: Vietnamese",ON Phim Viet (1080p)
-https://vmttv.dpdns.org/tv360/?id=175
+https://vmttv.dpdns.org/tv360?id=175
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Lifestyle;Language: Vietnamese",ON Style TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Entertainment;Language: Vietnamese",ON Vie Dramas (1080i)

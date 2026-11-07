@@ -70,9 +70,9 @@ http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-country="HU" tvg-language="hun" group-title="Country: Hungary;Type: General;Language: Hungarian",Makoi Varosi Televizio (576p)
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
 #EXTINF:-1 tvg-country="HU" tvg-language="hun" group-title="Country: Hungary;Type: Sports;Language: Hungarian",Match4 (1080p)
-http://141.94.193.53:80/Match4_HD/index.m3u8
+http://141.94.193.53/Match4_HD/index.m3u8
 #EXTINF:-1 tvg-country="HU" tvg-language="hun" group-title="Country: Hungary;Type: Movies;Language: Hungarian",MAX4 (1080p)
-http://141.94.193.53:80/MAX4_HD/index.m3u8
+http://141.94.193.53/MAX4_HD/index.m3u8
 #EXTINF:-1 tvg-country="HU" tvg-language="hun" group-title="Country: Hungary;Type: General;Language: Hungarian",Mezokovesdi Televizio (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="HU" tvg-language="hun" group-title="Country: Hungary;Type: General;Language: Hungarian",Mora-Net TV (576p)

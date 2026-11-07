@@ -37,7 +37,7 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-language="ell" group-title="Country: Greece;Type: General;Language: Greek",ENA Channel (1080p)
 https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-language="ell" group-title="Country: Greece;Type: General;Language: Greek",Epiloges TV
+#EXTINF:-1 tvg-country="GR" tvg-language="ell" group-title="Country: Greece;Type: General;Language: Greek",Epiloges TV (480p)
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-language="ell" group-title="Country: Greece;Type: General;Language: Greek",Epirus TV1 (720p)
 https://rtmp.win:3929/live/epiruslive.m3u8
@@ -65,7 +65,7 @@ https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-language="ell" group-title="Country: Greece;Type: General;Language: Greek",Kriti TV (1080p)
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-language="ell" group-title="Country: Greece;Type: General;Language: Greek",Lepanto TV
+#EXTINF:-1 tvg-country="GR" tvg-language="ell" group-title="Country: Greece;Type: General;Language: Greek",Lepanto TV (1080p)
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-language="ell" group-title="Country: Greece;Type: General;Language: Greek",Mesogeios TV (720p)
 https://rtmp.win:3793/live/mesogeiostvlive.m3u8

@@ -47,7 +47,7 @@ http://185.246.209.113/ANIMALPLANETHD/index.m3u8
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: General;Language: English;Language: French",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Culture;Language: English;Language: French",Doyel TV
+#EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Culture;Language: English;Language: French",Doyel TV (1080p)
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Culture;Language: English;Language: French",Dukh Nivaran (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
@@ -99,7 +99,7 @@ http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Documentary;Language: English;Language: French",Love Pets (1080p)
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Entertainment;Language: English;Language: French",MHZ
+#EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Entertainment;Language: English;Language: French",MHZ (720p)
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Culture;Language: English;Language: French",Montreal Greek TV (480p)
 http://live.greektv.ca/hls1/greektv.m3u8
@@ -125,7 +125,7 @@ https://stream.ottlive.co.in/ptccanada/index.m3u8
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Religious;Language: English;Language: French",Quo Vadis TV (720p)
 https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
-#EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Religious;Language: English;Language: French",Radio Tele Evangile Sans Limite
+#EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Religious;Language: English;Language: French",Radio Tele Evangile Sans Limite (1080p)
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Language: English;Language: French",Sardari TV (1080p) [Not 24/7]
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8

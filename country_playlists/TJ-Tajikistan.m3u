@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Badakhshon (576p)
-https://live.teleradiocom.tj/11/3m.m3u8
+http://185.121.1.163:8083/Badakhshon/index.m3u8
 #EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Dushanbe HD (1080p)
-https://live.teleradiocom.tj/7/3m.m3u8
+http://185.121.1.163:8083/DushanbeHD/index.m3u8
 #EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: Sports;Language: Russian;Language: Tajik",Futbol (1080p)
-https://live.teleradiocom.tj/8/3m.m3u8
+http://185.121.1.163:8083/FootballHD/index.m3u8
 #EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: Science;Language: Russian;Language: Tajik",Ilm va Tabiat (1080p)
 https://live.teleradiocom.tj/15/3m.m3u8
 #EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Jahonnamo (1080p)

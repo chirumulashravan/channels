@@ -9,7 +9,7 @@ http://stream.apa.tv/apastream/index.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Az TV (1080p)
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",Baku.TV
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",Baku.TV (1080p)
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: Sports;Language: Azerbaijani;Language: Russian",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8

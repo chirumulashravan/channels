@@ -5,7 +5,7 @@ https://hls.247box.live/hls/stream.m3u8
 https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Country: Iran;Type: General;Language: Persian",Aflak TV
 https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
-#EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Country: Iran;Type: Music;Language: Persian",AFN TV
+#EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Country: Iran;Type: Music;Language: Persian",AFN TV (720p)
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Country: Iran;Type: Movies;Language: Persian",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
@@ -87,7 +87,7 @@ https://live.presstv.co.uk/hls/ifilmen.m3u8
 https://live.presstv.co.uk/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Country: Iran;Type: General;Language: Persian",Ilam TV
 https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
-#EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Country: Iran;Type: Religious;Language: Persian",Iran Jewish TV
+#EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Country: Iran;Type: Religious;Language: Persian",Iran Jewish TV (720p)
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Country: Iran;Type: News;Language: Persian",Iran Press
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8

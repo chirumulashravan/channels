@@ -59,7 +59,7 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: Music;Language: English;Language: Urdu",Jalwa TV
 http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
-#EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: General;Language: English;Language: Urdu",Jeremiah TV
+#EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: General;Language: English;Language: Urdu",Jeremiah TV (720p)
 https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: Music;Language: English;Language: Urdu",JooMusic (720p)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
@@ -131,7 +131,7 @@ http://103.250.28.74:8000/play/a00v/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Language: English;Language: Urdu",Star Asia (720p)
 http://103.250.28.74:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: News;Language: English;Language: Urdu",Such TV
+#EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: News;Language: English;Language: Urdu",Such TV (1080p)
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: News;Language: English;Language: Urdu",Suno News HD (1080p)
 http://103.250.28.74:8000/play/a02a/index.m3u8

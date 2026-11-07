@@ -28,7 +28,7 @@ https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Legislative;Language: Spanish",Legislative Assembly of El Salvador (1080p) [Not 24/7]
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Megavision Canal 19 (720p)
-https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+http://45.167.1.138:8000/play/a02b
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Megavision Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",Mizpa TV (1080p)

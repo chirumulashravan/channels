@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Movies;Language: English;Language: Spanish",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",3ABN English
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",3ABN English (720p)
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",3ABN French
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",3ABN French (720p)
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",3ABN International (720p)
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Kids;Type: Religious;Type: Animation;Language: English;Language: Spanish",3ABN Kids
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Kids;Type: Religious;Type: Animation;Language: English;Language: Spanish",3ABN Kids (720p)
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",3ABN Latino (1080p)
 http://138.59.177.78:9999/play/a0a3/index.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Type: Religious;Language: English;Language: Spanish",3ABN Praise Him Music Network
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Type: Religious;Language: English;Language: Spanish",3ABN Praise Him Music Network (720p)
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",3ABN Proclaim! Network
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",3ABN Proclaim! Network (720p)
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",5 Cops
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Family;Language: English;Language: Spanish",6 Wise Tv (720p)
-https://live.enhdtv.com:8081/8150/index.m3u8
+https://edge.enhdtv.com/8150/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Movies;Language: English;Language: Spanish",24 Hour Free Movies (720p)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Outdoor;Language: English;Language: Spanish",30A Darcizzle Offshore (720p)
@@ -101,7 +101,7 @@ https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",ABN Urdu (540p)
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Absolute Reality by WE TV
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Absolute Reality by WE TV (1080p)
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
@@ -149,9 +149,9 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Outdoor;Language: English;Language: Spanish",AKC TV (1080p)
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Outdoor;Language: English;Language: Spanish",AKC TV Meet the Breeds
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Outdoor;Language: English;Language: Spanish",AKC TV Meet the Breeds (1080p)
 https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Outdoor;Language: English;Language: Spanish",AKC TV Puppies
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Outdoor;Language: English;Language: Spanish",AKC TV Puppies (1080p)
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
@@ -181,7 +181,7 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",All Reality by WE tv (720p)
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",All Weddings WE tv
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",All Weddings WE tv (1080p)
 https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",ALLBLK Gems (720p)
 https://df1zke3zj042m.cloudfront.net/playlist.m3u8
@@ -212,7 +212,7 @@ http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Movies;Language: English;Language: Spanish",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Sports;Language: English;Language: Spanish",American Ninja Warrior (1080p)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Business;Language: English;Language: Spanish",Ameritrade (1080p) [Not 24/7]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",AMGA TV (720p) [Not 24/7]
@@ -303,13 +303,13 @@ https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",BATV (480p)
 https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Education;Language: English;Language: Spanish",BATV Educational Channel
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Education;Language: English;Language: Spanish",BATV Educational Channel (1080p)
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",BATV Government Channel
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",BATV Government Channel (1080p)
 https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",BATV Government TV (480p)
 https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",BATV Public Channel
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",BATV Public Channel (1080p)
 https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",Baywatch (1080p)
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
@@ -341,7 +341,7 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",Berks Community TV (1080p)
 https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",Best of BATV Channel
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",Best of BATV Channel (1080p)
 https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Best of Dr Phil
 https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
@@ -385,7 +385,7 @@ https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/li
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Sports;Language: English;Language: Spanish",Billiard TV (1080p)
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",Binge
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",Binge (720p)
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Comedy;Language: English;Language: Spanish",Black Family Sitcoms
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
@@ -419,7 +419,7 @@ https://hls.botflix.tv/radioo/index.m3u8
 https://hls.botflix.tv/tv/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Bounce XL (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",BPX TV Radio
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",BPX TV Radio (720p)
 https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Kids;Language: English;Language: Spanish",Brat TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
@@ -464,7 +464,7 @@ https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Canal de la Fe (720p)
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Kids;Language: English;Language: Spanish",Canal Infantil (1080p)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+http://179.1.196.222:9000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Capital City Connection Montgomery [Not 24/7]
 https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Auto;Language: English;Language: Spanish",Cars.TV (720p)
@@ -644,7 +644,7 @@ http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",CNN (720p)
 https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",CNN en Espanol (1080p)
-https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",CNN International (1080p)
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",CNN Originals (1080p)
@@ -657,14 +657,12 @@ https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Comedy;Language: English;Language: Spanish",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Comedy;Language: English;Language: Spanish",Comedy Central Latin America (1080p)
-https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Comedy;Language: English;Language: Spanish",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Comedy;Language: English;Language: Spanish",Comedy Dynamics (1080p)
 https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",Comercio TV (1080p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960
+http://45.70.201.81:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Comet (1080p)
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Community 12TV (720p)
@@ -701,7 +699,7 @@ https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Animation;Language: English;Language: Spanish",Crunchyroll (720p)
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Cruz TV
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Cruz TV (1080p)
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",CSat TV (1080p) [Not 24/7]
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
@@ -737,7 +735,7 @@ https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Documentary;Language: English;Language: Spanish",Danger TV (720p)
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Dare To Dream Network
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Dare To Dream Network (720p)
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Comedy;Language: English;Language: Spanish",Daria
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
@@ -834,7 +832,7 @@ https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Sports;Language: English;Language: Spanish",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Animation;Language: English;Language: Spanish",DreamWorks Channel Asia (1080p)
-https://cdn12.178.indevs.in/163189/dreamworks
+http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Relax;Type: Travel;Language: English;Language: Spanish",DroneTV (1080p)
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Comedy;Language: English;Language: Spanish",Dry Bar Comedy+ (720p)
@@ -886,7 +884,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Escambia County TV (720p)
 https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",ESNE TV (1080p)
-http://190.217.66.92:8000/play/a0fp/index.m3u8
+http://132.255.210.69:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Sports;Language: English;Language: Spanish",ESPN 2 Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Sports;Language: English;Language: Spanish",ESPN 3 Latin America (1080p)
@@ -945,7 +943,7 @@ https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Sports;Language: English;Language: Spanish",FloRacing (1080p)
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Culture;Language: English;Language: Spanish",Flowers TV USA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Culture;Language: English;Language: Spanish",Flowers TV USA (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Culture;Language: English;Language: Spanish",FNX (1080p)
 https://fnx.lls.pbs.org/index.m3u8
@@ -1016,7 +1014,7 @@ https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",Ghost Hunters (1080p)
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Kids;Language: English;Language: Spanish",Giggle Mug (576p)
-https://tvsen6.aynaott.com/ytv/index.m3u8
+https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Education;Language: English;Language: Spanish",Gillette Public Access Television Channel 189
 https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",Gillette Public Access Television Channel 190
@@ -1133,7 +1131,7 @@ https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Hope4Life TV (720p)
 http://144.217.14.88/hls/hope4life.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Hope Channel Inter-America
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Hope Channel Inter-America (1080p)
 https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Hope Channel Inter-America English (1080p)
 https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8
@@ -1243,7 +1241,7 @@ http://66.242.170.53/hls/live/temp/index.m3u8
 https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",Kenan & Kel
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Kern County TV
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Kern County TV (720p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Kids;Language: English;Language: Spanish",Ketchup TV (720p)
 https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
@@ -1273,9 +1271,9 @@ https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playl
 https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Education;Language: English;Language: Spanish",KOCT Channel 19 (720p)
 https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",KPVM-LD 25.1
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",KPVM-LD 25.1 (720p)
 https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",KRGV-TV 5.2
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",KRGV-TV 5.2 (720p)
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",KSCE 38.1 (360p)
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
@@ -1295,7 +1293,7 @@ https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
 https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Comedy;Language: English;Language: Spanish",Laff (576p)
 http://tvsen7.aynascope.net/laff/index.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Lake Havasu City 4
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Lake Havasu City 4 (360p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",LakeFront TV (720p)
 https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
@@ -1397,7 +1395,7 @@ https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Cooking;Language: English;Language: Spanish",Mad Dog and Merrill (540p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Movies;Language: English;Language: Spanish",Made In Hollywood
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Movies;Language: English;Language: Spanish",Made In Hollywood (720p)
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Documentary;Language: English;Language: Spanish",MagellanTV Now (1080p)
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
@@ -1445,7 +1443,7 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Type: Animation;Type: Kids;Language: English;Language: Spanish",MCN6 Music Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Education;Language: English;Language: Spanish",MCPSS TV
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Education;Language: English;Language: Spanish",MCPSS TV (720p)
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Merit Street (1080p)
 https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
@@ -1458,7 +1456,7 @@ http://38.188.186.47:4000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Mi Musica Reggaeton (1080p)
 http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Mi Musica Romantica (1080p)
-http://181.78.12.119:16123/play/ch54/index.m3u8
+http://168.228.44.241:9999/play/a054/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Mi Musica Salsa (1080p)
 http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Midnight Pulp (1080p)
@@ -1607,13 +1605,13 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_i
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",News12+ Connecticut (1080p)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",News12 Bronx
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",News12 Bronx (1080p)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",News12 Brooklyn
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",News12 Brooklyn (720p)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",News12 Westchester
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",News12 Westchester (1080p)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",News of the World (720p)
 https://nowhls.wns.live/hls/stream.m3u8
@@ -1649,8 +1647,8 @@ http://15.204.246.24:8080/NickHD/index.m3u8
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Kids;Language: English;Language: Spanish",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Kids;Language: English;Language: Spanish",Ninja Kidz TV (720p)
-https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Kids;Language: English;Language: Spanish",Ninja Kidz TV (1080p)
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",NMBTV (720p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Weather;Language: English;Language: Spanish",NorCast Weather (1080p)
@@ -1791,9 +1789,9 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",PHLgovTV (720p)
 https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",PHXTV
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",PHXTV (720p)
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",PixL TV
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",PixL TV (720p)
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Animation;Language: English;Language: Spanish",Placid (1080p) [Not 24/7]
 https://toy.vcdn.fyi/placid/index.m3u8
@@ -2063,8 +2061,8 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Popstar! TV (1080p) [Not 24/7]
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",Portlandia (720p)
-https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",Portlandia (1080p)
+https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Family;Language: English;Language: Spanish",Positiv TV (1080p)
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Potta-Divine TV USA (480p)
@@ -2097,7 +2095,7 @@ https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
 https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Radio Tele Puissance
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Radio Tele Sentinel
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Radio Tele Sentinel (720p)
 https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Radio Tele Wisdom (360p) [Not 24/7]
 https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
@@ -2183,7 +2181,7 @@ https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",SBN TV International (720p)
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",SC Currents
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",SC Currents (1080p)
 https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Business;Language: English;Language: Spanish",Schwab Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
@@ -2200,7 +2198,7 @@ https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",SEC Network (1080p)
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",Semillitas TV (1080p)
-http://168.196.127.137:6001/play/a04y/index.m3u8
+http://38.252.238.18:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Documentary;Language: English;Language: Spanish",Sensing Murder
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",SF Commons 29 (480p)
@@ -2313,7 +2311,7 @@ http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",Stockton Gov TV (720p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Stories by AMC
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Stories by AMC (1080p)
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Sports;Language: English;Language: Spanish",Strongman (720p)
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -2388,7 +2386,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Telemundo Corpus Christi (720p)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",Telemundo Internacional (1080p)
-http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",Telemundo Telenovelas Clasicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Type: Entertainment;Language: English;Language: Spanish",Television Caribe (1080p)
@@ -2473,8 +2471,8 @@ https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 https://wggstv16.ddns.net:9953/hls/walk1.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",The Walking Dead en Espanol (720p)
 https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",The Walking Dead Universe (720p)
-https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",The Walking Dead Universe (1080p)
+https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",The Word Network (1080p)
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",The Young Turks (720p)
@@ -2504,7 +2502,7 @@ https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",TNT Latin America (1080p)
 http://45.171.64.30:6060/play/a03i/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",TNT Novelas (1080p)
-http://190.93.224.42/TNT-NOVELAS/index.m3u8
+http://158.172.155.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",TNT Series Latin America (1080p)
 http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",TODAY All Day (1080p)
@@ -2624,7 +2622,7 @@ http://45.167.1.138:8000/play/a06m
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",Universal TV Latin America (1080p)
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",Univision (1080p)
-http://190.197.41.183/Univision/index.m3u8
+http://38.252.238.18:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",Univision Tlnovelas (1080p)
 http://45.6.4.35/TELENOVELAS/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",Unsolved Mysteries (720p)
@@ -2673,7 +2671,7 @@ https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",Vida Mejor TV (480p)
 https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Video Mix TV
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Video Mix TV (1080p)
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: General;Language: English;Language: Spanish",Vision Latina Network (1080p)
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8
@@ -2685,9 +2683,9 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",VSiN (720p)
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",W14DK-D 14.1
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Religious;Language: English;Language: Spanish",W14DK-D 14.1 (720p)
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",W14DK-D 14.2
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: News;Language: English;Language: Spanish",W14DK-D 14.2 (720p)
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",WACX 55.1 (720p)
 https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
@@ -2797,7 +2795,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Yo! MTV (1080p)
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",YouDotGov
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Legislative;Language: English;Language: Spanish",YouDotGov (1080p)
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Young Hollywood (720p)
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8

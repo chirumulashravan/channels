@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="BS" tvg-language="eng" group-title="Country: Bahamas;Type: News;Language: English",Guardian Talk Radio (1080p)
 https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
-#EXTINF:-1 tvg-country="BS" tvg-language="eng" group-title="Country: Bahamas;Type: Entertainment;Language: English",Island Luck TV
+#EXTINF:-1 tvg-country="BS" tvg-language="eng" group-title="Country: Bahamas;Type: Entertainment;Language: English",Island Luck TV (720p)
 https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-country="BS" tvg-language="eng" group-title="Country: Bahamas;Type: Legislative;Language: English",The Parliamentary Channel (720p) [Not 24/7]
 https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8

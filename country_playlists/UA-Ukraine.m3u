@@ -105,6 +105,8 @@ http://stream.mcquack.net/271/index.m3u8
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: News;Language: Ukrainian",Obshchestvennoe Nezavisimoe Televidenie (576p)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: General;Language: Ukrainian",One Planet (1080p)
+http://dtv.vol.net.ua/OnePlanet/index.m3u8
 #EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: News;Language: Ukrainian",Pershiy XTV Media (576p)
 https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
 #EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: General;Language: Ukrainian",Pershyi (1080p)
@@ -135,7 +137,7 @@ https://hls.simon.ua/live-HD/live/playlist.m3u8
 http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: General;Language: Ukrainian",Suspilne. Kyiv (360p)
 https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
-#EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: Entertainment;Language: Ukrainian",Svarozhychy
+#EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: Entertainment;Language: Ukrainian",Svarozhychy (1080p)
 http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 #EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: General;Language: Ukrainian",Telekanal RAI (480p)
 https://stream.rai.ua/rai/stream.m3u8
@@ -149,7 +151,5 @@ https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 http://46.46.112.223/live/livestream1.m3u8
 #EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: Sports;Language: Ukrainian",UPL.TV
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
-#EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: Movies;Language: Ukrainian",Viasat Kino (576p)
-http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
 #EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Country: Ukraine;Type: Movies;Language: Ukrainian",Viasat Kino Action (576p)
 http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8

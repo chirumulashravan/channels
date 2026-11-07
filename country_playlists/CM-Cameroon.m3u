@@ -7,7 +7,7 @@ https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://broadcasting-channels.com:9044/hls/test.m3u8
 #EXTINF:-1 tvg-country="CM" tvg-language="eng,fra" group-title="Country: Cameroon;Type: General;Language: English;Language: French",CAM 10 TV (720p)
 https://stream.it-innov.com/cam10tv/index.m3u8
-#EXTINF:-1 tvg-country="CM" tvg-language="eng,fra" group-title="Country: Cameroon;Type: News;Language: English;Language: French",CRTV News
+#EXTINF:-1 tvg-country="CM" tvg-language="eng,fra" group-title="Country: Cameroon;Type: News;Language: English;Language: French",CRTV News (1080p)
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 #EXTINF:-1 tvg-country="CM" tvg-language="eng,fra" group-title="Country: Cameroon;Type: News;Language: English;Language: French",For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8

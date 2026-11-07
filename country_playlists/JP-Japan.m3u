@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Country: Japan;Type: Entertainment;Language: Japanese",NHK World Premium (720p)
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Country: Japan;Type: News;Type: Culture;Language: Japanese",NHK World-Japan (1080p)
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+https://cdn.pishow.tv/ott/live/455/master.m3u8
 #EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Country: Japan;Type: Shop;Language: Japanese",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Country: Japan;Type: Weather;Language: Japanese",Weathernews (720p)
