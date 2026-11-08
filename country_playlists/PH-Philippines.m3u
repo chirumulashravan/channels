@@ -19,3 +19,5 @@ https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
 #EXTINF:-1 tvg-country="PH" tvg-language="eng,fil" group-title="Country: Philippines;Language: English;Language: Filipino",SMNI (720p)
 https://stream.kdlc.click/hls/0/stream.m3u8
+#EXTINF:-1 tvg-country="PH" tvg-language="eng,fil" group-title="Country: Philippines;Type: Sports;Language: English;Language: Filipino",TAP Sports (1080p)
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8

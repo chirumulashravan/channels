@@ -23,6 +23,8 @@ https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Country: Slovakia;Type: General;Language: Slovak;Language: Czech",Jednotka
 http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Country: Slovakia;Language: Slovak;Language: Czech",Kechnec TV
+http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Country: Slovakia;Type: General;Language: Slovak;Language: Czech",MTR (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Country: Slovakia;Type: General;Language: Slovak;Language: Czech",NZTV

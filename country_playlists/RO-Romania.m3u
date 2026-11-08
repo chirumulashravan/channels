@@ -17,14 +17,18 @@ https://video.angelustv.ro/hls/angelustv.m3u8
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: News;Language: Romanian",Antena 3 Suceava (576i)
 https://livestream.a3sv.ro/master.m3u8
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Antena International
-https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Antena International (576p)
+https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Lifestyle;Language: Romanian",Antena Monden (720p)
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Sports;Language: Romanian",AntenaPlay Events (576i) [Not 24/7]
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Sports;Language: Romanian",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Arges TV (720p)
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Entertainment;Language: Romanian",Asia Express NonStop (576p)
+https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Music;Language: Romanian",Atomic Academy TV (480p)
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Music;Language: Romanian",Atomic TV (360p)
@@ -51,6 +55,8 @@ https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Education;Type: Kids;Language: Romanian",DeParinti.ro (576p)
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Language: Romanian",Digi 4K (2160p)
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: News;Language: Romanian",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Music;Language: Romanian",Disco Mix (576i)
@@ -67,8 +73,6 @@ https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Cooking;Language: Romanian",Hello Taste
-https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Hunedoara 1 (480p) [Not 24/7]
 https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",IasiTV Life (1080p) [Not 24/7]
@@ -85,6 +89,8 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: News;Language: Romanian",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Entertainment;Language: Romanian",Insula non stop (576i)
+https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Intermedia TV (576p)
 https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Comedy;Language: Romanian",iRoast (576p)

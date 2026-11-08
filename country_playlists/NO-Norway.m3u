@@ -3,8 +3,8 @@
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",Frikanalen (720p)
 https://frikanalen.no/stream/index.m3u8
-#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",NRK1 (1080i)
-https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
+#EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",NRK1 (720p)
+http://185.19.191.171:8090/NRK1/index.m3u8
 #EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: General;Language: Norwegian",NRK2 (1080i)
 https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
 #EXTINF:-1 tvg-country="NO" tvg-language="nor" group-title="Country: Norway;Type: Entertainment;Language: Norwegian",NRK3 (1080i)

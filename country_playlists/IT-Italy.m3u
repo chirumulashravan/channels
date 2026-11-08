@@ -71,6 +71,8 @@ https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxA
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Country: Italy;Type: General;Language: Italian",Cusano Italia TV (720p)
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Country: Italy;Type: Kids;Language: Italian",DeA Kids
+http://185.227.34.104/stream/113/index.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Country: Italy;Type: General;Language: Italian",DellaTV (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Country: Italy;Language: Italian",Deluxe 139 (480p)

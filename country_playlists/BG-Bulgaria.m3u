@@ -25,6 +25,8 @@ https://live.ecomservice.bg/hls/stream.m3u8
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="BG" tvg-language="bul" group-title="Country: Bulgaria;Type: Religious;Language: Bulgarian",Plovdiv Orthodox TV (1080p)
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="BG" tvg-language="bul" group-title="Country: Bulgaria;Type: Kids;Language: Bulgarian",Super Toons (1080p)
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
 #EXTINF:-1 tvg-country="BG" tvg-language="bul" group-title="Country: Bulgaria;Type: Music;Language: Bulgarian",The Voice (720p)
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-country="BG" tvg-language="bul" group-title="Country: Bulgaria;Type: Entertainment;Language: Bulgarian",This is Bulgaria HD (1080p)

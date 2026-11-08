@@ -33,6 +33,8 @@ http://190.93.224.42/ATV-SUR/index.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru;Language: Aymara;Language: Quechua;Language: Spanish",Bella Abanquina TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
+#EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru;Type: Sports;Language: Aymara;Language: Quechua;Language: Spanish",Bicolor+ Premium
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",BNB Digital (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru;Language: Aymara;Language: Quechua;Language: Spanish",Cadena TV (720p) [Not 24/7]

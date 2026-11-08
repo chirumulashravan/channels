@@ -33,6 +33,8 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m
 https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Type: General;Language: English;Language: Spanish",WAPA-TV 4.1 (1080p) [Not 24/7]
 https://wapa.hostless.app/WAPA-TV-4-1.m3u8
+#EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Type: Sports;Language: English;Language: Spanish",WAPA-TV 4.2 (720p) [Not 24/7]
+https://wapa.hostless.app/WAPA-TV-4-2.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Type: Religious;Language: English;Language: Spanish",WECN (720p)
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-language="eng,spa" group-title="Country: Puerto Rico;Type: Religious;Language: English;Language: Spanish",WELU 8.1 (480p) [Not 24/7]
