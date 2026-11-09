@@ -123,8 +123,6 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Language: Vietnamese",Tien Giang TV (540p)
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
-#EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Culture;Type: Entertainment;Type: Music;Type: News;Language: Vietnamese",Tra Vinh TV (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: General;Language: Vietnamese",TVB Vietnam (1080p)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Shop;Language: Vietnamese",Uniquely Thai (720p)
@@ -139,6 +137,8 @@ https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
 https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Culture;Type: Travel;Type: Sports;Type: Entertainment;Language: Vietnamese",Vinh Long TV 4 (720p)
 https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Culture;Type: Entertainment;Type: Music;Type: News;Language: Vietnamese",Vinh Long TV 5 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Type: Sports;Language: Vietnamese",VTV6 (1080p)
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam;Language: Vietnamese",VTV10 (1080p)

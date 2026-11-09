@@ -3,8 +3,8 @@
 http://51.222.9.192:3589/stream/play.m3u8
 #EXTINF:-1 tvg-country="PA" tvg-language="spa" group-title="Country: Panama;Type: General;Language: Spanish",BTV Panama (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
-#EXTINF:-1 tvg-country="PA" tvg-language="spa" group-title="Country: Panama;Type: Music;Language: Spanish",Corazon TV
-https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+#EXTINF:-1 tvg-country="PA" tvg-language="spa" group-title="Country: Panama;Type: Music;Language: Spanish",Corazon TV (720p)
+http://181.79.86.130:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-country="PA" tvg-language="spa" group-title="Country: Panama;Type: Animation;Language: Spanish",Dreiko TV (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-country="PA" tvg-language="spa" group-title="Country: Panama;Type: Music;Language: Spanish",Fabulosa Estereo 100.5 FM (720p)

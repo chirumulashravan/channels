@@ -9,8 +9,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=112
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="SG" tvg-language="eng,msa,zho,tam" group-title="Country: Singapore;Type: Entertainment;Language: English;Language: Malay;Language: Chinese;Language: Tamil",Crime + Investigation Asia (720p)
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
-#EXTINF:-1 tvg-country="SG" tvg-language="eng,msa,zho,tam" group-title="Country: Singapore;Type: Movies;Language: English;Language: Malay;Language: Chinese;Language: Tamil",HITS Movies (576p)
-http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 #EXTINF:-1 tvg-country="SG" tvg-language="eng,msa,zho,tam" group-title="Country: Singapore;Language: English;Language: Malay;Language: Chinese;Language: Tamil",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 #EXTINF:-1 tvg-country="SG" tvg-language="eng,msa,zho,tam" group-title="Country: Singapore;Language: English;Language: Malay;Language: Chinese;Language: Tamil",TechStorm (720p)

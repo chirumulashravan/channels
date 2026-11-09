@@ -503,6 +503,8 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",RTL Zwei
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",RTLup (576p)
+https://s6.hopslan.com/rtltupz/index.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Saarland Fernsehen 1 (1080p)
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Saarland Fernsehen 2 (720p) [Not 24/7]
@@ -593,6 +595,8 @@ https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1
 https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Language: German",Voxup (576p)
+https://s6.hopslan.com/voxupz/index.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: General;Language: German",WDR Fernsehen (720p)
