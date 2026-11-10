@@ -195,8 +195,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u
 https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Country: France;Type: General;Language: French",TeleGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Country: France;Type: Entertainment;Language: French",TF1 (1080p)
-http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Country: France;Type: Movies;Language: French",TF1 Series Films (1080p)
 http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Country: France;Language: French",TFX (1080p)

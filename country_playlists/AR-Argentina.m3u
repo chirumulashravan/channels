@@ -253,8 +253,6 @@ https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 http://45.173.231.22:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Type: General;Language: Guarani;Language: Spanish",Telefe Buenos Aires (1080p)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Type: General;Language: Guarani;Language: Spanish",Telefe Interior (720p)
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Language: Guarani;Language: Spanish",Telefe Internacional (1080p)
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Language: Guarani;Language: Spanish",Telefe Rosario (720p)

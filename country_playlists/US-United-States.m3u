@@ -1463,6 +1463,8 @@ https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/in
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Mi Musica Hits (720p)
 http://38.188.186.47:4000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Mi Musica Popular (1080p)
+http://45.226.205.96:48000/play/a0f8/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Mi Musica Reggaeton (1080p)
 http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Music;Language: English;Language: Spanish",Mi Musica Romantica (1080p)
@@ -2636,7 +2638,7 @@ http://45.167.1.138:8000/play/a06m
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",Universal TV Latin America (1080p)
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Language: English;Language: Spanish",Univision (1080p)
-http://38.252.238.18:8000/play/a03e/index.m3u8
+http://190.197.41.183/Univision/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",Univision Tlnovelas (1080p)
 http://45.6.4.35/TELENOVELAS/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States;Type: Series;Language: English;Language: Spanish",Unsolved Mysteries (720p)

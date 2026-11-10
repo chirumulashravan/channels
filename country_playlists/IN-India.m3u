@@ -967,8 +967,6 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",SRK TV (1080p)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Star Gold Select (1080p)
-https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Star Jalsha (1080p)
 http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Star Utsav (576p)
@@ -1167,8 +1165,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Classic;Language: English;Language: Hindi;Language: Tamil",Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Zee Cinema (576p)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Comedy;Language: English;Language: Hindi;Language: Tamil",Zee Comedy Nation (1080p)
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Zee Delhi NCR Haryana (720p)

@@ -369,8 +369,6 @@ http://stream.mcquack.net/301/index.m3u8
 https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Lifestyle;Language: Russian",NTV Style (576p)
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Language: Russian",NTV Svoya igra (1080p)
-https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: General;Language: Russian",NTV Vitrina (720p)
 https://cdn.ntv.ru/vitrina/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Series;Language: Russian",NTV-Hit (576p)

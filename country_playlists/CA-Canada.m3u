@@ -74,7 +74,7 @@ https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Culture;Language: English;Language: French",Hyder TV (720p)
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: News;Language: English;Language: French",Ici RDI (720p)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Religious;Language: English;Language: French",ICnet 1
 https://icnet1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: Religious;Language: English;Language: French",ICnet 2
