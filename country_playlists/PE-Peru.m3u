@@ -111,6 +111,8 @@ https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru;Type: Music;Language: Aymara;Language: Quechua;Language: Spanish",La Fabulosa TV (720p)
 https://eu1.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",La Tremenda TV (1080p)
+https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru;Type: Series;Language: Aymara;Language: Quechua;Language: Spanish",Latina Clasicos (1080p)

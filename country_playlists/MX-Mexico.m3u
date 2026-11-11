@@ -134,7 +134,7 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Culture;Type: Education;Language: Spanish",Jalisco TV (720p)
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: General;Language: Spanish",Las Estrellas (1080p)
-http://45.189.151.7:8000/play/a07s
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: General;Language: Spanish",Las Estrellas Latin America (1080p)
 http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Music;Language: Spanish",Lobo TV (720p)

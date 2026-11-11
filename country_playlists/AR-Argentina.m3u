@@ -91,6 +91,8 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Language: Guarani;Language: Spanish",Canal 10 Cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Type: General;Language: Guarani;Language: Spanish",Canal 10 Goya (1080p)
+https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Type: Entertainment;Language: Guarani;Language: Spanish",Canal 10 Mar del Plata
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Type: General;Language: Guarani;Language: Spanish",Canal 12 Venado Tuerto (1080i)
@@ -293,7 +295,5 @@ https://cloud.tvomix.com/URBANMIX/index.m3u8
 https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Language: Guarani;Language: Spanish",Volver (576p)
 http://138.121.113.175:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Type: Music;Language: Guarani;Language: Spanish",X Level Media (1080p)
-https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina;Language: Guarani;Language: Spanish",Xama TV
 https://srs.unsj.edu.ar/live/xama/xama.flv
