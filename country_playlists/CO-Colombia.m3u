@@ -161,8 +161,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Senal Colombia (1080p)
 http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Sin Limites (1080p)
-http://170.244.209.30:8000/play/a1im/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Soona TV
 https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Type: Entertainment;Language: Spanish",StreamForce 360 (1080p)

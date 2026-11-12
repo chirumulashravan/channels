@@ -8,9 +8,9 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Outdoor;Language: Portuguese",AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Education;Type: Outdoor;Language: Portuguese",AgroCanal (720p)
-http://45.162.64.114/AGRO_CANAL/index.m3u8
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: News;Language: Portuguese",AgroMais (720p)
-http://45.162.64.114/AGROMAIS/index.m3u8
+http://45.177.114.115/agromais/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",Araruna TV
@@ -18,7 +18,7 @@ https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: News;Language: Portuguese",Aratu On (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Culture;Language: Portuguese",Arte 1 (720p)
-http://45.162.64.114/ARTE1/index.m3u8
+http://45.177.114.115/ARTE1/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",Auge TV (720p)
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Movies;Language: Portuguese",AXN (Brazil) (720p)
@@ -46,17 +46,17 @@ https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",Canal 25 Jundiai (720p)
 https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",Canal do Boi (720p)
-http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Outdoor;Language: Portuguese",Canal do Criador (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Sports;Language: Portuguese",Canal do Inter (720p) [Not 24/7]
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Education;Language: Portuguese",Canal Educacao (720p)
-http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Type: Education;Language: Portuguese",Canal FDR (1080p)
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Education;Language: Portuguese",Canal Futura (720p)
-http://45.162.64.114/FUTURA/index.m3u8
+http://170.83.16.50/FUTURA/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Legislative;Language: Portuguese",Canal Gov (720p)
 http://45.177.114.115/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",Canal Libras (720p)
@@ -81,8 +81,6 @@ https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Sports;Language: Portuguese",CazeTV (1080p)
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Cooking;Language: Portuguese",Chef TV (720p)
-http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Entertainment;Language: Portuguese",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Movies;Language: Portuguese",CINDIE TV (1080p)
@@ -112,7 +110,7 @@ https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/play
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Religious;Language: Portuguese",Despertar TV (720p)
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Kids;Language: Portuguese",DumDum (720p)
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+http://186.219.52.187/zoomoo/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Entertainment;Language: Portuguese",Elemental Channel (1080p)
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Entertainment;Language: Portuguese",ElyTV (360p)
@@ -160,7 +158,7 @@ https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Music;Language: Portuguese",Music Box Brazil (720p)
-http://168.197.104.22/MUSIC/index.m3u8
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Religious;Language: Portuguese",Nuevo Tiempo (720p) [Not 24/7]
@@ -182,7 +180,7 @@ https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",Record (720p)
 http://170.84.165.204/Record_HD/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: News;Language: Portuguese",Record News (720p)
-http://45.162.64.114/RECORD_NEWS/index.m3u8
+http://45.177.114.115/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",Record RS (720p)
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",RecordTV Belem (720p)
@@ -202,9 +200,9 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",Rede Brasil (1080p)
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",Rede CNT Rio de Janeiro (720p)
-http://45.162.64.114/CNT/index.m3u8
+http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",Rede Familia (720p)
-http://168.197.104.22/REDE_FAMILIA/index.m3u8
+http://186.219.52.187/rede_familia/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",Rede Globo (1080p)
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Religious;Language: Portuguese",Rede Gospel (1080p)
@@ -222,7 +220,7 @@ https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/play
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",Rede RC (720p) [Not 24/7]
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Religious;Language: Portuguese",Rede Seculo 21 (720p)
-http://45.162.64.114/REDE_SECULO_21/index.m3u8
+http://186.219.52.187/seculo21/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",Rede TV! Mais (720p)
@@ -274,13 +272,13 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Movies;Language: Portuguese",Telecine Action (1080p)
 http://46.151.196.223:14326
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Outdoor;Language: Portuguese",Terra Viva (720p)
-http://45.162.64.114/TERRAVIVA/index.m3u8
+http://45.177.114.115/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Music;Language: Portuguese",TikTok Radio Brasil (1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: News;Language: Portuguese",Times Brasil (720p)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Travel;Language: Portuguese",Travel Box Brazil (720p)
-http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV 3 Curitiba (720p)
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",TV A Critica (1080p)
@@ -296,7 +294,7 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Religious;Language: Portuguese",TV Aparecida (720p)
-http://45.162.64.114/TV_APARECIDA/index.m3u8
+http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV Arapuan (720p)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Legislative;Language: Portuguese",TV Assembleia Ceara (720p)
@@ -306,7 +304,7 @@ https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV Birigui (640p)
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",TV Brasil (720p)
-http://45.162.64.114/TV_BRASIL/index.m3u8
+http://45.177.114.115/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV Brasil Oeste (720p)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV BRICS Portuguese (1080p)
@@ -326,7 +324,7 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV Comunitaria (360p)
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",TV Cultura (720p)
-http://45.162.64.114/TV_CULTURA/index.m3u8
+http://45.177.114.115/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Entertainment;Language: Portuguese",TV Curuca (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Culture;Language: Portuguese",TV das Artes (360p)
@@ -346,13 +344,13 @@ https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV Encontro das Aguas
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Religious;Language: Portuguese",TV Evangelizar (720p)
-http://45.162.64.114/EVANGELIZAR/index.m3u8
+http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",TV Fronteira (480i)
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV Futuro (1080p)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",TV Gazeta (720p)
-http://45.162.64.114/TV_GAZETA/index.m3u8
+http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Language: Portuguese",TV Gazin (720p)
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Religious;Language: Portuguese",TV Gideoes (1080p) [Not 24/7]
@@ -370,7 +368,7 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",TV Interlagos (360p)
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",TV Justica (720p)
-http://45.162.64.114/TV_JUSTICA/index.m3u8
+http://170.83.16.50/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",TV Liberdade (720p) [Not 24/7]
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Culture;Language: Portuguese",TV Life America (720p)
@@ -394,7 +392,7 @@ http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Religious;Language: Portuguese",TV Padre Cicero (720p)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Religious;Language: Portuguese",TV Pai Eterno (720p)
-http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+http://186.219.52.187/pai_eterno/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: General;Type: Family;Type: Entertainment;Type: News;Language: Portuguese",TV Paraense (720p)
@@ -482,4 +480,4 @@ https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Type: Entertainment;Language: Portuguese",VRT Channel (720p)
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil;Language: Portuguese",WooHoo (720p)
-http://45.162.64.114/WOOHOO/index.m3u8
+http://170.83.16.50/WOOHOO/index.m3u8

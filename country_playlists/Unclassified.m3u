@@ -53,8 +53,6 @@ http://200.59.191.177:8000/play/a0lb/index.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1,&pictures HD (1080p)
-http://103.135.253.32:8080/PICTURE-HD/index.m3u8
 #EXTINF:-1,&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1,+TV (576p)
@@ -77,8 +75,6 @@ https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1,A Spor SD (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1,A&E (720p)
-http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1,A&E Latin America Brazil (720p)
 http://79.127.238.228:14551
 #EXTINF:-1,A-Plus TV (576p)
@@ -187,8 +183,6 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1,Adult Swim West [Not 24/7;Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1,Adult Swim Latin America Brazil (720p)
-http://45.162.64.114/ADULT_SWIM/index.m3u8
 #EXTINF:-1,Afroturk TV (1080p)
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1,Agape TV (720p)
@@ -221,6 +215,8 @@ https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1,AMC Latin America Brazil (720p)
 http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1,America Internacional (720p)
+https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 #EXTINF:-1,America TeVe (1080p)
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1,America's Next Top Model CA
@@ -269,8 +265,6 @@ https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_a
 http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1,Animal Planet (Bulgaria)
 http://213.91.179.28:8000/play/a05r
-#EXTINF:-1,Animal Planet (India) HD (720p)
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1,Animal Planet Latin America HD (720p)
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1,Animax Asia India (1080p)
@@ -367,8 +361,6 @@ http://185.227.34.179:8080/axn-black/index.m3u8
 http://85.11.144.9:4222/AXN
 #EXTINF:-1,AXN Latin America Andes (1080p)
 http://181.78.8.199:8000/play/a0cu/index.m3u8
-#EXTINF:-1,AXN Latin America Mexico
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1,AXN Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 #EXTINF:-1,AXN Movies (Spain)
@@ -721,8 +713,10 @@ https://jmp2.uk/plu-66a7aac9d512590008ab2dcb.m3u8
 http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1,Cartoon Classics (Poland)
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
-#EXTINF:-1,Cartoon Network (India) (720p)
-https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1,Cartoon Network (Pakistan)
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+#EXTINF:-1,Cartoon Network (United States) West (1080p)
+http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1,Cartoon Network Asia Thailand
 http://103.253.74.210:7070/stream/118/index.m3u8
 #EXTINF:-1,Cartoon Network CEE Bulgary
@@ -734,9 +728,9 @@ http://92.114.85.87:8007/play/a009
 #EXTINF:-1,Cartoon Network CEE Ukraine (576p)
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1,Cartoon Network Latin America Brazil (720p)
-http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 #EXTINF:-1,Cartoon Network Latin America North Atlantic (1080p)
-http://38.252.238.18:8000/play/a053/index.m3u8
+http://45.173.12.70:8000/play/a0fj
 #EXTINF:-1,Cartoon Network Latin America South Atlantic (1080p)
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1,Cartoon Network Latin America South Pacific (576p)
@@ -947,8 +941,6 @@ http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
 #EXTINF:-1,Cinemax Asia Taiwan (1080p)
 http://125.227.210.55:1001/VideoInput/play.ts
-#EXTINF:-1,Cinemax Latin America HD (1080p)
-http://38.65.175.84:8000/play/a093/index.m3u8
 #EXTINF:-1,City Channel (720p) [Not 24/7]
 https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1,City TV (Bulgaria) (576p) [Not 24/7]
@@ -995,8 +987,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://103.135.253.32:8080/Color-HD/index.m3u8
 #EXTINF:-1,Colors Bangla HD (1080p)
 http://103.165.93.31:8095/colorsBangla/index.m3u8
-#EXTINF:-1,Colors Cineplex HD (1080p)
-http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 #EXTINF:-1,Colors Kannada HD (1080i)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
 #EXTINF:-1,Colors Marathi HD (720p)
@@ -1111,30 +1101,22 @@ http://stream.mcquack.net/275/index.m3u8
 http://213.91.179.28:8000/play/a044
 #EXTINF:-1,Discovery Channel (India) HD (1080p)
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
-#EXTINF:-1,Discovery Channel Latin America Brazil (720p)
-http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
 #EXTINF:-1,Discovery Channel Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
 #EXTINF:-1,Discovery Home & Health Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
-#EXTINF:-1,Discovery Kids (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1,Discovery Kids Latin America Brazil (720p)
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 #EXTINF:-1,Discovery Kids Latin America Chile (1080p)
 http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1,Discovery Kids Latin America Colombia (1080p)
 http://38.134.250.110:8000/play/a003/index.m3u8
-#EXTINF:-1,Discovery Kids Latin America Mexico (1080p)
-http://38.65.175.84:8000/play/a0an/index.m3u8
-#EXTINF:-1,Discovery Science (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 #EXTINF:-1,Discovery Science Europe UK
 http://37.49.224.5/stream/9/index.m3u8
 #EXTINF:-1,Discovery Science Latin America ColombiaPeru (720p)
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
-#EXTINF:-1,Discovery Turbo (India) (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+#EXTINF:-1,Discovery Turbo (Italy) (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1,Discovery World Brazil (720p)
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
 #EXTINF:-1,Disney Channel (Bulgaria) (576i)
@@ -1157,8 +1139,8 @@ http://181.78.14.26:4000/play/a073/index.m3u8
 http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1,Disney Jr. Latin America South HD (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
-#EXTINF:-1,Disney Junior (United States) (480p)
-http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1,Disney Junior (Poland) (576p)
+http://111.88.7.92:8000/play/a00o/index.m3u8
 #EXTINF:-1,Disney XD (Poland) (576p)
 http://185.227.34.179:8080/disney-xd/index.m3u8
 #EXTINF:-1,Divya Darshan TV HD (1080p)
@@ -1179,8 +1161,8 @@ https://cdn-live.dltv.ac.th/dltv06.m3u8
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 #EXTINF:-1,DMAX (Germany) (576p)
 http://5.180.164.197:8080/DMAX/index.m3u8
-#EXTINF:-1,DMAX (Italy) HD (720p)
-http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:-1,DMAX (Germany) HD (576p)
+https://s6.hopslan.com/dmaxX/index.m3u8
 #EXTINF:-1,Doc Martin (Sweden)
 https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 #EXTINF:-1,DocuBox Russia
@@ -1303,6 +1285,8 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 http://190.61.47.54:8000/play/a004/index.m3u8
 #EXTINF:-1,ESPN Latin America Mexico (1080p)
 http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:-1,ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ESPN Premium HD (1080p)
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1,Esport3 Originals (1080p) [Not 24/7]
@@ -1365,8 +1349,6 @@ http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 #EXTINF:-1,Eurosport 4K Romania (2160p)
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
-#EXTINF:-1,Eurosport (India) (720p)
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1,Eurosport (India) HD (1080p)
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #EXTINF:-1,Everybody Hates Chris DK
@@ -1511,8 +1493,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
 #EXTINF:-1,Fox (United States) WNYW (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1,Fox (United States) WSVN (1080p)
-http://190.197.41.183/Fox/index.m3u8
 #EXTINF:-1,Fox (United States) WTTG (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
 #EXTINF:-1,Fox (United States) WTVT (1080p)
@@ -1591,8 +1571,8 @@ https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
 #EXTINF:-1,GEM Series +
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
-#EXTINF:-1,GEM TV
-https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
+#EXTINF:-1,Gem TV (720p)
+https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
 #EXTINF:-1,GEM TV +
 https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
 #EXTINF:-1,Geordie Shore (Germany)
@@ -1861,8 +1841,8 @@ https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 #EXTINF:-1,Investigation Discovery (Czech Republic)
 http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
-#EXTINF:-1,Investigation Discovery Latin America South (1080p)
-http://38.65.175.84:8000/play/a0ch/index.m3u8
+#EXTINF:-1,Investigation Discovery Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 #EXTINF:-1,Ion TV (576p)
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1,Iqra TV
@@ -1993,8 +1973,8 @@ http://45.4.1.201:8000/play/a1ai/index.m3u8
 http://185.47.212.25:8080/tdp_HD/index.m3u8
 #EXTINF:-1,LA7 HD (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
-#EXTINF:-1,La Red (720p) [Not 24/7]
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1,La Red (720p)
+https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
 #EXTINF:-1,La Tele (1080p)
 http://190.93.224.42/LA-TELE/index.m3u8
 #EXTINF:-1,La Voz de Maria (720p)
@@ -2075,8 +2055,6 @@ https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:-1,Magic TV (Bulgaria) (720p)
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1,Magnolia Network (720p)
-http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
 #EXTINF:-1,Man with a Plan DK
 https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8
 #EXTINF:-1,Man with a Plan NO
@@ -2213,10 +2191,8 @@ https://cdn.pishow.tv/ott/live/1121/master.m3u8
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF:-1,Motorvision (1080i)
 https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
-#EXTINF:-1,Movies Now HD (1080p)
-http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
-#EXTINF:-1,Movies Now + (1080p)
-http://103.135.253.32:8080/MN-PLUS/index.m3u8
+#EXTINF:-1,Movies Now HD (576p)
+http://27.124.71.27/Movies_Now/index.m3u8
 #EXTINF:-1,Movies! KPVM-LD (480p)
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 #EXTINF:-1,MovieSphere AU (1080p)
@@ -2228,7 +2204,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,MovieSphere Gold WFXT (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1,Movistar Deportes (1080p)
-http://170.244.209.30:8000/play/a1i8/index.m3u8
+http://195.178.110.110/movistar/index.m3u8
 #EXTINF:-1,Movistar Plus (576p)
 http://45.4.1.201:8000/play/a19y/index.m3u8
 #EXTINF:-1,Moya stikhiya HD (1080p)
@@ -2377,8 +2353,6 @@ https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 http://92.114.85.87:8016/play/a003/index.m3u8
 #EXTINF:-1,National Geographic (Croatia) (1080p)
 http://176.61.157.250/NationalGeographic/index.m3u8
-#EXTINF:-1,National Geographic (India) HD (1080p)
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1,National Geographic (United States) HD East (720p)
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1,National Geographic Wild (Poland) (576i)
@@ -2451,8 +2425,6 @@ https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1,NBC WRDE-LD (720p) [Not 24/7]
 https://live.field59.com/wrde/wrde1/playlist.m3u8
-#EXTINF:-1,NBC WTLV (1080p)
-http://190.197.41.183/NBC/index.m3u8
 #EXTINF:-1,NBC WTMJ-TV (720p)
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
 #EXTINF:-1,NBC WTOV-TV (1080p)
@@ -2576,7 +2548,7 @@ https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&play
 #EXTINF:-1,Nova TV (1080p)
 http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:-1,Novo Tempo (720p)
-http://45.162.64.114/NOVO_TEMPO/index.m3u8
+http://186.219.52.187/novo_tempo/index.m3u8
 #EXTINF:-1,NowMedia Television Spanish (1080p)
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
 #EXTINF:-1,NPO 1 HD (720p)
@@ -2742,7 +2714,7 @@ https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
 #EXTINF:-1,Pixel TV (1080p)
 http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1,Play TV (Brazil) (720p)
-http://45.162.64.114/PLAY_TV/index.m3u8
+http://45.177.114.115/PLAY_TV/index.m3u8
 #EXTINF:-1,Plus TV (Ecuador) (720p) [Not 24/7]
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1,Pluto TV Action (Sweden)
@@ -3128,7 +3100,7 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 #EXTINF:-1,RedADvenir TV KSCE (360p)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 #EXTINF:-1,Rede TV! SD (720p)
-http://45.162.64.114/REDE_TV/index.m3u8
+http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1,Reno 911 DK
 https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
 #EXTINF:-1,Reno 911 NO
@@ -3374,7 +3346,7 @@ http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1,Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1,Sony Movies (Brazil) (720p)
-http://45.162.64.114/SONY_MOVIES/index.m3u8
+http://45.177.114.115/SONY_MOVIES/index.m3u8
 #EXTINF:-1,Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1,Sophia TV (Germany) (720p)
@@ -3445,8 +3417,12 @@ http://88.212.15.50/live/test_home_hevc/playlist.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1,Sport1 HD
 http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+#EXTINF:-1,Sport 1 (Slovakia)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
 #EXTINF:-1,Sport2 HD
 http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
+#EXTINF:-1,Sport 2 (Slovakia)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
 #EXTINF:-1,Sport (Kyrgyzstan) (480p) [Not 24/7]
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 #EXTINF:-1,Sport Extra HD
@@ -3467,18 +3443,14 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1,Star Channel Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
-#EXTINF:-1,Star Cinema
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:-1,Star Gold HD (1080p)
-http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
+#EXTINF:-1,Star Cinema (576p)
+http://s1.merlive.am/starsinema/index.m3u8
 #EXTINF:-1,Star Jalsha HD (1080p)
 http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
 #EXTINF:-1,Star Maa HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1,Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1,Star Movies (India) HD (1080p)
-http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 #EXTINF:-1,Star News (1080p)
 http://103.135.253.32:8080/Star-News/index.m3u8
 #EXTINF:-1,Star Pravah HD (720p)
@@ -3637,6 +3609,8 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1,Telemax (Mexico) XEWH-TDT (1080p)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1,Telemicro HD (720p)
+https://cdn4.wind.do/streams/telemicro/telemicro_1080.m3u8
 #EXTINF:-1,TeleMIX (720p)
 https://haititivi.com/haiti/telemix1/index.m3u8
 #EXTINF:-1,Telemontecarlo (720p)
@@ -3675,8 +3649,8 @@ https://hls.tvabierta.net/hls/029.m3u8
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:-1,Tempo TV (720p)
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:-1,TERRA (720p)
-http://31.148.48.15/Terra_HD/index.m3u8
+#EXTINF:-1,TERRA (1080p)
+http://s1.merlive.am/TerraHD/index.m3u8
 #EXTINF:-1,Terra Mater WILD English (1080p)
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1,Tezaur TV (576i)
@@ -3763,8 +3737,6 @@ https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
 http://92.114.85.72:8000/play/a08p
 #EXTINF:-1,TLC (Czech Republic)
 http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
-#EXTINF:-1,TLC (India) HD (720p)
-https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 #EXTINF:-1,TLC Latin America Brazil (720p)
 http://79.127.238.228:14433
 #EXTINF:-1,TLN KQSL (720p)
@@ -3787,8 +3759,6 @@ http://45.134.141.161:2200/ARG/TNT/index.m3u8
 http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1,TNT Latin America Colombia (1080p)
 http://181.78.211.244:8005/play/a09g/index.m3u8
-#EXTINF:-1,TNT Novelas Brazil (720p)
-http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1,TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1,TNT Novelas ColombiaHD (1080p)
@@ -3805,8 +3775,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 http://181.78.79.131:8000/play/a0mo
 #EXTINF:-1,TNT Sports Premium ArgentinaHD (1080p)
 http://181.78.79.131:8000/play/a0q9
-#EXTINF:-1,TNT Sports Premium HD (1080p)
-http://205.235.6.29:8000/play/a104/index.m3u8
+#EXTINF:-1,TNT Sports Premium HD
+https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8
 #EXTINF:-1,TNTV (1080p)
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1,Toonami Aftermath West (480p)
@@ -3948,7 +3918,7 @@ https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 #EXTINF:-1,TV Camara (Brazil) (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1,TV Cancao Nova (720p)
-http://45.162.64.114/CANCAO_NOVA/index.m3u8
+http://170.83.16.50/CANCAO_NOVA/index.m3u8
 #EXTINF:-1,TV Cidade
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1,TV Legislativa (1080p) [Not 24/7]
@@ -3972,7 +3942,7 @@ http://92.114.85.72:8000/play/a070
 #EXTINF:-1,TV Puls HD (1080p)
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1,TV Senado (Brazil) (720p)
-http://45.162.64.114/TV_SENADO/index.m3u8
+http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1,TV SLO 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
 #EXTINF:-1,TV SLO 2 HD
@@ -4006,7 +3976,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 #EXTINF:-1,TVE Internacional Europe HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1,TVE Star HD (1080p)
-http://38.252.238.18:8000/play/a01h/index.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1,TVes (1080p)
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1,TVG2 (720p)
@@ -4121,16 +4091,12 @@ https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
 https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
 #EXTINF:-1,Unife TV (720p)
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
-#EXTINF:-1,UniMas Central (720p)
-http://190.197.41.183/Unimas/mono.m3u8
 #EXTINF:-1,UniMas KFTR-DT (1080p)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:-1,UniMas KUVN-DT (1080p)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 #EXTINF:-1,UniMas Mountain (1080p)
 http://168.228.44.241:9997/play/a09e/index.m3u8
-#EXTINF:-1,UniMas WAMI-DT (1080p)
-http://190.197.41.183/Unimas/index.m3u8
 #EXTINF:-1,UniMas WFUT-DT (720p)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 #EXTINF:-1,UniMas WXTV-DT (1080p)
@@ -4154,7 +4120,7 @@ http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1,Unsolved Mysteries UK
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 #EXTINF:-1,USA Network (720p)
-http://190.197.41.183/USA_NETWORK/index.m3u8
+http://200.32.231.178/USA_NETWORK/index.m3u8
 #EXTINF:-1,UTV (Chile) (720p)
 https://v2.tustreaming.cl/utv/index.m3u8
 #EXTINF:-1,UTV (Romania) HD (1080i)
@@ -4223,26 +4189,26 @@ https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 http://15.204.246.24:8080/VOSTVHD/index.m3u8
 #EXTINF:-1,VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
-#EXTINF:-1,VTV1 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
+#EXTINF:-1,VTV1 HD (720p)
+https://dethich.pw/vtv1/index.m3u8
 #EXTINF:-1,VTV2 HD (1080p)
 http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
-#EXTINF:-1,VTV3 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
-#EXTINF:-1,VTV4 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
-#EXTINF:-1,VTV5 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
+#EXTINF:-1,VTV3 HD (720p)
+https://dethich.pw/vtv3/index.m3u8
+#EXTINF:-1,VTV4 HD (720p)
+https://dethich.pw/vtv4/index.m3u8
+#EXTINF:-1,VTV5 HD (720p)
+https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1,VTV5 Tay Nam Bo HD (1080p)
 https://dethich.pw/vtv5tnb/index.m3u8
 #EXTINF:-1,VTV5 Tay Nguyen HD (1080p)
 http://dethich.pw/vtv5tn/index.m3u8
-#EXTINF:-1,VTV7 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
+#EXTINF:-1,VTV7 HD (720p)
+https://dethich.pw/vtv7/index.m3u8
 #EXTINF:-1,VTV8 HD (720p)
 https://dethich.pw/vtv8/index.m3u8
-#EXTINF:-1,VTV9 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8
+#EXTINF:-1,VTV9 HD (720p)
+https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1,VTV (Argentina) (720p) [Not 24/7]
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:-1,VTV (Indonesia) HD (1080p)
@@ -4329,8 +4295,6 @@ https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
 https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
 #EXTINF:-1,Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1,Zee Cinema HD (1080p)
-http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
 #EXTINF:-1,Zee Kannada HD (1080p)
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1,Zee Marathi HD (720p)
@@ -4353,8 +4317,6 @@ http://stream.mcquack.net/225/index.m3u8
 https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 #EXTINF:-1,Zoom (Colombia) (1080p)
 http://138.121.15.230:9002/ZOOM/index.m3u8
-#EXTINF:-1,Zoom (India) Nepal (720p)
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1,Zvezda HD (1080p)
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,Zvezda Plus HD (1080p)

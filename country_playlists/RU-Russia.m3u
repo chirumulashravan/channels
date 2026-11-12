@@ -179,6 +179,8 @@ http://stream.mcquack.net/119/index.m3u8
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Music;Language: Russian",FON Music (576p)
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Sports;Language: Russian",FON TV (1080p)
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Entertainment;Language: Russian",Friday! (576p)
 http://31.148.5.241/kanal_16/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Travel;Language: Russian",Glazami Turista (576i)
@@ -247,8 +249,8 @@ http://stream.mcquack.net/170/index.m3u8
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Movies;Language: Russian",Kinosvidanie (576p)
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Movies;Language: Russian",Kinouzhas (576p)
-http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Movies;Language: Russian",Kinouzhas (1080p)
+http://s1.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Comedy;Language: Russian",Komedia (576p)
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: General;Language: Russian",Kongress TV (1080p)

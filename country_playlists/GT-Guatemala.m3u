@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Amigos TV Chiquimula (480p)
-https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Amigos TV Chiquimula (1080p)
+http://45.166.93.156:9999/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Movies;Language: Spanish",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Barbe TV (720p) [Not 24/7]
@@ -14,7 +14,7 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Canal 30 TV Bethel (720p) [Not 24/7]
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Language: Spanish",Canal 100 Chinique (1080p)
-https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Canal Iglesia Luz y Verdad (1080p)
 https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Canal Peniel (720p) [Not 24/7]
@@ -96,4 +96,4 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Language: Spanish",Vea Canal (720p)
 http://181.78.106.127:5000/play/ca090/index.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",World TV Guatemala (720p)
-https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8

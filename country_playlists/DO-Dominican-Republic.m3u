@@ -61,8 +61,8 @@ https://host.streamingnation.live:3940/live/caobatvlive.m3u8
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Cascara TV (720p)
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",CDN (576p)
-http://190.61.90.17:40000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",CDN (480p)
+http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Sports;Language: Spanish",CDN Deportes (720p) [Not 24/7]
 https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Cenovision HD (720p)

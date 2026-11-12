@@ -20,7 +20,7 @@ https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Language: English;Language: French",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: News;Language: English;Language: French",CBC News Network (1080p)
-https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: General;Language: English;Language: French",CHCO-TV (720p)
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada;Type: News;Language: English;Language: French",CityNews Calgary (720p)

@@ -295,8 +295,6 @@ https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
 https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Country: Chile;Language: Spanish",TV5 Linares (720p)
 https://v1.tustreaming.cl/tv5linares/index.m3u8
-#EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Country: Chile;Type: General;Language: Spanish",TV Chile (576p)
-http://38.252.238.18:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Country: Chile;Language: Spanish",TV UCT (1080p)
 https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Country: Chile;Type: Education;Language: Spanish",TV Usach (720p)

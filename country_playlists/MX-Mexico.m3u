@@ -17,8 +17,6 @@ https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 http://168.196.127.137:6001/play/a06v/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Movies;Language: Spanish",Az Cinema (1080p)
 http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Entertainment;Language: Spanish",Az Clic (1080p)
-http://38.252.238.18:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Series;Language: Spanish",Az Corazon (720p)
 http://200.115.120.1:8000/play/ca020/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Language: Spanish",Az Mundo (1080p)
@@ -101,14 +99,14 @@ https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Culture;Language: Spanish",El Sonorense (1080p) [Not 24/7]
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Music;Language: Spanish",Exa TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: General;Language: Spanish",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Movies;Language: Spanish",Filmex (1080p)
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Movies;Language: Spanish",Filmex Clasico (1080p)
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Sports;Language: Spanish",FOX Central (1080p)
+http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Culture;Type: Animation;Type: Entertainment;Language: Spanish",GikTVMX (720p)
 https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Language: Spanish",Golden (1080p)
@@ -181,8 +179,6 @@ https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: News;Language: Spanish",PSN Canal 45.2 (288p)
 https://srspsn2.live/live/livestream.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Sports;Language: Spanish",PX Sports (1080p)
-http://38.65.175.84:8000/play/a0ku/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: Religious;Language: Spanish",Radio y Television Crisol de la Alegria (1080p) [Not 24/7]
 https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Country: Mexico;Type: General;Language: Spanish",Radiotele (352p)

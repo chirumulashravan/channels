@@ -89,6 +89,8 @@ https://online.tvimpact.live/hls/impact_tv.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Language: Romanian",Inedit TV
 https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Info HD (576i)
+https://netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: News;Language: Romanian",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Entertainment;Language: Romanian",Insula non stop (576i)
@@ -107,6 +109,8 @@ https://stream2.kanald.ro/iphone/knd2-live.m3u8
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Kapital TV (576i)
 https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",M9TV Romania (576i)
+https://netstreaming.eu/m9tv.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Lifestyle;Language: Romanian",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Metropola TV (1080p) [Not 24/7]
@@ -125,6 +129,8 @@ https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: News;Language: Romanian",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Sports;Language: Romanian",Prima 4K (2160p)
+http://92.180.26.103/stream/80/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: News;Language: Romanian",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Language: Romanian",Pro Arena (1080p)
