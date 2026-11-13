@@ -97,6 +97,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 http://103.250.28.74:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: Sports;Language: English;Language: Urdu",One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Language: English;Language: Urdu",Paigham Television (576p)
+https://samitaorigin.tangotv.in/PAIGAMTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: Religious;Type: Education;Language: English;Language: Urdu",Paighan TV (1080p)
 http://116.90.120.151:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan;Type: Entertainment;Language: English;Language: Urdu",Pashto 1 (1080p)

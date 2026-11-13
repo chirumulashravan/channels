@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Religious;Language: Spanish",Adoram TV (720p)
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Religious;Language: Spanish",Adoram TV (720p) [Not 24/7]
+https://183.giatvcdn.com/giatv/giatv-adoram/adoram/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Aguila TV (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",AION TV (1080p) [Not 24/7]
@@ -35,22 +35,18 @@ https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Movies;Language: Spanish",Boreal (720p) [Not 24/7]
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Camu TV (480p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Cana TV Digital (720p) [Not 24/7]
 https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Canal 4 RD (1080p)
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Culture;Language: Spanish",Canal 17 RTVD (1080p)
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Canal 70 (720p)
-https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Canal del Sol (1080p) [Not 24/7]
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Canal DTV (720p)
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Canal Multivision (720p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/canalmulti24/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Canalda 26 HD [Not 24/7]
 https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Cananga TV (720p)
@@ -91,8 +87,8 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Color Vision (720p)
 https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",ConstanzaTV (1080p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",ConstanzaTV (720p) [Not 24/7]
+https://183.giatvcdn.com/ssh101/ssh101/ctv8hd/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Coral 39 (1080p) [Not 24/7]
 https://hls.tvabierta.net/hls/039.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Cotubanama TV (1080p)
@@ -143,8 +139,6 @@ https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Entertainment;Language: Spanish",Gi Television (720p) [Not 24/7]
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Culture;Language: Spanish",Guaymate TV (720p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Haina Vision (720p)
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: News;Language: Spanish",Hermanas Mirabal TV (720p) [Not 24/7]
@@ -179,8 +173,8 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",La Sultana del Este TV (720p) [Not 24/7]
 https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Religious;Language: Spanish",La Voz de Jesus HD (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Religious;Language: Spanish",La Voz de Jesus HD (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Music;Language: Spanish",La Voz del Tropico (480p)
 https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Larivision TV (720p) [Not 24/7]
@@ -221,8 +215,8 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 https://rd.tvabierta.net/live/misioneltv.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Montecristi Digital 8
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Music;Language: Spanish",Montones TV (1080p)
-https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Music;Language: Spanish",Montones TV (720p) [Not 24/7]
+https://183.giatvcdn.com/ssh101/ssh101/montonestv1/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",MorroTV (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Musavision (1080p)
@@ -317,8 +311,6 @@ https://teleola.ddns.net/hls/stream.m3u8
 https://cdn.telepoder.online:3229/dash/stream.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Tele Proyecto TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Telealtura (1080p) [Not 24/7]
-https://lbgo.bozztv.com/ssh101/ssh101/telealtura/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Religious;Language: Spanish",TeleBendicion (720p) [Not 24/7]
 https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Telecanal 12 (720p) [Not 24/7]
@@ -365,16 +357,16 @@ https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
 https://edge.essastream.com/tenarensestvrd/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Animation;Type: Kids;Language: Spanish",Tiguerito TV (720p) [Not 24/7]
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Kids;Language: Spanish",Tom And Jerry (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Kids;Language: Spanish",Tom And Jerry (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Music;Language: Spanish",Topical Moon RD (720p) [Not 24/7]
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",Tora Canal 69
 https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Sports;Language: Spanish",Tour Spot TV (1280p) [Not 24/7]
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Entertainment;Language: Spanish",Turismo HD (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Entertainment;Language: Spanish",Turismo HD (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Travel;Language: Spanish",Turismo RDTV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",TV 10 San Juan (720p) [Not 24/7]
@@ -382,7 +374,7 @@ https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Entertainment;Language: Spanish",TV Canal Sur (720p) [Not 24/7]
 https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",TV Cotui Canal 31 (1080p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/tvcotui/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",TV Daja (1080p) [Not 24/7]
 https://edge.essastream.com/dajatv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Music;Language: Spanish",TV Exitos (720p)
@@ -391,8 +383,6 @@ https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: Religious;Language: Spanish",TV Luz (480p)
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",TV Montana Canal 10 (1080p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",TV Plata (720p)
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Country: Dominican Republic;Type: General;Language: Spanish",UVA TV (720p) [Not 24/7]

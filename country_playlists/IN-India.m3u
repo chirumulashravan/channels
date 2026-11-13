@@ -463,6 +463,8 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Religious;Language: English;Language: Hindi;Language: Tamil",Jinvani Channel (720p)
 https://cdn.pishow.tv/ott/live/989/master.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",JK 24x7 News (576p)
+https://samitaorigin.tangotv.in/JKL24X7NEWS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: General;Language: English;Language: Hindi;Language: Tamil",Jonack (576p)
 https://cdn.pishow.tv/ott/live/10006/master.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Religious;Type: Culture;Language: English;Language: Hindi;Language: Tamil",JTBS Classic
@@ -491,6 +493,8 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Lifestyle;Language: English;Language: Hindi;Language: Tamil",Kappa TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Karnataka News Beat (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Kashish News (720p)
 https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: General;Language: English;Language: Hindi;Language: Tamil",Kaumudy TV (720p)
@@ -707,6 +711,8 @@ https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: General;Language: English;Language: Hindi;Language: Tamil",NKR TV Kannada (1080p)
 https://stream.ottlive.co.in/nkrtv/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Non Stop Bharat (576p)
+https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",NSC9 News (1080p)
 https://legitpro.co.in/nsc9/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",NTC TV (720p)
@@ -1085,8 +1091,8 @@ https://stream.d6-pro.com/Tunes6music/live/video.m3u8
 https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",TV5 News (576p)
 https://cdn.pishow.tv/ott/live/387/master.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",TV7 Bharat (576p)
-https://stream.ottlive.co.in/tv7bharat/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",TV7 Bharat (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",TV7 National (1080p)
 https://stream.ottlive.co.in/tv7national/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",TV9 Bangla (1080p)

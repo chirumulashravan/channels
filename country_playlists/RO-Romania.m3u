@@ -73,6 +73,8 @@ https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Favorit TV (576p)
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Sports;Language: Romanian",Formula 1 AntenaPlay (576i) [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Language: Romanian",Hunedoara 1 (480p) [Not 24/7]
@@ -253,5 +255,7 @@ http://89.38.8.130:39443
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: Sports;Language: Romanian",Voyo Sport 1 (1080i)
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Language: Romanian",Zece TV
+https://zecetv.ilink.ro:8088/hls/live.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Type: Music;Language: Romanian",RRR
 http://my.forcetv.pro:8880/movie/eJuxRCgKsb/c0OOJn2D2e/4467.mkv
