@@ -136,7 +136,7 @@ https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",B4U Kadak (1080p)
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",B4U Movies (1080p)
-http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Music;Language: English;Language: Hindi;Language: Tamil",B4U Music (1080p)
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Bada Khabar (576p)
@@ -975,8 +975,6 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u
 http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Sony Max 1 (720p)
-https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Sony Pal (576p)
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Sony Wah (576p)

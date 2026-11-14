@@ -54,7 +54,9 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1,&TV International (1080p)
-https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+#EXTINF:-1,+TV (576p)
+https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF:-1,.black (576p)
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1,.red (576p)
@@ -65,8 +67,6 @@ http://178.134.1.158:8081/red/index.m3u8
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,:24 (1080p)
 http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
-#EXTINF:-1,+TV (576p)
-https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF:-1,A1 TV (1080p) [Not 24/7]
 https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1,A7 TV (720p) [Not 24/7]
@@ -273,6 +273,8 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 http://125.227.210.55:3056/VideoInput/play.ts
 #EXTINF:-1,Antena 1 (Romania) HD (1440p)
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
+#EXTINF:-1,Antena 3 (480p)
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
 #EXTINF:-1,Antena 3 CNN HD (1080i)
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
 #EXTINF:-1,Antena 7 HD (1080p) [Not 24/7]
@@ -1399,6 +1401,8 @@ https://edge.enhdtv.com/faptv/index.m3u8
 http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1,FashionTV (Russia) (1080p)
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+#EXTINF:-1,Fast Sports (1080p)
+http://s7.merlive.am/Fastsports/index.m3u8
 #EXTINF:-1,Fast TV (720p)
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1,Fast&FunBox
@@ -1861,8 +1865,6 @@ https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
 https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
 #EXTINF:-1,JAG (Sweden) NO
 https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
-#EXTINF:-1,Jalsha Movies HD (1080p)
-http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 #EXTINF:-1,Jawa Pos TV Jakarta (720p)
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #EXTINF:-1,Jaya TV (480p)
@@ -2503,8 +2505,8 @@ http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 #EXTINF:-1,NHK World-Japan HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=106
-#EXTINF:-1,Nick Jr. (Croatia) (540p)
-http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1,Nick Jr. (Croatia) (576p)
+http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
 #EXTINF:-1,Nick Jr. Club (Germany) (720p)
 https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1,Nick Jr. Club (United States) BR (720p)
@@ -3459,8 +3461,6 @@ http://103.135.253.32:8080/Star-News/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1,Star Sports 2 Telugu HD (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
-#EXTINF:-1,Star Sports Select 2 HD (720p)
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1,Star Trek LatAm
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 #EXTINF:-1,Star Trek US
@@ -4295,8 +4295,8 @@ https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1,Zagros TV (Iran)
 https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
-#EXTINF:-1,Zee Bangla HD (1080p)
-https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
+#EXTINF:-1,Zee Bangla HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1,Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1,Zee Kannada HD (1080p)
