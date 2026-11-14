@@ -67,3 +67,33 @@ https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Shop;Language: English",TVSN Beauty (1080p)
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
+#EXTINF:-1 channel-id="News24Weather.au" tvg-id="News24Weather.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/News24_Weather.svg/revision/latest/scale-to-width-down/250?cb=20260726120829" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Weather;Language: English",NEWS24 WEATHER
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
+#EXTINF:-1 channel-id="mjh-10-nicktoons-90s" tvg-id="mjh-10-nicktoons-90s" tvg-logo="https://10.com.au/ip/s3/2024/06/07/a1aaf63737e7d2076759dd850b58471a-1319376.png?image-profile=logo" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Kids;Language: English", NickToons 90s
+https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-2syd" tvg-id="mjh-sbs-2syd" tvg-logo="https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500" tvg-chno="31" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Language: English", SBS VICELAND
+https://i.mjh.nz/.r/sbs-2syd.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-5nsw" tvg-id="mjh-sbs-5nsw" tvg-logo="https://image.pr.sbsod.com/00ff96cd-68c3-5219-b792-c0c2faec1fe6" tvg-chno="34" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Culture;Language: English", NITV
+https://i.mjh.nz/.r/sbs-5nsw.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-4syd" tvg-id="mjh-sbs-4syd" tvg-logo="https://image.pr.sbsod.com/cc42ae9e-0e64-5bc3-8c71-6f23f42610fb" tvg-chno="32" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Movies;Language: English", SBS World Movies
+https://i.mjh.nz/.r/sbs-4syd.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-6nat" tvg-id="mjh-sbs-6nat" tvg-logo="https://image.pr.sbsod.com/ca2194b7-6b91-58b3-a731-e0b7f04d9555" tvg-chno="35" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: News;Language: English", SBS WorldWatch
+https://i.mjh.nz/.r/sbs-6nat.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-3syd" tvg-id="mjh-sbs-3syd" tvg-logo="https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493" tvg-chno="33"  tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Cooking;Language: English", SBS Food
+https://i.mjh.nz/.r/sbs-3syd.m3u8
+#EXTINF:-1 channel-id="mjh-tvsn-fast" tvg-id="mjh-tvsn-fast" tvg-logo="https://i.mjh.nz/.images/auto-tvsn-fast-eda516.png" tvg-chno="77" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Shop;Language: English",TVSN
+https://tvsn.cdn.7livecloud.io/hls/live/2034711/TVSN-7PLUS/master_TVSN1.m3u8
+#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: General;Language: English",Adult Animation
+https://i.mjh.nz/.r/10-adultanimation.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Movies;Language: English",Lifetime Movie Network
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3bf/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2JmOjE3OTAyMTUyMTE3Mjk6Y2RubGl2ZXR2LnR2OmI3YjJiOTQxYTQ3Yjk0YjUuNzcyYmZmZDcyZmJkZTNlNWI2NGIxOTc0MWEyODFmNDRiMmFmNDVhYmNiNDI0MGU5M2EyOWY2NDBlYWYyM2I1Ng
+#EXTINF:-1 channel-id="SkyRacing1.au" tvg-id="SkyRacing1.au" tvg-logo="https://iptv-epg.org/images/nG8v-QB96pX6zMrSa9a7aMJEDwI2-OsbU3EuPVEqgOcvVoN5xlw17UKLm1-chL52eVA95ruKKJkvh4aXW1AeVRw3WtmYQSeqRu228T-wKoPygC2aekw"  tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Sports;Language: English", Sky Racing #1
+https://i.mjh.nz/.r/sky-racing-1.m3u8
+#EXTINF:-1 channel-id="SkyRacing2.au" tvg-id="SkyRacing2.au" tvg-logo="https://iptv-epg.org/images/Ne2C189ZHsZyPchX7lN22_sNWHoRGi8IOow_7gaGpNWxDsn1ZbmKeYoKJXOe85KIAcY1AfCWVzcrwH7BN5LHgiBZmW_RnBFgRvBDHgD_goHeBEk9irs"  tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Sports;Language: English", Sky Racing #2
+https://i.mjh.nz/.r/sky-racing-2.m3u8
+#EXTINF:-1 tvg-id="SkyRacing2.au" tvg-logo="https://i.imgur.com/TxQvFnQ.png" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Sports;Language: English", Sky Racing 2
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcy94d1eboamKIDl2FXYTN3jzxwiOqHvvCC2L_zxXFg&s=10" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Sports;Language: English",FOX SPORTS 501
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTI1OTg0MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcy94d1eboamKIDl2FXYTN3jzxwiOqHvvCC2L_zxXFg&s=10" tvg-country="AU" tvg-language="eng" group-title="Country: Australia;Type: Sports;Language: English",FOX CRICKET
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107811

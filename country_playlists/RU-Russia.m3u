@@ -731,3 +731,5 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: General;Language: Russian",Zvezda (1080p)
 http://51.158.144.33:2021/zvezda/index.m3u8
+#EXTINF:-1 channel-id="mjh-drive-fast" tvg-id="mjh-drive-fast" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" tvg-country="RU" tvg-language="rus" group-title="Country: Russia;Type: Auto;Language: Russian",DRIVE
+https://i.mjh.nz/.r/drive-fast.m3u8

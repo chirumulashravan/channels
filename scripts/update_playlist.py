@@ -107,7 +107,7 @@ def load_m3u_sources() -> list[tuple[str, Path, Path | None]]:
 def parse_m3u(data: bytes, source_name: str) -> list[PlaylistEntry]:
     text = data.decode("utf-8-sig", errors="replace")
     lines = text.splitlines()
-    if not lines or lines[0].strip() != "#EXTM3U":
+    if not lines or not lines[0].strip().startswith("#EXTM3U"):
         raise ValueError(f"M3U source does not start with #EXTM3U: {source_name}")
 
     entries: list[PlaylistEntry] = []

@@ -321,3 +321,37 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Kids;Language: English",YAAAS! (720p)
 https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
+#EXTINF:-1  tvg-id="554" tvg-name="24/7: Mr Bean The Animated Series" tvg-logo="http://icons.tw:8080/images/9cf37edfe19298ab48f76fb93dccf2e9.jpg" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Animation;Type: Kids;Language: English",Mr Bean The Animated Series
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/298730.m3u8
+#EXTINF:-1  tvg-id="Sky.Sci-Fi.HD.uk" tvg-name="GB : SKY SCI-FI" tvg-logo="https://assets.tv24.co/channels/syfy-universal-l.webp" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",SKY SCI-FI
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/53991.m3u8
+#EXTINF:-1  tvg-id="Sky.History2.uk" tvg-name="GB : SKY HISTORY 2" tvg-logo="http://icons.tw:8080/images/b8a8a765a0a1538a9462cefe74648e39.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Documentary;Language: English",SKY HISTORY 2
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/204632.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/MostHaunted_400x200.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Series;Language: English", Most Haunted
+https://amg00426-lds-amg00426c17-lg-au-10349.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00426-littledotstudiofast-mosthaunted-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 channel-id="mjh-10-grahamnorton" tvg-id="mjh-10-grahamnorton" tvg-logo="https://10.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png?image-profile=logo" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",The Graham Norton Show
+https://i.mjh.nz/.r/10-grahamnorton.m3u8
+#EXTINF:-1 channel-id="mjh-10-eightoutof10cats" tvg-id="mjh-10-eightoutof10cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",8 Out Of 10 Cats
+https://i.mjh.nz/.r/10-eightoutof10cats.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67081_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",BBC One
+http://41.205.93.154/BBCONE/index.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",E! Entertainment
+https://cache0.wonvt.st/live/15a0cd61f3w7um0229g5g/master.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24292_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",ITV1
+http://176.65.153.4:4004/play/a07n/index.m3u8
+#EXTINF:-1 channel-id="mjh-bbc-news-fast" tvg-id="mjh-bbc-news-fast" tvg-logo="https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",BBC News
+https://i.mjh.nz/.r/bbc-news-fast.m3u8
+#EXTINF:-1  tvg-id="US4000033L"   tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20260421T133849SQUARE.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",BBC News
+https://jmp2.uk/stvp-US4000033L
+#EXTINF:-1 tvg-chno="153" tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-icon-uk.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",SKY SPORTS ACTION
+http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
+#EXTINF:-1  tvg-id="SkySportsMix.uk"  tvg-logo="https://iptv-epg.org/images/4gM3ZXCHGY4zLspkSu2_4xfhSb2Tn_7QEzZkGbYzaPTB8N7Z8SNdIjKytM2PAsYZgjEMuKBrcCD9fheJ3ImsT4_0Vz_taY9f2P0G4PK5Uvtj" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",SKY SPORTS MIX
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/53983.m3u8
+#EXTINF:-1  tvg-id="SkySportsRacing.uk"  tvg-logo="https://iptv-epg.org/images/vAVkYGphmok7DQnALY5ihffj0O2nPB7tA63aDQ7iJK52TWvE0Zx5DEG852qDBSqzJofcnq1XyhU5vIS-XgaNiZ2zxcmF1GGeNOgHciDSaUZpV_Dw" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",SKY SPORTS RACING
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/53987.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",TNT Sports 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?26350" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",TNT SPORTS 1
+http://8ksts.site:80/play/live.php?mac=00:1A:79:AE:8C:17&stream=588012&extension=ts&play_token=pRZMmACxqr
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",TNT SPORTS 1
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzU3ODAwMS50cw==

@@ -305,3 +305,5 @@ http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Language: Dutch",ZO!34 (720p)
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
+#EXTINF:-1  tvg-id="ESPN.us"  tvg-logo="https://iptv-epg.org/images/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands;Type: Sports;Language: Dutch",ESPN 1
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTAxNTk0NC50cw==

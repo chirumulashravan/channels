@@ -19,3 +19,5 @@ https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8
 https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8
 #EXTINF:-1 tvg-country="NZ" tvg-language="eng,mri,nzs" group-title="Country: New Zealand;Language: English;Language: Maori;Language: New Zealand Sign Language",Whakaata Maori (1080p)
 https://i.mjh.nz/.r/maori-tv.m3u8
+#EXTINF:-1 channel-id="mjh-10-aussiedramapopup" tvg-id="mjh-10-aussiedramapopup" tvg-logo="https://10.com.au/ip/s3/2023/01/24/082f00086b990e915cd774644d67484c-1213111.png?image-profile=logo" tvg-country="NZ" tvg-language="eng,mri,nzs" group-title="Country: New Zealand;Language: English;Language: Maori;Language: New Zealand Sign Language",Rush
+https://i.mjh.nz/.r/10-aussiedramapopup.m3u8

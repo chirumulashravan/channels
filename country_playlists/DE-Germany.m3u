@@ -617,3 +617,5 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Music;Language: German",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 channel-id="mjh-10-mtv-the-shores" tvg-id="mjh-10-mtv-the-shores" tvg-logo="https://10.com.au/ip/s3/2023/07/11/3901f5c4522a0c36cfed8630ab781a5e-1248401.png?image-profile=logo" tvg-country="DE" tvg-language="deu" group-title="Country: Germany;Type: Entertainment;Language: German",MTV The Shores
+https://i.mjh.nz/.r/10-mtv-the-shores.m3u8

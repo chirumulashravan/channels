@@ -3,6 +3,10 @@
     {
       "source": "country_playlists/IN-India.m3u",
       "output_folder": "playlists/india"
+    },
+    {
+      "source": "examples/saintaholic.m3u",
+      "output_folder": "playlists/saintaholic"
     }
   ],
   "example": {
