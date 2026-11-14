@@ -1,8 +1,8 @@
 {
   "m3u_sources": [
     {
-      "source": "examples/sample.m3u",
-      "output_folder": "playlists/sample"
+      "source": "country_playlists/IN-India.m3u",
+      "output_folder": "playlists/india"
     }
   ],
   "example": {

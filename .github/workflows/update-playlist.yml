@@ -20,12 +20,15 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Validate India M3U source
+        run: python3 scripts/check_m3u_source.py --source-url https://raw.githubusercontent.com/chirumulashravan/channels/main/country_playlists/IN-India.m3u --source-path country_playlists/IN-India.m3u --min-entries 1
+
       - name: Generate playlist
         run: python3 scripts/update_playlist.py
 
       - name: Commit playlist changes
         run: |
-          git add -A -- '*.m3u' country_playlists/ .generated-source-playlists.json
+          git add -A -- '*.m3u' country_playlists/ .generated-source-playlists.json playlists/
           if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

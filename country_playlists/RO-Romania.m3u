@@ -257,5 +257,3 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetS
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Language: Romanian",Zece TV
 https://zecetv.ilink.ro:8088/hls/live.m3u8
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania;Type: General;Type: Music;Language: Romanian",RRR
-http://my.forcetv.pro:8880/movie/eJuxRCgKsb/c0OOJn2D2e/4467.mkv
