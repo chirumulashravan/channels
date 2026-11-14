@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Badakhshon (576p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: General" tvg-group="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Badakhshon (576p)
 http://185.121.1.163:8083/Badakhshon/index.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Dushanbe HD (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: General" tvg-group="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Dushanbe HD (1080p)
 http://185.121.1.163:8083/DushanbeHD/index.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: Sports;Language: Russian;Language: Tajik",Futbol (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: Sports" tvg-group="Country: Tajikistan;Type: Sports;Language: Russian;Language: Tajik",Futbol (1080p)
 http://185.121.1.163:8083/FootballHD/index.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: Science;Language: Russian;Language: Tajik",Ilm va Tabiat (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: Science" tvg-group="Country: Tajikistan;Type: Science;Language: Russian;Language: Tajik",Ilm va Tabiat (1080p)
 https://live.teleradiocom.tj/15/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Jahonnamo (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: General" tvg-group="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Jahonnamo (1080p)
 https://live.teleradiocom.tj/4/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Khatlon (576p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: General" tvg-group="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Khatlon (576p)
 https://live.teleradiocom.tj/10/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",TMT (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: General" tvg-group="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",TMT (1080p)
 https://live.teleradiocom.tj/9/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Tojikiston (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: General" tvg-group="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Tojikiston (1080p)
 https://live.teleradiocom.tj/1/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: Kids;Language: Russian;Language: Tajik",TV Bahoriston (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: Kids" tvg-group="Country: Tajikistan;Type: Kids;Language: Russian;Language: Tajik",TV Bahoriston (1080p)
 https://live.teleradiocom.tj/3/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",TV Kulob (576p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: General" tvg-group="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",TV Kulob (576p)
 https://live.teleradiocom.tj/12/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Language: Russian;Language: Tajik",TV Safina (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan" tvg-group="Country: Tajikistan;Language: Russian;Language: Tajik",TV Safina (1080p)
 https://live.teleradiocom.tj/2/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: Travel;Language: Russian;Language: Tajik",TV Sayohi (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: Travel" tvg-group="Country: Tajikistan;Type: Travel;Language: Russian;Language: Tajik",TV Sayohi (1080p)
 https://live.teleradiocom.tj/16/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Language: Russian;Language: Tajik",TV Sinamo (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan" tvg-group="Country: Tajikistan;Language: Russian;Language: Tajik",TV Sinamo (1080p)
 https://live.teleradiocom.tj/6/3m.m3u8
-#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",TV Sugd (1080p)
+#EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: General" tvg-group="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",TV Sugd (1080p)
 https://live.teleradiocom.tj/14/3m.m3u8

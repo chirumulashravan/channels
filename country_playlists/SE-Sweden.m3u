@@ -1,253 +1,253 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",7th Heaven
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",7th Heaven
 https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",2900 Happiness
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",2900 Happiness
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Are You The One?
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Are You The One?
 https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Language: Swedish",Aryen TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden" tvg-group="Country: Sweden;Language: Swedish",Aryen TV (1080p) [Not 24/7]
 https://aryen.tv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Sports;Language: Swedish",ATG Live (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Sports" tvg-group="Country: Sweden;Type: Sports;Language: Swedish",ATG Live (720p)
 https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Beavis and Butt-Head
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Beavis and Butt-Head
 https://jmp2.uk/plu-6486e8b48e3c0a0008e56914.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Best of MTV
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Best of MTV
 https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Best of Paradise Hotel: Finalveckan
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Best of Paradise Hotel: Finalveckan
 https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Best of Paradise Hotel: Kyssar & karlek
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Best of Paradise Hotel: Kyssar & karlek
 https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Best of Paradise Hotel: Pandoras Ask
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Best of Paradise Hotel: Pandoras Ask
 https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Best of Paradise Hotel: Skolveckan
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Best of Paradise Hotel: Skolveckan
 https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Boligjakten
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Boligjakten
 https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Boligkjop i blinde
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Cooking" tvg-group="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Boligkjop i blinde
 https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Boligkob i blinde
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Cooking" tvg-group="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Boligkob i blinde
 https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Breinholts
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Breinholts
 https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Britain's Next Top Model
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Britain's Next Top Model
 https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Broad City
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Broad City
 https://jmp2.uk/plu-65cba7b1ec452d0008acbed8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Sports;Language: Swedish",Brondby TV
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Sports" tvg-group="Country: Sweden;Type: Sports;Language: Swedish",Brondby TV
 https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Bull
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Bull
 https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Buying Blind Denmark
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Cooking" tvg-group="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Buying Blind Denmark
 https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Camp Kulinaris
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Camp Kulinaris
 https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Caroline in the City
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Caroline in the City
 https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Chappelle's Show
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Chappelle's Show
 https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Charterfeber
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Charterfeber
 https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Comedy Central Roast
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Comedy Central Roast
 https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Crazy Ex-Girlfriend
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Crazy Ex-Girlfriend
 https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Dallas Cowboys Cheerleaders
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Dallas Cowboys Cheerleaders
 https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Dating Naked UK
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Dating Naked UK
 https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",De unge modre
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",De unge modre
 https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Den gule sofa med Allan Sindberg
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Den gule sofa med Allan Sindberg
 https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Det sene show med Christian Fuhlendorff
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Det sene show med Christian Fuhlendorff
 https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: News;Language: Swedish",Di TV (1080p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: News" tvg-group="Country: Sweden;Type: News;Language: Swedish",Di TV (1080p)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Eventyrlig Oppussing
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Eventyrlig Oppussing
 https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Everybody Hates Chris
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Everybody Hates Chris
 https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: News;Language: Swedish",Expressen TV (1080p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: News" tvg-group="Country: Sweden;Type: News;Language: Swedish",Expressen TV (1080p)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Familien fra Bryggen
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Familien fra Bryggen
 https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",FBoy Island
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",FBoy Island
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Sports;Language: Swedish",FCK Lovinderne
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Sports" tvg-group="Country: Sweden;Type: Sports;Language: Swedish",FCK Lovinderne
 https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",For laekker til love
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",For laekker til love
 https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Forsidefruer
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Forsidefruer
 https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Frusna Vagar
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Frusna Vagar
 https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: General;Language: Swedish",Gustav & Linse pa udebane
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: General" tvg-group="Country: Sweden;Type: General;Language: Swedish",Gustav & Linse pa udebane
 https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Hogspanning
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Hogspanning
 https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",House of Lies
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",House of Lies
 https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Jersey Shore Family Vacation
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Jersey Shore Family Vacation
 https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Religious;Language: Swedish",Kanal 10 Asia (540p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Religious" tvg-group="Country: Sweden;Type: Religious;Language: Swedish",Kanal 10 Asia (540p)
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Key & Peele
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Key & Peele
 https://jmp2.uk/plu-65cba798d77d450008d056e5.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Klovn
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Klovn
 https://jmp2.uk/plu-65a63ff00d9ab400080b101c.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Koch'en pa toppen
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Cooking" tvg-group="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Koch'en pa toppen
 https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Culture;Language: Swedish",Komala TV
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Culture" tvg-group="Country: Sweden;Type: Culture;Language: Swedish",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Langt fra Bryggen
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Langt fra Bryggen
 https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Luksusfaelden
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Luksusfaelden
 https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Luksusfellen
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Luksusfellen
 https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Luksusfellen Sverige
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Luksusfellen Sverige
 https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Lyxfallan
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Lyxfallan
 https://jmp2.uk/plu-61c18f62f5acaf0007f83135.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Lyxfallan Danmark
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Lyxfallan Danmark
 https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Lyxfallan Norge
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Lyxfallan Norge
 https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Man with a Plan
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Man with a Plan
 https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",MasterChef Danmarks storste madtalenter
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Cooking" tvg-group="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",MasterChef Danmarks storste madtalenter
 https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Med kniven for struben
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Cooking" tvg-group="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Med kniven for struben
 https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",Merry Christmas from Viafree
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",Merry Christmas from Viafree
 https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Mit plastikmareridt
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Mit plastikmareridt
 https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",MTV Ex On The Beach
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",MTV Ex On The Beach
 https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",MTV The Hills
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",MTV The Hills
 https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",NCIS: Det bedste med Gibbs
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",NCIS: Det bedste med Gibbs
 https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",NCIS: Det bedste med Tony & Ziva
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",NonStop Kung Fu
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",NonStop Kung Fu
 https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Nordisk krim fra Viaplay
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Nordisk krim fra Viaplay
 https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Numb3rs
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Numb3rs
 https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Paradise
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Paradise
 https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Paradise Hotel
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Paradise Hotel
 https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Paradise Hotel: Under lagnerne
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Paradise Hotel: Under lagnerne
 https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Pluto TV Buskis
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Pluto TV Buskis
 https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Type: Classic;Language: Swedish",Pluto TV Danske klassikere
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Type: Classic;Language: Swedish",Pluto TV Danske klassikere
 https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Documentary;Language: Swedish",Pluto TV Dokumentar
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Documentary" tvg-group="Country: Sweden;Type: Documentary;Language: Swedish",Pluto TV Dokumentar
 https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Sports;Type: Outdoor;Language: Swedish",Pluto TV Fishing
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Sports" tvg-group="Country: Sweden;Type: Sports;Type: Outdoor;Language: Swedish",Pluto TV Fishing
 https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Sports;Language: Swedish",Pluto TV Handbold Highlights
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Sports" tvg-group="Country: Sweden;Type: Sports;Language: Swedish",Pluto TV Handbold Highlights
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Sports;Language: Swedish",Pluto TV Handbold Live
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Sports" tvg-group="Country: Sweden;Type: Sports;Language: Swedish",Pluto TV Handbold Live
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Sports;Language: Swedish",Pluto TV Handboll Highlights
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Sports" tvg-group="Country: Sweden;Type: Sports;Language: Swedish",Pluto TV Handboll Highlights
 https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Sports;Language: Swedish",Pluto TV Handboll Live
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Sports" tvg-group="Country: Sweden;Type: Sports;Language: Swedish",Pluto TV Handboll Live
 https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Harlequin
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Harlequin
 https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV John Wayne
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV John Wayne
 https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Juniorklubben (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Kids" tvg-group="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Juniorklubben (720p)
 https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Klassiske tegnefilm (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Kids" tvg-group="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Klassiske tegnefilm (720p)
 https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Klassiske tegnefilmer (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Kids" tvg-group="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Klassiske tegnefilmer (720p)
 https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Type: Comedy;Language: Swedish",Pluto TV Komedi
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Type: Comedy;Language: Swedish",Pluto TV Komedi
 https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Type: Comedy;Language: Swedish",Pluto TV Komedie
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Type: Comedy;Language: Swedish",Pluto TV Komedie
 https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Kultfilm
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Kultfilm
 https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Kultfilmer
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Kultfilmer
 https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Pluto TV Overnaturlig
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Pluto TV Overnaturlig
 https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Romantik
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Romantik
 https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Romantikk
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",Pluto TV Romantikk
 https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Tecknade klassiker (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Kids" tvg-group="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Tecknade klassiker (720p)
 https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Tecknat (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Kids" tvg-group="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Tecknat (720p)
 https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Tegnefilm (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Kids" tvg-group="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Tegnefilm (720p)
 https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Ungdomsserier (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Kids" tvg-group="Country: Sweden;Type: Kids;Language: Swedish",Pluto TV Ungdomsserier (720p)
 https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Documentary;Language: Swedish",Pluto TV Varldskrigen
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Documentary" tvg-group="Country: Sweden;Type: Documentary;Language: Swedish",Pluto TV Varldskrigen
 https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Documentary;Language: Swedish",Pluto TV Verdenskrigene
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Documentary" tvg-group="Country: Sweden;Type: Documentary;Language: Swedish",Pluto TV Verdenskrigene
 https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Type: Series;Language: Swedish",Pluto TV Wild West
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Type: Series;Language: Swedish",Pluto TV Wild West
 https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",PodRadio pa Pluto TV
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",PodRadio pa Pluto TV
 https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",r8Dio TV
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",r8Dio TV
 https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Comedy;Language: Swedish",Reno 911
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Comedy" tvg-group="Country: Sweden;Type: Comedy;Language: Swedish",Reno 911
 https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Ridiculousness: Nya avsnitt
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Ridiculousness: Nya avsnitt
 https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Ridiculousness: Nye afsnit
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Ridiculousness: Nye afsnit
 https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Ridiculousness: Nye episoder
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Ridiculousness: Nye episoder
 https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Robinson Ekspeditionen
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Robinson Ekspeditionen
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Skjonnhetsfellen Danmark
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Skjonnhetsfellen Danmark
 https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Skonhetsfallan Danmark
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Skonhetsfallan Danmark
 https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Skonne ombygninger
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Cooking" tvg-group="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Skonne ombygninger
 https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Animation;Type: Comedy;Language: Swedish",South Park Rockin' Out
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Animation" tvg-group="Country: Sweden;Type: Animation;Type: Comedy;Language: Swedish",South Park Rockin' Out
 https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Animation;Type: Comedy;Language: Swedish",South Park: Into the Stars
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Animation" tvg-group="Country: Sweden;Type: Animation;Type: Comedy;Language: Swedish",South Park: Into the Stars
 https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",Star Trek Movies
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",Star Trek Movies
 https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Stugfixarna Norge
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Cooking" tvg-group="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Stugfixarna Norge
 https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Kids;Language: Swedish",SvampBob Fyrkant (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Kids" tvg-group="Country: Sweden;Type: Kids;Language: Swedish",SvampBob Fyrkant (720p)
 https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Kids;Language: Swedish",SvampeBob Firkant (720p)
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Kids" tvg-group="Country: Sweden;Type: Kids;Language: Swedish",SvampeBob Firkant (720p)
 https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Svenska Hollywoodfruar
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Svenska Hollywoodfruar
 https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Svenska Truckers
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Svenska Truckers
 https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",The Daily Show
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",The Daily Show
 https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",The L Word
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",The L Word
 https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: General;Language: Swedish",The Millers
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: General" tvg-group="Country: Sweden;Type: General;Language: Swedish",The Millers
 https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Entertainment;Language: Swedish",Til julefrokost hos r8Dio
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Til julefrokost hos r8Dio
 https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Til Middag Hos
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Cooking" tvg-group="Country: Sweden;Type: Cooking;Type: Lifestyle;Language: Swedish",Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",True crime fran Viaplay
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",True crime fran Viaplay
 https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Unga Mammor
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Unga Mammor
 https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Movies;Language: Swedish",Viafree Movies
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Language: Swedish",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Country: Sweden;Type: Series;Language: Swedish",Wildfire
+#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Wildfire
 https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8

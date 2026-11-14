@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="CW" tvg-language="eng,nld,pap" group-title="Country: Curacao;Type: Entertainment;Language: English;Language: Dutch;Language: Papiamento",Bonce TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="CW" tvg-language="eng,nld,pap" group-title="Type: Entertainment" tvg-group="Country: Curacao;Type: Entertainment;Language: English;Language: Dutch;Language: Papiamento",Bonce TV (480p) [Not 24/7]
 https://seswa.bonce.tv/hls/bonceswa.m3u8
-#EXTINF:-1 tvg-country="CW" tvg-language="eng,nld,pap" group-title="Country: Curacao;Type: Entertainment;Language: English;Language: Dutch;Language: Papiamento",Nos Pais (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CW" tvg-language="eng,nld,pap" group-title="Type: Entertainment" tvg-group="Country: Curacao;Type: Entertainment;Language: English;Language: Dutch;Language: Papiamento",Nos Pais (720p) [Not 24/7]
 https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
-#EXTINF:-1 tvg-country="CW" tvg-language="eng,nld,pap" group-title="Country: Curacao;Type: General;Language: English;Language: Dutch;Language: Papiamento",TV Direct 13 (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="CW" tvg-language="eng,nld,pap" group-title="Type: General" tvg-group="Country: Curacao;Type: General;Language: English;Language: Dutch;Language: Papiamento",TV Direct 13 (480p) [Not 24/7]
 https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="CW" tvg-language="eng,nld,pap" group-title="Country: Curacao;Type: Music;Language: English;Language: Dutch;Language: Papiamento",VAM TV (720p)
+#EXTINF:-1 tvg-country="CW" tvg-language="eng,nld,pap" group-title="Type: Music" tvg-group="Country: Curacao;Type: Music;Language: English;Language: Dutch;Language: Papiamento",VAM TV (720p)
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8

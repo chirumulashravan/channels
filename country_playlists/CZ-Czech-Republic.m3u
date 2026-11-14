@@ -1,77 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",Barrandov Krimi (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: General" tvg-group="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",Barrandov Krimi (1080p)
 https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Movies;Language: Czech;Language: Slovak",Cinemax 2
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Movies" tvg-group="Country: Czech Republic;Type: Movies;Language: Czech;Language: Slovak",Cinemax 2
 http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: News;Language: Czech;Language: Slovak",CNN Prima News (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: News" tvg-group="Country: Czech Republic;Type: News;Language: Czech;Language: Slovak",CNN Prima News (1080p)
 http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",CT1
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: General" tvg-group="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",CT1
 http://88.212.15.50/live/test_ct1_25p/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Documentary;Language: Czech;Language: Slovak",CT2
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Documentary" tvg-group="Country: Czech Republic;Type: Documentary;Language: Czech;Language: Slovak",CT2
 http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: News;Language: Czech;Language: Slovak",CT24 (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: News" tvg-group="Country: Czech Republic;Type: News;Language: Czech;Language: Slovak",CT24 (1080p)
 http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Kids;Language: Czech;Language: Slovak",CT Decko (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Kids" tvg-group="Country: Czech Republic;Type: Kids;Language: Czech;Language: Slovak",CT Decko (1080p)
 http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Sports;Language: Czech;Language: Slovak",CT Sport (720p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Sports" tvg-group="Country: Czech Republic;Type: Sports;Language: Czech;Language: Slovak",CT Sport (720p)
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: News;Language: Czech;Language: Slovak",Current Time TV (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: News" tvg-group="Country: Czech Republic;Type: News;Language: Czech;Language: Slovak",Current Time TV (1080p)
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Elektrika TV (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Elektrika TV (1080p)
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",JC1 (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: General" tvg-group="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",JC1 (1080p)
 https://stream.jc1.cz/hls/jc1.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",Jihoceska televize (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: General" tvg-group="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",Jihoceska televize (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Kids;Language: Czech;Language: Slovak",Minimax CEE (576p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Kids" tvg-group="Country: Czech Republic;Type: Kids;Language: Czech;Language: Slovak",Minimax CEE (576p)
 http://88.212.15.50/live/test_minimax/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Mnau TV (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Mnau TV (1080p)
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Music Box Classic
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Music Box Classic
 http://88.212.15.50/live/mb_classic/index.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Music Box Dance
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Music Box Dance
 http://88.212.15.50/live/mb_dance/index.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Music Box Hits
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Music Box Hits
 http://88.212.15.50/live/mb_hits/index.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Music Box Sexy
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Music Box Sexy
 http://88.212.15.50/live/mb_sexy/index.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko (540p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko Black
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko Expres (540p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko Expres (540p)
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko Gold (540p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko Gold (540p)
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko Star
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Ocko Star
 https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",Plzen TV (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: General" tvg-group="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",Plzen TV (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Cool
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Cool
 http://88.212.15.50/live/prima_cool_cz_avc/index.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Love
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Love
 http://88.212.15.50/live/prima_love_cz_avc/index.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Show (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Show (1080p)
 http://88.212.15.50/live/test_prima_show_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Sports;Language: Czech;Language: Slovak",Prima Sport Czechia
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Sports" tvg-group="Country: Czech Republic;Type: Sports;Language: Czech;Language: Slovak",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Star (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Star (1080p)
 http://88.212.15.50/live/test_prima_star_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Zoom (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Zoom (1080p)
 http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Retro Music TV (360p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Retro Music TV (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Slager Muzika
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Slager Muzika
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Slager Original
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Music" tvg-group="Country: Czech Republic;Type: Music;Language: Czech;Language: Slovak",Slager Original
 https://stream-13.mazana.tv/slagroriginal.m3u8s
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Televize Seznam (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Televize Seznam (1080p)
 http://88.212.15.50/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",TV Brno 1 (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: General" tvg-group="Country: Czech Republic;Type: General;Language: Czech;Language: Slovak",TV Brno 1 (1080p)
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Up Network
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Up Network
 https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Language: Czech;Language: Slovak",Vychodoceska TV (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Vychodoceska TV (1080p)
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic;Type: Lifestyle;Language: Czech;Language: Slovak",Yachting TV (1080p)
+#EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Lifestyle" tvg-group="Country: Czech Republic;Type: Lifestyle;Language: Czech;Language: Slovak",Yachting TV (1080p)
 https://streams2.sofast.tv/vglive-sk-461164/index.m3u8

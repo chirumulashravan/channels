@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: General;Language: Macedonian",Alsat
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: General" tvg-group="Country: North Macedonia;Type: General;Language: Macedonian",Alsat
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Sports;Language: Macedonian",Arena Sport Premium M1
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Sports" tvg-group="Country: North Macedonia;Type: Sports;Language: Macedonian",Arena Sport Premium M1
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Sports;Language: Macedonian",Arena Sport Premium M2
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Sports" tvg-group="Country: North Macedonia;Type: Sports;Language: Macedonian",Arena Sport Premium M2
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Sports;Language: Macedonian",Arena Sport Premium M3
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Sports" tvg-group="Country: North Macedonia;Type: Sports;Language: Macedonian",Arena Sport Premium M3
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Music;Language: Macedonian",Jazz TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Music" tvg-group="Country: North Macedonia;Type: Music;Language: Macedonian",Jazz TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: General;Language: Macedonian",M-Net HD (720p)
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: General" tvg-group="Country: North Macedonia;Type: General;Language: Macedonian",M-Net HD (720p)
 http://ares.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: News;Language: Macedonian",M-Net Info
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: News" tvg-group="Country: North Macedonia;Type: News;Language: Macedonian",M-Net Info
 https://live.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Kids;Language: Macedonian",M-Net Kids (720p)
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Kids" tvg-group="Country: North Macedonia;Type: Kids;Language: Macedonian",M-Net Kids (720p)
 http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Sports;Language: Macedonian",M-Net Sport (720p)
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Sports" tvg-group="Country: North Macedonia;Type: Sports;Language: Macedonian",M-Net Sport (720p)
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Culture;Language: Macedonian",MRT 2
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Culture" tvg-group="Country: North Macedonia;Type: Culture;Language: Macedonian",MRT 2
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Legislative;Language: Macedonian",MRT Sobraniski kanal
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Legislative" tvg-group="Country: North Macedonia;Type: Legislative;Language: Macedonian",MRT Sobraniski kanal
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Music;Language: Macedonian",Sky Folk TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Music" tvg-group="Country: North Macedonia;Type: Music;Language: Macedonian",Sky Folk TV (720p) [Not 24/7]
 https://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Music;Language: Macedonian",Star Plus Televizija (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Music" tvg-group="Country: North Macedonia;Type: Music;Language: Macedonian",Star Plus Televizija (1080p) [Not 24/7]
 https://live.muzickatv.mk/live/StarMusic2.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: General;Language: Macedonian",Sutel TV
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: General" tvg-group="Country: North Macedonia;Type: General;Language: Macedonian",Sutel TV
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Music;Language: Macedonian",TopEstrada TV (720p)
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Music" tvg-group="Country: North Macedonia;Type: Music;Language: Macedonian",TopEstrada TV (720p)
 http://live.topestrada.com/live/topestrada/playlist.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: Entertainment;Language: Macedonian",TV ERA
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Entertainment" tvg-group="Country: North Macedonia;Type: Entertainment;Language: Macedonian",TV ERA
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: General;Language: Macedonian",TV NOVA 12 (576p) [Not 24/7]
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: General" tvg-group="Country: North Macedonia;Type: General;Language: Macedonian",TV NOVA 12 (576p) [Not 24/7]
 http://151.236.247.171:8080/nova/index.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Language: Macedonian",TV Shenja
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia" tvg-group="Country: North Macedonia;Language: Macedonian",TV Shenja
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Country: North Macedonia;Type: General;Language: Macedonian",TV Zdravkin (400p)
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: General" tvg-group="Country: North Macedonia;Type: General;Language: Macedonian",TV Zdravkin (400p)
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8

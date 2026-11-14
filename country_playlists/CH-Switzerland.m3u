@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Language: German;Language: French;Language: Italian",Canal Alpha Jura (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland" tvg-group="Country: Switzerland;Language: German;Language: French;Language: Italian",Canal Alpha Jura (1080p)
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Language: German;Language: French;Language: Italian",Canal Alpha Neuchatel (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland" tvg-group="Country: Switzerland;Language: German;Language: French;Language: Italian",Canal Alpha Neuchatel (1080p) [Not 24/7]
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 1 (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Entertainment" tvg-group="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 1 (1080p)
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 2 (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Entertainment" tvg-group="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 2 (1080p)
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 3 (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Entertainment" tvg-group="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 3 (1080p)
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 4 (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Entertainment" tvg-group="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 4 (1080p)
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 5
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Entertainment" tvg-group="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 5
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Music;Language: German;Language: French;Language: Italian",Couleur 3 (720p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Music" tvg-group="Country: Switzerland;Type: Music;Language: German;Language: French;Language: Italian",Couleur 3 (720p)
 https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Religious;Language: German;Language: French;Language: Italian",Die Neue Zeit TV (576p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Religious" tvg-group="Country: Switzerland;Type: Religious;Language: German;Language: French;Language: Italian",Die Neue Zeit TV (576p)
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Religious;Language: German;Language: French;Language: Italian",Immaculata TV (720p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Religious" tvg-group="Country: Switzerland;Type: Religious;Language: German;Language: French;Language: Italian",Immaculata TV (720p)
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: News;Language: German;Language: French;Language: Italian",Leman Bleu (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: News" tvg-group="Country: Switzerland;Type: News;Language: German;Language: French;Language: Italian",Leman Bleu (1080p)
 http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Weather;Language: German;Language: French;Language: Italian",Meteonews (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Weather" tvg-group="Country: Switzerland;Type: Weather;Language: German;Language: French;Language: Italian",Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Movies;Language: German;Language: French;Language: Italian",My Cinema Europe
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Movies" tvg-group="Country: Switzerland;Type: Movies;Language: German;Language: French;Language: Italian",My Cinema Europe
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Kids;Language: German;Language: French;Language: Italian",Nick Schweiz
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Kids" tvg-group="Country: Switzerland;Type: Kids;Language: German;Language: French;Language: Italian",Nick Schweiz
 https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Language: German;Language: French;Language: Italian",Radio 3i (720p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland" tvg-group="Country: Switzerland;Language: German;Language: French;Language: Italian",Radio 3i (720p)
 https://vstream-cdn.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Music;Language: German;Language: French;Language: Italian",RADIO DISCOunt TV (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Music" tvg-group="Country: Switzerland;Type: Music;Language: German;Language: French;Language: Italian",RADIO DISCOunt TV (1080p)
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: General;Language: German;Language: French;Language: Italian",Rhone TV (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: General" tvg-group="Country: Switzerland;Type: General;Language: German;Language: French;Language: Italian",Rhone TV (1080p)
 https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: News;Language: German;Language: French;Language: Italian",RTS Info (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: News" tvg-group="Country: Switzerland;Type: News;Language: German;Language: French;Language: Italian",RTS Info (1080p)
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Religious;Language: German;Language: French;Language: Italian",RTV Pendimi (720p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Religious" tvg-group="Country: Switzerland;Type: Religious;Language: German;Language: French;Language: Italian",RTV Pendimi (720p)
 https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Religious;Language: German;Language: French;Language: Italian",Sivan TV (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Religious" tvg-group="Country: Switzerland;Type: Religious;Language: German;Language: French;Language: Italian",Sivan TV (1080p)
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Language: German;Language: French;Language: Italian",Tele M1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland" tvg-group="Country: Switzerland;Language: German;Language: French;Language: Italian",Tele M1 (720p) [Not 24/7]
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Language: German;Language: French;Language: Italian",TeleTicino (720p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland" tvg-group="Country: Switzerland;Language: German;Language: French;Language: Italian",TeleTicino (720p)
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Language: German;Language: French;Language: Italian",TeleZuri (720p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland" tvg-group="Country: Switzerland;Language: German;Language: French;Language: Italian",TeleZuri (720p)
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Language: German;Language: French;Language: Italian",TVM 3 (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland" tvg-group="Country: Switzerland;Language: German;Language: French;Language: Italian",TVM 3 (1080p)
 https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Documentary;Type: Outdoor;Language: German;Language: French;Language: Italian",WaterBear (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Documentary" tvg-group="Country: Switzerland;Type: Documentary;Type: Outdoor;Language: German;Language: French;Language: Italian",WaterBear (1080p)
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: Documentary;Language: German;Language: French;Language: Italian",Wedo Big Stories (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Documentary" tvg-group="Country: Switzerland;Type: Documentary;Language: German;Language: French;Language: Italian",Wedo Big Stories (1080p)
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
-#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Country: Switzerland;Type: General;Language: German;Language: French;Language: Italian",Wedo TV Amor (1080p)
+#EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: General" tvg-group="Country: Switzerland;Type: General;Language: German;Language: French;Language: Italian",Wedo TV Amor (1080p)
 https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8

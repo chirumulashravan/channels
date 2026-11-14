@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Country: Syria;Type: Family;Language: Arabic",Al-Souriya TV (1080p)
+#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Type: Family" tvg-group="Country: Syria;Type: Family;Language: Arabic",Al-Souriya TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
-#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Country: Syria;Type: News;Language: Arabic",Alalam News Channel Syria (1080p)
+#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Type: News" tvg-group="Country: Syria;Type: News;Language: Arabic",Alalam News Channel Syria (1080p)
 http://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Country: Syria;Type: News;Language: Arabic",Alikhbaria Syria (1080p)
+#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Type: News" tvg-group="Country: Syria;Type: News;Language: Arabic",Alikhbaria Syria (1080p)
 http://185.9.2.18/chid_423/index.m3u8
-#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Country: Syria;Type: General;Language: Arabic",Althania (1080p)
+#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Type: General" tvg-group="Country: Syria;Type: General;Language: Arabic",Althania (1080p)
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Country: Syria;Type: General;Language: Arabic",Rojava TV (1080p)
+#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Type: General" tvg-group="Country: Syria;Type: General;Language: Arabic",Rojava TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
-#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Country: Syria;Language: Arabic",Ronahi TV (1080p)
+#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Country: Syria" tvg-group="Country: Syria;Language: Arabic",Ronahi TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Country: Syria;Type: News;Language: Arabic",Syria TV (1080p)
+#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Type: News" tvg-group="Country: Syria;Type: News;Language: Arabic",Syria TV (1080p)
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Country: Syria;Type: News;Language: Arabic",Welat TV (1080i)
+#EXTINF:-1 tvg-country="SY" tvg-language="ara" group-title="Type: News" tvg-group="Country: Syria;Type: News;Language: Arabic",Welat TV (1080i)
 https://stream.badinan.xyz/welat/tv/playlist.m3u8

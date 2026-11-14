@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="ER" tvg-language="ara,eng,tir" group-title="Country: Eritrea;Type: General;Language: Arabic;Language: English;Language: Tigrinya",ERi-TV 1 (576p)
+#EXTINF:-1 tvg-country="ER" tvg-language="ara,eng,tir" group-title="Type: General" tvg-group="Country: Eritrea;Type: General;Language: Arabic;Language: English;Language: Tigrinya",ERi-TV 1 (576p)
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8

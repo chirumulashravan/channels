@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="GF" tvg-language="fra" group-title="Country: French Guiana;Type: General;Language: French",Tele Peyi (720p)
+#EXTINF:-1 tvg-country="GF" tvg-language="fra" group-title="Type: General" tvg-group="Country: French Guiana;Type: General;Language: French",Tele Peyi (720p)
 https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8

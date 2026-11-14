@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="RW" tvg-language="eng,fra,kin" group-title="Country: Rwanda;Type: Music;Language: English;Language: French;Language: Kinyarwanda",Isango TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="RW" tvg-language="eng,fra,kin" group-title="Type: Music" tvg-group="Country: Rwanda;Type: Music;Language: English;Language: French;Language: Kinyarwanda",Isango TV (480p) [Not 24/7]
 http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
-#EXTINF:-1 tvg-country="RW" tvg-language="eng,fra,kin" group-title="Country: Rwanda;Type: General;Language: English;Language: French;Language: Kinyarwanda",Isibo TV
+#EXTINF:-1 tvg-country="RW" tvg-language="eng,fra,kin" group-title="Type: General" tvg-group="Country: Rwanda;Type: General;Language: English;Language: French;Language: Kinyarwanda",Isibo TV
 https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="RW" tvg-language="eng,fra,kin" group-title="Country: Rwanda;Type: Entertainment;Language: English;Language: French;Language: Kinyarwanda",KC2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="RW" tvg-language="eng,fra,kin" group-title="Type: Entertainment" tvg-group="Country: Rwanda;Type: Entertainment;Language: English;Language: French;Language: Kinyarwanda",KC2 (720p) [Not 24/7]
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 tvg-country="RW" tvg-language="eng,fra,kin" group-title="Country: Rwanda;Type: General;Language: English;Language: French;Language: Kinyarwanda",Rwanda TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="RW" tvg-language="eng,fra,kin" group-title="Type: General" tvg-group="Country: Rwanda;Type: General;Language: English;Language: French;Language: Kinyarwanda",Rwanda TV (480p) [Not 24/7]
 http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8

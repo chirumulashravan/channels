@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: Entertainment;Language: Bengali",Ananda TV (720p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Entertainment" tvg-group="Country: Bangladesh;Type: Entertainment;Language: Bengali",Ananda TV (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: General;Language: Bengali",ATN Bangla (720p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: General" tvg-group="Country: Bangladesh;Type: General;Language: Bengali",ATN Bangla (720p)
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: Music;Language: Bengali",ATN Music (360p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Music" tvg-group="Country: Bangladesh;Type: Music;Language: Bengali",ATN Music (360p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: General;Language: Bengali",Bangla Vision (720p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: General" tvg-group="Country: Bangladesh;Type: General;Language: Bengali",Bangla Vision (720p)
 https://tvsen5.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: General;Language: Bengali",Boishakhi TV
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: General" tvg-group="Country: Bangladesh;Type: General;Language: Bengali",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: News;Language: Bengali",DBC News (480p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: News" tvg-group="Country: Bangladesh;Type: News;Language: Bengali",DBC News (480p)
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: Kids;Language: Bengali",Duronto TV (1080p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Kids" tvg-group="Country: Bangladesh;Type: Kids;Language: Bengali",Duronto TV (1080p)
 https://livetv.shamon-cable.net:8443/Duronto/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: Business;Language: Bengali",Ekhon TV (1080p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Business" tvg-group="Country: Bangladesh;Type: Business;Language: Bengali",Ekhon TV (1080p)
 https://tplay.live/out/bangladesh/ekhontv.index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: News;Language: Bengali",Ekushey TV (480p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: News" tvg-group="Country: Bangladesh;Type: News;Language: Bengali",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: General;Language: Bengali",Gazi TV (1080p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: General" tvg-group="Country: Bangladesh;Type: General;Language: Bengali",Gazi TV (1080p)
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: Entertainment;Language: Bengali",Maasranga TV (720p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Entertainment" tvg-group="Country: Bangladesh;Type: Entertainment;Language: Bengali",Maasranga TV (720p)
 http://tvsen5.aynascope.net/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: Religious;Language: Bengali",Madani Channel Bangla (1080p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Religious" tvg-group="Country: Bangladesh;Type: Religious;Language: Bengali",Madani Channel Bangla (1080p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Language: Bengali",Matribhumi TV (720p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh" tvg-group="Country: Bangladesh;Language: Bengali",Matribhumi TV (720p)
 http://live.playmax.live/matribhumi/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: Movies;Language: Bengali",Movie Bangla
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Movies" tvg-group="Country: Bangladesh;Type: Movies;Language: Bengali",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: News;Language: Bengali",NAN TV (720p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: News" tvg-group="Country: Bangladesh;Type: News;Language: Bengali",NAN TV (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: News;Language: Bengali",News 21 Bangla TV (1080p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: News" tvg-group="Country: Bangladesh;Type: News;Language: Bengali",News 21 Bangla TV (1080p)
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: General;Language: Bengali",Nexus TV (576p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: General" tvg-group="Country: Bangladesh;Type: General;Language: Bengali",Nexus TV (576p)
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: Entertainment;Language: Bengali",Rupashi Bangla TV (720p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Entertainment" tvg-group="Country: Bangladesh;Type: Entertainment;Language: Bengali",Rupashi Bangla TV (720p)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: Sports;Language: Bengali",T Sports (1080p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Sports" tvg-group="Country: Bangladesh;Type: Sports;Language: Bengali",T Sports (1080p)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh;Type: General;Language: Bengali",Vokta TV (720p)
+#EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: General" tvg-group="Country: Bangladesh;Type: General;Language: Bengali",Vokta TV (720p)
 https://vokta.raytahost.com/live/voktatv/index.m3u8

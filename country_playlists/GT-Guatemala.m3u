@@ -1,99 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Amigos TV Chiquimula (1080p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Amigos TV Chiquimula (1080p)
 http://45.166.93.156:9999/play/a0j2/index.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Movies;Language: Spanish",Aurora Media Films (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Movies" tvg-group="Country: Guatemala;Type: Movies;Language: Spanish",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Barbe TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Barbe TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",BD Television (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",BD Television (720p)
 https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Canal 6 Panadish (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Canal 6 Panadish (720p)
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Canal 13 Esquipulas (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Canal 13 Esquipulas (720p)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Canal 30 TV Bethel (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Canal 30 TV Bethel (720p) [Not 24/7]
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Language: Spanish",Canal 100 Chinique (1080p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala" tvg-group="Country: Guatemala;Language: Spanish",Canal 100 Chinique (1080p)
 https://183.giatvcdn.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Canal Iglesia Luz y Verdad (1080p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Canal Iglesia Luz y Verdad (1080p)
 https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Canal Peniel (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Canal Peniel (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Canal TV Radio Maya TGBA (480p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Canal TV Radio Maya TGBA (480p)
 https://s.emisoras.tv:8081/radiomaya/index.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Canal Visof (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Canal Visof (720p)
 https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Candelaria TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Candelaria TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Carinosa TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Carinosa TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Conectados con Dios
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Conectados con Dios
 https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",El-Roi TV (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",El-Roi TV (720p)
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Espiritu Santo Y Fuego TV (480p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Espiritu Santo Y Fuego TV (480p)
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Expresion TV (1080p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Expresion TV (1080p)
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Fe Viviente (480p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Fe Viviente (480p)
 https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Franchs TV (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Franchs TV (720p)
 https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Entertainment;Language: Spanish",Gardenias TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Guatemala;Type: Entertainment;Language: Spanish",Gardenias TV (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: News;Language: Spanish",Guatevision (1080p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: News" tvg-group="Country: Guatemala;Type: News;Language: Spanish",Guatevision (1080p)
 http://200.115.120.1:8000/play/ca066/index.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Iglesia Del Camino (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Iglesia Del Camino (480p) [Not 24/7]
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Jacal Canal 5 (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Jacal Canal 5 (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Jehova Nissi (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Jehova Nissi (720p)
 https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Jubilo TV (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Jubilo TV (720p)
 http://173.249.60.54/hls/jubilotv.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Knal 4 Quiche (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Knal 4 Quiche (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Entertainment;Language: Spanish",Maxivision TV (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Guatemala;Type: Entertainment;Language: Spanish",Maxivision TV (720p)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",MCN Television (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",MCN Television (720p)
 https://eu1.servers10.com:8081/8338/index.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Multivision Canal 3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Multivision Canal 3 (720p) [Not 24/7]
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Sports;Language: Spanish",Multivision Sports (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Sports" tvg-group="Country: Guatemala;Type: Sports;Language: Spanish",Multivision Sports (720p) [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Nim TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Nim TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Nuestra Imagen TV
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Nuestra Imagen TV
 https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Peniel K&Y (480p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Peniel K&Y (480p)
 https://s.emisoras.tv:8081/penielkids/index.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Peniel Musical (480p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Peniel Musical (480p)
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Peniel TV Biblia Abierta (480p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Peniel TV Biblia Abierta (480p)
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Plenitud TV (360p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Plenitud TV (360p)
 https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Religious;Language: Spanish",Presencia Television (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Presencia Television (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",Radio Coatan Canal 21
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Radio Coatan Canal 21
 https://s2.tvdatta.com:3112/hybrid/play.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Entertainment;Language: Spanish",SAS TV (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Guatemala;Type: Entertainment;Language: Spanish",SAS TV (720p)
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: News;Language: Spanish",TN23 (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: News" tvg-group="Country: Guatemala;Type: News;Language: Spanish",TN23 (720p)
 https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Music;Language: Spanish",Totovision
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Guatemala;Type: Music;Language: Spanish",Totovision
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Language: Spanish",Tunevision (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala" tvg-group="Country: Guatemala;Language: Spanish",Tunevision (1080p) [Not 24/7]
 https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",TV Florencia (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",TV Florencia (720p)
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Education;Language: Spanish",TV Maya (480p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Education" tvg-group="Country: Guatemala;Type: Education;Language: Spanish",TV Maya (480p)
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",TV Tun (240p) [Not 24/7]
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",TV Tun (240p) [Not 24/7]
 https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: Classic;Language: Spanish",TVS Retro (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Classic" tvg-group="Country: Guatemala;Type: Classic;Language: Spanish",TVS Retro (720p)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Language: Spanish",Vea Canal (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala" tvg-group="Country: Guatemala;Language: Spanish",Vea Canal (720p)
 http://181.78.106.127:5000/play/ca090/index.m3u8
-#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Country: Guatemala;Type: General;Language: Spanish",World TV Guatemala (720p)
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",World TV Guatemala (720p)
 https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8

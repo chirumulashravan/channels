@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Country: Turkmenistan;Type: General;Language: Russian;Language: Turkmen",Altyn Asyr (406p) [Not 24/7]
+#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Type: General" tvg-group="Country: Turkmenistan;Type: General;Language: Russian;Language: Turkmen",Altyn Asyr (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch001.m3u8
-#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Country: Turkmenistan;Type: General;Language: Russian;Language: Turkmen",Arkadag TV (406p) [Not 24/7]
+#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Type: General" tvg-group="Country: Turkmenistan;Type: General;Language: Russian;Language: Turkmen",Arkadag TV (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch000.m3u8
-#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Country: Turkmenistan;Type: General;Language: Russian;Language: Turkmen",Asgabat (406p) [Not 24/7]
+#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Type: General" tvg-group="Country: Turkmenistan;Type: General;Language: Russian;Language: Turkmen",Asgabat (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch006.m3u8
-#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Country: Turkmenistan;Type: Culture;Language: Russian;Language: Turkmen",Miras (406p) [Not 24/7]
+#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Type: Culture" tvg-group="Country: Turkmenistan;Type: Culture;Language: Russian;Language: Turkmen",Miras (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch003.m3u8
-#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Country: Turkmenistan;Type: Music;Language: Russian;Language: Turkmen",Turkmen Owazy (406p) [Not 24/7]
+#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Type: Music" tvg-group="Country: Turkmenistan;Type: Music;Language: Russian;Language: Turkmen",Turkmen Owazy (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch005.m3u8
-#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Country: Turkmenistan;Type: General;Language: Russian;Language: Turkmen",Turkmenistan (406p) [Not 24/7]
+#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Type: General" tvg-group="Country: Turkmenistan;Type: General;Language: Russian;Language: Turkmen",Turkmenistan (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch007.m3u8
-#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Country: Turkmenistan;Type: Sports;Language: Russian;Language: Turkmen",Turkmenistan Sport (406p) [Not 24/7]
+#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Type: Sports" tvg-group="Country: Turkmenistan;Type: Sports;Language: Russian;Language: Turkmen",Turkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Country: Turkmenistan;Type: Education;Language: Russian;Language: Turkmen",Yaslyk (406p) [Not 24/7]
+#EXTINF:-1 tvg-country="TM" tvg-language="rus,tuk" group-title="Type: Education" tvg-group="Country: Turkmenistan;Type: Education;Language: Russian;Language: Turkmen",Yaslyk (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch002.m3u8

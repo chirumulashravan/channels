@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Country: Japan;Type: Entertainment;Language: Japanese",NHK World Premium (720p)
+#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Type: Entertainment" tvg-group="Country: Japan;Type: Entertainment;Language: Japanese",NHK World Premium (720p)
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Country: Japan;Type: News;Type: Culture;Language: Japanese",NHK World-Japan (1080p)
+#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Type: News" tvg-group="Country: Japan;Type: News;Type: Culture;Language: Japanese",NHK World-Japan (1080p)
 https://cdn.pishow.tv/ott/live/455/master.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Country: Japan;Type: Shop;Language: Japanese",Shop Channel (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Type: Shop" tvg-group="Country: Japan;Type: Shop;Language: Japanese",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Country: Japan;Type: General;Language: Japanese",TV-U Yamagata (1080i)
+#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Type: General" tvg-group="Country: Japan;Type: General;Language: Japanese",TV-U Yamagata (1080i)
 https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Country: Japan;Type: Weather;Language: Japanese",Weathernews (720p)
+#EXTINF:-1 tvg-country="JP" tvg-language="jpn" group-title="Type: Weather" tvg-group="Country: Japan;Type: Weather;Language: Japanese",Weathernews (720p)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8

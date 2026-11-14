@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Alvin Channel TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",AnewZ TV
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: News" tvg-group="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",AnewZ TV
 https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",APA Tv (1080p)
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: News" tvg-group="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Ayaz TV (720p)
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Ayaz TV (720p)
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Az TV (1080p)
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Az TV (1080p)
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",Baku.TV (1080p)
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: News" tvg-group="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",Baku.TV (1080p)
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: Sports;Language: Azerbaijani;Language: Russian",CBC Sport
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: Sports" tvg-group="Country: Azerbaijan;Type: Sports;Language: Azerbaijani;Language: Russian",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",EL TV
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Ictimai TV
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Ictimai TV
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Kanal 35 (720p)
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Kanal 35 (720p)
 https://str2.yodacdn.net/kanal35/index.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",Kapaz TV
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: News" tvg-group="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: Music;Language: Azerbaijani;Language: Russian",KN Music TV
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: Music" tvg-group="Country: Azerbaijan;Type: Music;Language: Azerbaijani;Language: Russian",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: Culture;Language: Azerbaijani;Language: Russian",Medeniyyet TV (1080p)
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: Culture" tvg-group="Country: Azerbaijan;Type: Culture;Language: Azerbaijani;Language: Russian",Medeniyyet TV (1080p)
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Naxcivan TV (720p)
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Naxcivan TV (720p)
 https://str2.yodacdn.net/ntv/video.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Vilayet TV
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Xezer TV (720p)
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Xezer TV (720p)
 https://www.xezerxeber.az/stream/index.m3u8

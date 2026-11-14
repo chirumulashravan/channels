@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Country: Oman;Type: Religious;Language: Arabic",Alistiqama TV (576p)
+#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Type: Religious" tvg-group="Country: Oman;Type: Religious;Language: Arabic",Alistiqama TV (576p)
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Country: Oman;Type: Sports;Language: Arabic",Oman Sports TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Type: Sports" tvg-group="Country: Oman;Type: Sports;Language: Arabic",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Country: Oman;Type: General;Language: Arabic",Oman TV (1080p)
+#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Type: General" tvg-group="Country: Oman;Type: General;Language: Arabic",Oman TV (1080p)
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Country: Oman;Type: Culture;Language: Arabic",Oman TV Cultural (1080p)
+#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Type: Culture" tvg-group="Country: Oman;Type: Culture;Language: Arabic",Oman TV Cultural (1080p)
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Country: Oman;Type: News;Language: Arabic",Oman TV Mubashir (1080p)
+#EXTINF:-1 tvg-country="OM" tvg-language="ara" group-title="Type: News" tvg-group="Country: Oman;Type: News;Language: Arabic",Oman TV Mubashir (1080p)
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8

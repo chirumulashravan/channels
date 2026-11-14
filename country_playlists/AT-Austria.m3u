@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Music;Language: German",Antenne Kaernten (720p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Music" tvg-group="Country: Austria;Type: Music;Language: German",Antenne Kaernten (720p)
 https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Music;Language: German",Antenne Steiermark (720p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Music" tvg-group="Country: Austria;Type: Music;Language: German",Antenne Steiermark (720p)
 https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Music;Language: German",Antenne Vorarlberg (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Music" tvg-group="Country: Austria;Type: Music;Language: German",Antenne Vorarlberg (720p) [Not 24/7]
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: General;Language: German",FS1 Salzburg (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: General" tvg-group="Country: Austria;Type: General;Language: German",FS1 Salzburg (720p) [Not 24/7]
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Music;Language: German",Hitradio O3 (720p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Music" tvg-group="Country: Austria;Type: Music;Language: German",Hitradio O3 (720p)
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Sports;Language: German",K19
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Sports" tvg-group="Country: Austria;Type: Sports;Language: German",K19
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Religious;Language: German",KIT-TV (720p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Religious" tvg-group="Country: Austria;Type: Religious;Language: German",KIT-TV (720p)
 https://everest.pa-hosting.de:3591/live/joseflive.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Music;Language: German",Kronehit (1080p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Music" tvg-group="Country: Austria;Type: Music;Language: German",Kronehit (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: General;Language: German",Landle TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: General" tvg-group="Country: Austria;Type: General;Language: German",Landle TV (1080p) [Not 24/7]
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: General;Language: German",ORF 1
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: General" tvg-group="Country: Austria;Type: General;Language: German",ORF 1
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: General;Language: German",ORF 2 (720p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: General" tvg-group="Country: Austria;Type: General;Language: German",ORF 2 (720p)
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Kids;Language: German",ORF Kids (720p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Kids" tvg-group="Country: Austria;Type: Kids;Language: German",ORF Kids (720p)
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Sports;Language: German",ORF Sport+
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Sports" tvg-group="Country: Austria;Type: Sports;Language: German",ORF Sport+
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Language: German",R9 (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria" tvg-group="Country: Austria;Language: German",R9 (720p) [Not 24/7]
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Sports;Type: Outdoor;Language: German",Red Bull TV (1080p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Sports" tvg-group="Country: Austria;Type: Sports;Type: Outdoor;Language: German",Red Bull TV (1080p)
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Travel;Language: German",Schladming-Dachstein TV (720p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Travel" tvg-group="Country: Austria;Type: Travel;Language: German",Schladming-Dachstein TV (720p)
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Movies;Language: German",ServusTV (576p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Movies" tvg-group="Country: Austria;Type: Movies;Language: German",ServusTV (576p)
 https://s6.hopslan.com/servuz1/index.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: General;Language: German",Steiermark TV (1080p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: General" tvg-group="Country: Austria;Type: General;Language: German",Steiermark TV (1080p)
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Outdoor;Language: German",Swamiji TV American (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Outdoor" tvg-group="Country: Austria;Type: Outdoor;Language: German",Swamiji TV American (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Outdoor;Language: German",Swamiji TV Australian (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Outdoor" tvg-group="Country: Austria;Type: Outdoor;Language: German",Swamiji TV Australian (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Outdoor;Language: German",Swamiji TV European (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Outdoor" tvg-group="Country: Austria;Type: Outdoor;Language: German",Swamiji TV European (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Type: Sports;Language: German",The Cycling Channel
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Type: Sports" tvg-group="Country: Austria;Type: Sports;Language: German",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Language: German",Tirol TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria" tvg-group="Country: Austria;Language: German",Tirol TV (720p) [Not 24/7]
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Language: German",TV 1 Oberosterreich (1080p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria" tvg-group="Country: Austria;Language: German",TV 1 Oberosterreich (1080p)
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Language: German",Uppera Balkan (720p)
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria" tvg-group="Country: Austria;Language: German",Uppera Balkan (720p)
 http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria;Language: German",W24 (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="AT" tvg-language="deu" group-title="Country: Austria" tvg-group="Country: Austria;Language: German",W24 (720p) [Not 24/7]
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

@@ -210,11 +210,19 @@ def channel_tags(name: str, metadata_index: dict[str, dict[str, object]]) -> str
     if not metadata:
         return ""
 
-    groups = []
+    groups: list[str] = []
     if metadata["country_name"]:
         groups.append(f'Country: {metadata["country_name"]}')
     groups.extend(f"Type: {category}" for category in metadata["categories"])
     groups.extend(f"Language: {language}" for language in metadata["language_names"])
+
+    primary_group = groups[0] if groups else ""
+    if metadata["categories"]:
+        primary_group = f"Type: {metadata['categories'][0]}"
+    elif metadata["country_name"]:
+        primary_group = f'Country: {metadata["country_name"]}'
+    elif metadata["language_names"]:
+        primary_group = f"Language: {metadata['language_names'][0]}"
 
     attributes = []
     if metadata["country_code"]:
@@ -222,8 +230,11 @@ def channel_tags(name: str, metadata_index: dict[str, dict[str, object]]) -> str
     if metadata["language_codes"]:
         codes = ",".join(str(code) for code in metadata["language_codes"])
         attributes.append(f'tvg-language="{attribute(codes)}"')
+    if primary_group:
+        attributes.append(f'group-title="{attribute(primary_group)}"')
     if groups:
-        attributes.append(f'group-title="{attribute(";".join(groups))}"')
+        detailed_groups = ";".join(groups)
+        attributes.append(f'tvg-group="{attribute(detailed_groups)}"')
     return " " + " ".join(attributes)
 
 

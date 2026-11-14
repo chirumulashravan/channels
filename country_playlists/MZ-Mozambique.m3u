@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="MZ" tvg-language="por" group-title="Country: Mozambique;Type: Kids;Language: Portuguese",Reino Infantil
+#EXTINF:-1 tvg-country="MZ" tvg-language="por" group-title="Type: Kids" tvg-group="Country: Mozambique;Type: Kids;Language: Portuguese",Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
-#EXTINF:-1 tvg-country="MZ" tvg-language="por" group-title="Country: Mozambique;Type: Religious;Language: Portuguese",TV Mana Mocambique (1080p)
+#EXTINF:-1 tvg-country="MZ" tvg-language="por" group-title="Type: Religious" tvg-group="Country: Mozambique;Type: Religious;Language: Portuguese",TV Mana Mocambique (1080p)
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="MZ" tvg-language="por" group-title="Country: Mozambique;Type: General;Language: Portuguese",TVM Internacional (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="MZ" tvg-language="por" group-title="Type: General" tvg-group="Country: Mozambique;Type: General;Language: Portuguese",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8

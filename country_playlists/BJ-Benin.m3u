@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: Kids;Type: Sports;Language: French",ADO TV (720p)
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: Kids" tvg-group="Country: Benin;Type: Kids;Type: Sports;Language: French",ADO TV (720p)
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: Kids;Language: French",Benin TV Junior (720p)
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: Kids" tvg-group="Country: Benin;Type: Kids;Language: French",Benin TV Junior (720p)
 https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: News;Language: French",Benin Web TV (720p)
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: News" tvg-group="Country: Benin;Type: News;Language: French",Benin Web TV (720p)
 https://stream.beninwebtv.bj/2/live/stream.m3u8
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: General;Language: French",Digital Channel (480p)
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: General" tvg-group="Country: Benin;Type: General;Language: French",Digital Channel (480p)
 https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: News;Language: French",HC2 TV
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: News" tvg-group="Country: Benin;Type: News;Language: French",HC2 TV
 https://stream.hc2tv.bj/2/live/stream.m3u8
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: News;Language: French",ICONE TV
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: News" tvg-group="Country: Benin;Type: News;Language: French",ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: General;Language: French",KassouaTV (720p)
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: General" tvg-group="Country: Benin;Type: General;Language: French",KassouaTV (720p)
 https://playtv4k.live/live/kassouatv/index.m3u8
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: Business;Language: French",Le Nouveau Manager TV
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: Business" tvg-group="Country: Benin;Type: Business;Language: French",Le Nouveau Manager TV
 https://lnmlive.com/live/lnmtv.m3u8
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: General;Language: French",Speedline TV
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: General" tvg-group="Country: Benin;Type: General;Language: French",Speedline TV
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
-#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Country: Benin;Type: General;Language: French",TVC Benin (720p)
+#EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: General" tvg-group="Country: Benin;Type: General;Language: French",TVC Benin (720p)
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8

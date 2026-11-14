@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: Music;Language: French",A2i Music (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: Music" tvg-group="Country: Senegal;Type: Music;Language: French",A2i Music (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: Education;Language: French",A2i Naija (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: Education" tvg-group="Country: Senegal;Type: Education;Language: French",A2i Naija (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: Religious;Language: French",A2i Religion (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: Religious" tvg-group="Country: Senegal;Type: Religious;Language: French",A2i Religion (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: Culture;Language: French",Amani TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: Culture" tvg-group="Country: Senegal;Type: Culture;Language: French",Amani TV (1080p) [Not 24/7]
 https://goccn.cloud/hls/amanitv/index.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: Religious;Language: French",Chabiba TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: Religious" tvg-group="Country: Senegal;Type: Religious;Language: French",Chabiba TV (360p) [Not 24/7]
 https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Language: French",Diaspora 24
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal" tvg-group="Country: Senegal;Language: French",Diaspora 24
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: General;Language: French",Louga TV (480p)
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: General" tvg-group="Country: Senegal;Type: General;Language: French",Louga TV (480p)
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: Culture;Language: French",One Nation TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: Culture" tvg-group="Country: Senegal;Type: Culture;Language: French",One Nation TV (720p) [Not 24/7]
 https://endour.net/hls/One_nationtv/index.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: General;Language: French",Seneweb TV
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: General" tvg-group="Country: Senegal;Type: General;Language: French",Seneweb TV
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: General;Language: French",SenJeunes TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: General" tvg-group="Country: Senegal;Type: General;Language: French",SenJeunes TV (480p) [Not 24/7]
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: News;Language: French",SunuLabel TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: News" tvg-group="Country: Senegal;Type: News;Language: French",SunuLabel TV (480p) [Not 24/7]
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
-#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal;Type: Music;Language: French",TeleMusik Senegal (720p)
+#EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Type: Music" tvg-group="Country: Senegal;Type: Music;Language: French",TeleMusik Senegal (720p)
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8

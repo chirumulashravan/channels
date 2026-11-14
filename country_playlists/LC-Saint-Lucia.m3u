@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="LC" tvg-language="eng" group-title="Country: Saint Lucia;Type: General;Language: English",Caribbean Hot 7 TV (720p)
+#EXTINF:-1 tvg-country="LC" tvg-language="eng" group-title="Type: General" tvg-group="Country: Saint Lucia;Type: General;Language: English",Caribbean Hot 7 TV (720p)
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8

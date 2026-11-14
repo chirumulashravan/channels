@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Country: Martinique;Type: Music;Language: French",FUSION TV (1080p)
+#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Type: Music" tvg-group="Country: Martinique;Type: Music;Language: French",FUSION TV (1080p)
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
-#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Country: Martinique;Type: Music;Language: French",Identite Tele Caraibes (548p)
+#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Type: Music" tvg-group="Country: Martinique;Type: Music;Language: French",Identite Tele Caraibes (548p)
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
-#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Country: Martinique;Type: Music;Language: French",Tele Zoukla
+#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Type: Music" tvg-group="Country: Martinique;Type: Music;Language: French",Tele Zoukla
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
-#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Country: Martinique;Type: Family;Type: Religious;Language: French",TV Famille (720p)
+#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Type: Family" tvg-group="Country: Martinique;Type: Family;Type: Religious;Language: French",TV Famille (720p)
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
-#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Country: Martinique;Type: General;Language: French",ViaATV (1080p)
+#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Type: General" tvg-group="Country: Martinique;Type: General;Language: French",ViaATV (1080p)
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
-#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Country: Martinique;Type: General;Language: French",Zitata TV
+#EXTINF:-1 tvg-country="MQ" tvg-language="fra" group-title="Type: General" tvg-group="Country: Martinique;Type: General;Language: French",Zitata TV
 https://live.zitata.tv/direct-hls/playlist.m3u8

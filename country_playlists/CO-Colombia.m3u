@@ -1,213 +1,213 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Alerta Bogota (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Alerta Bogota (720p)
 https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Amaga Television (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Amaga Television (720p)
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",ANC Television (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",ANC Television (720p)
 https://live.amelbatv.co:81/anctvlive/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Aupur Television (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Aupur Television (1080p)
 https://canal.aupurtv.co/live/stream/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Bendicion Channel (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Bendicion Channel (720p)
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Bethel Colombia (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Bethel Colombia (720p)
 http://138.121.15.230:9002/BETHEL/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Blu Radio (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Blu Radio (720p)
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Buenisima Radio TV
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Buenisima Radio TV
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",BUM Television (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",BUM Television (720p) [Not 24/7]
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: News;Language: Spanish",Cablenoticias (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: News" tvg-group="Country: Colombia;Type: News;Language: Spanish",Cablenoticias (1080p)
 http://181.78.211.244:8005/play/a09u/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal 2 Alpavision Neiva (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal 2 Alpavision Neiva (720p) [Not 24/7]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal 8 Sincelejo (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal 8 Sincelejo (720p)
 http://181.78.21.38:8000/play/a0df/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal 8 TV+ (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal 8 TV+ (720p)
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal 9 Cosespu
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal 9 Cosespu
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",Canal 14 Codazzi (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",Canal 14 Codazzi (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal Calima TV (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal Calima TV (720p)
 https://movil.ejeserver.com/live/calimatv.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal Capital (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal Capital (1080p)
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal CHD
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Movies;Language: Spanish",Canal Cine Dios
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Movies" tvg-group="Country: Colombia;Type: Movies;Language: Spanish",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Legislative;Language: Spanish",Canal Congreso (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Legislative" tvg-group="Country: Colombia;Type: Legislative;Language: Spanish",Canal Congreso (1080p)
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal Institucional (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal Institucional (1080p)
 http://190.61.47.54:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal Mas Television (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal Mas Television (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal Mundo Vision (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal Mundo Vision (720p) [Not 24/7]
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",Canal Nets (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",Canal Nets (720p) [Not 24/7]
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Canal Oracion Con Son (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Canal Oracion Con Son (1080p)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: News;Language: Spanish",Canal PyC (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: News" tvg-group="Country: Colombia;Type: News;Language: Spanish",Canal PyC (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal RCN (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal RCN (1080p)
 http://38.134.250.110:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Canal Telefamilia (360p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Canal Telefamilia (360p) [Not 24/7]
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Canal Telesantiago (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Canal Telesantiago (1080p)
 https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Canal TV3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal TV3 (720p) [Not 24/7]
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",Canal Womtv (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",Canal Womtv (720p)
 https://live.amelbatv.co:81/womtvlive/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",Canica TV (240p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",Canica TV (240p)
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Caracol HD2 (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Caracol HD2 (1080p)
 http://181.78.14.26:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Caracol Internacional (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Caracol Internacional (1080p)
 http://45.5.117.57:8200/play/a0e9/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Caracol TV (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Caracol TV (1080p)
 http://38.190.100.202:8000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Citytv Bogota (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Citytv Bogota (1080p)
 http://138.121.15.230:9002/CITY-TV/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Claro Musica TV (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Claro Musica TV (1080p)
 http://45.171.64.30:6060/play/a010
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",CMB Television (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",CMB Television (1080p)
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",CNC Bugavision (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",CNC Bugavision (720p)
 https://movil.ejeserver.com/live/cncbuga.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",CNC Medellin (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",CNC Medellin (1080p)
 http://138.94.3.106:8000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",CNC Pereira (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",CNC Pereira (720p)
 https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",CNC Santander de Quilichao (480p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",CNC Santander de Quilichao (480p)
 https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",CNC Tulua (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",CNC Tulua (1080p)
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",CNC Valledupar (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",CNC Valledupar (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Cosmovision (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Cosmovision (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Cristovision (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Cristovision (720p)
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Education;Language: Spanish",Eduvision (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Education" tvg-group="Country: Colombia;Type: Education;Language: Spanish",Eduvision (1080p)
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Outdoor;Language: Spanish",El Mundo del Campo (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Outdoor" tvg-group="Country: Colombia;Type: Outdoor;Language: Spanish",El Mundo del Campo (1080p)
 http://181.78.21.38:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Emisora Comunitaria 104.1 FM
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Emisora Comunitaria 104.1 FM
 https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Enlace Television (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Enlace Television (1080p)
 http://181.78.12.119:16123/play/ch33/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Kids;Language: Spanish",Eureka (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Kids" tvg-group="Country: Colombia;Type: Kids;Language: Spanish",Eureka (1080p)
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Fiesta TV
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Frecuencia F TV (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Frecuencia F TV (1080p)
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Heliconia Radio TV (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Heliconia Radio TV (720p)
 https://eu1.servers10.com:8081/8178/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Lifestyle;Language: Spanish",Hogar TV (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Lifestyle" tvg-group="Country: Colombia;Type: Lifestyle;Language: Spanish",Hogar TV (1080p)
 http://190.61.47.54:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Kalu TV (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Kalu TV (1080p)
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",La Hermandad Salsera (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",La Hermandad Salsera (1080p) [Not 24/7]
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",La Kalle (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",La Kalle (1080p)
 http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",La Morada Radio TV (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",La Morada Radio TV (720p)
 https://movil.ejeserver.com/live/lamoradatv.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Marsella TV
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Marsella TV
 https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Mas Norte TV [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Mas Norte TV [Not 24/7]
 https://live.arnoproducciones.com/hls/norte.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",MasMusica FM (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",MasMusica FM (720p)
 https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Movies;Type: Family;Type: General;Language: Spanish",MCI Television (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Movies" tvg-group="Country: Colombia;Type: Movies;Type: Family;Type: General;Language: Spanish",MCI Television (1080p)
 https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: News;Language: Spanish",Momento24
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: News" tvg-group="Country: Colombia;Type: News;Language: Spanish",Momento24
 https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: News;Language: Spanish",Noticias RCN (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: News" tvg-group="Country: Colombia;Type: News;Language: Spanish",Noticias RCN (720p)
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: News;Language: Spanish",Noticiero 90 Minutos (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: News" tvg-group="Country: Colombia;Type: News;Language: Spanish",Noticiero 90 Minutos (1080p)
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: News;Language: Spanish",NTN24 (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: News" tvg-group="Country: Colombia;Type: News;Language: Spanish",NTN24 (1080p)
 https://stream1.bitred.cl/ntn24/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Nuestra Tele Internacional (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Nuestra Tele Internacional (1080p)
 http://45.173.231.22:8000/play/a0cr/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Type: Culture;Language: Spanish",Ondambiental TV (360p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Type: Culture;Language: Spanish",Ondambiental TV (360p)
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Panche Television
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Panche Television
 https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Parranda Vallenata (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Parranda Vallenata (720p)
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Radiola TV (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Radiola TV (1080p)
 http://158.172.217.18:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Culture;Language: Spanish",Raizal TV (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Culture" tvg-group="Country: Colombia;Type: Culture;Language: Spanish",Raizal TV (1080p)
 http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Ranchenato TV (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Ranchenato TV (1080p)
 http://181.78.12.119:16123/play/ch15/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",RCN HD2 (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",RCN Mas (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",RCN Mas (1080p)
 http://45.224.96.220:18000/play/a098/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",RCN Novelas (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",RCN Novelas (1080p)
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Reyali (614p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Reyali (614p)
 https://eu1.servers10.com:8081/8090/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Salsa Gorda Television (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Salsa Gorda Television (1080p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Santel TV
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Senal Colombia (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Senal Colombia (1080p)
 http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Soona TV
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Soona TV
 https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Type: Entertainment;Language: Spanish",StreamForce 360 (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Type: Entertainment;Language: Spanish",StreamForce 360 (1080p)
 https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Music;Language: Spanish",Supermusica TV (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Supermusica TV (720p)
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Suram TV (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Suram TV (720p)
 https://us.streaminghd.cl/suramtv/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Culture;Language: Spanish",Tele Amiga (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Culture" tvg-group="Country: Colombia;Type: Culture;Language: Spanish",Tele Amiga (720p)
 http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Tele Mocoa Canal 10 (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Tele Mocoa Canal 10 (720p)
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Tele Vid (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Tele Vid (1080p)
 http://200.122.223.13:55000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Teleantioquia (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Teleantioquia (1080p)
 http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Teleantioquia Plus (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Teleantioquia Plus (1080p)
 http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Teleislas (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Teleislas (720p)
 http://190.61.47.54:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Telemedellin (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Telemedellin (1080p)
 http://181.78.82.130:8000/play/a0ru/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Classic;Language: Spanish",TeleNostalgia (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Classic" tvg-group="Country: Colombia;Type: Classic;Language: Spanish",TeleNostalgia (1080p)
 http://38.134.250.110:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Telepacifico (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Telepacifico (1080p)
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",TeleQuindio (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",TeleQuindio (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",Telesangil (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Telesangil (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",TeveColombia (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",TeveColombia (720p) [Not 24/7]
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",Tu Universo TV (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Tu Universo TV (720p)
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",TV3 La Plata (480p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",TV3 La Plata (480p)
 https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",TV Golfo Uraba
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: General;Language: Spanish",TV Rivera [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",TV Rivera [Not 24/7]
 https://movil.ejeserver.com/live/tvrivera.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Outdoor;Language: Spanish",TVAgro (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Outdoor" tvg-group="Country: Colombia;Type: Outdoor;Language: Spanish",TVAgro (1080p)
 http://190.61.47.54:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Religious;Language: Spanish",TVGracia
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",TVGracia
 https://vs20.live.opencaster.com/diego_57244803/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Entertainment;Language: Spanish",Ultra Casanare TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",Ultra Casanare TV (1080p) [Not 24/7]
 https://eu1.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Outdoor;Language: Spanish",UMC TV (720p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Outdoor" tvg-group="Country: Colombia;Type: Outdoor;Language: Spanish",UMC TV (720p)
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Country: Colombia;Type: Sports;Language: Spanish",Win+ Futbol (1080p)
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Sports" tvg-group="Country: Colombia;Type: Sports;Language: Spanish",Win+ Futbol (1080p)
 http://181.78.12.119:16123/play/ch19/index.m3u8

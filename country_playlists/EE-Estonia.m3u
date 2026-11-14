@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",Best of Dance TV (1080p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",Best of Dance TV (1080p)
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Series;Language: Estonian",CTV Dla Ciebie TV
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Series" tvg-group="Country: Estonia;Type: Series;Language: Estonian",CTV Dla Ciebie TV
 http://90.183.52.46:4000/play/a065/index.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",DanceTV Algorhythm (1080p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",DanceTV Algorhythm (1080p)
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",DanceTV Deep House District (1080p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",DanceTV Deep House District (1080p)
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",DanceTV EDM Mainstage (1080p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",DanceTV EDM Mainstage (1080p)
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",DanceTV House Floor (1080p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",DanceTV House Floor (1080p)
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",DanceTV Minimal Tech (1080p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",DanceTV Minimal Tech (1080p)
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",DanceTV Techno Warehouse (1080p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",DanceTV Techno Warehouse (1080p)
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Kids;Type: Culture;Language: Estonian",ETV 2 (720p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Kids" tvg-group="Country: Estonia;Type: Kids;Type: Culture;Language: Estonian",ETV 2 (720p)
 https://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Language: Estonian",Riigikogu (720p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia" tvg-group="Country: Estonia;Language: Estonian",Riigikogu (720p)
 https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Religious;Language: Estonian",TBN Baltia (1080p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Religious" tvg-group="Country: Estonia;Type: Religious;Language: Estonian",TBN Baltia (1080p)
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",Vantage Classic (720p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",Vantage Classic (720p)
 https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",Vantage Dance (720p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",Vantage Dance (720p)
 https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",Vantage Music (720p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",Vantage Music (720p)
 https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
-#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Country: Estonia;Type: Music;Language: Estonian",Vantage Rock (720p)
+#EXTINF:-1 tvg-country="EE" tvg-language="est" group-title="Type: Music" tvg-group="Country: Estonia;Type: Music;Language: Estonian",Vantage Rock (720p)
 https://hls.vantagetv.ee/vrock_stream/index.m3u8

@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: General;Language: French;Language: Haitian",Netalkole TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: General" tvg-group="Country: Haiti;Type: General;Language: French;Language: Haitian",Netalkole TV (720p) [Not 24/7]
 https://watch.haitilive.net/naktvhd/index.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: Religious;Language: French;Language: Haitian",Radio Tele 4VEH (720p)
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: Religious" tvg-group="Country: Haiti;Type: Religious;Language: French;Language: Haitian",Radio Tele 4VEH (720p)
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: Religious;Language: French;Language: Haitian",Radio Tele Amen FM (360p) [Not 24/7]
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: Religious" tvg-group="Country: Haiti;Type: Religious;Language: French;Language: Haitian",Radio Tele Amen FM (360p) [Not 24/7]
 http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: Religious;Language: French;Language: Haitian",Radio Tele Full Gospel (360p)
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: Religious" tvg-group="Country: Haiti;Type: Religious;Language: French;Language: Haitian",Radio Tele Full Gospel (360p)
 https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: General;Language: French;Language: Haitian",Radio Tele Ginen (1080p)
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: General" tvg-group="Country: Haiti;Type: General;Language: French;Language: Haitian",Radio Tele Ginen (1080p)
 http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: Music;Language: French;Language: Haitian",Radio Tele Hit (480p)
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: Music" tvg-group="Country: Haiti;Type: Music;Language: French;Language: Haitian",Radio Tele Hit (480p)
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: General;Language: French;Language: Haitian",Radio Tele Planet Compas (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: General" tvg-group="Country: Haiti;Type: General;Language: French;Language: Haitian",Radio Tele Planet Compas (720p) [Not 24/7]
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: General;Language: French;Language: Haitian",Radio Television Shilo (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: General" tvg-group="Country: Haiti;Type: General;Language: French;Language: Haitian",Radio Television Shilo (720p) [Not 24/7]
 https://watch.haitilive.net/freehb/rtvs/index.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: General;Language: French;Language: Haitian",Tele Haiti (1088p) [Not 24/7]
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: General" tvg-group="Country: Haiti;Type: General;Language: French;Language: Haitian",Tele Haiti (1088p) [Not 24/7]
 http://66.175.238.147:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: Religious;Language: French;Language: Haitian",Tele Louange (1080p)
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: Religious" tvg-group="Country: Haiti;Type: Religious;Language: French;Language: Haitian",Tele Louange (1080p)
 https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
-#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Country: Haiti;Type: General;Language: French;Language: Haitian",TV Panou (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="HT" tvg-language="fra,hat" group-title="Type: General" tvg-group="Country: Haiti;Type: General;Language: French;Language: Haitian",TV Panou (720p) [Not 24/7]
 http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8

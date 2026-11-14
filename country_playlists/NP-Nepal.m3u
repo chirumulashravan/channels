@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Country: Nepal;Type: General;Language: Nepali",Capital TV HD (1080p)
+#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Type: General" tvg-group="Country: Nepal;Type: General;Language: Nepali",Capital TV HD (1080p)
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Country: Nepal;Type: Religious;Language: Nepali",Divya Darshan TV (720p)
+#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Type: Religious" tvg-group="Country: Nepal;Type: Religious;Language: Nepali",Divya Darshan TV (720p)
 http://live.divyadarshantv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Country: Nepal;Type: General;Language: Nepali",Indigenous Television (720p)
+#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Type: General" tvg-group="Country: Nepal;Type: General;Language: Nepali",Indigenous Television (720p)
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Country: Nepal;Type: Movies;Language: Nepali",Kantipur Max
+#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Type: Movies" tvg-group="Country: Nepal;Type: Movies;Language: Nepali",Kantipur Max
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
-#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Country: Nepal;Type: General;Language: Nepali",Kantipur TV
+#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Type: General" tvg-group="Country: Nepal;Type: General;Language: Nepali",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
-#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Country: Nepal;Type: General;Language: Nepali",Mithila Nepal TV (1080p)
+#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Type: General" tvg-group="Country: Nepal;Type: General;Language: Nepali",Mithila Nepal TV (1080p)
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Country: Nepal;Type: Entertainment;Type: General;Language: Nepali",Ray TV HD
+#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Type: Entertainment" tvg-group="Country: Nepal;Type: Entertainment;Type: General;Language: Nepali",Ray TV HD
 https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
-#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Country: Nepal;Type: Entertainment;Type: General;Language: Nepali",TV Today Janakpur
+#EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Type: Entertainment" tvg-group="Country: Nepal;Type: Entertainment;Type: General;Language: Nepali",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8

@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Culture;Language: German;Language: French;Language: Dutch",BAM-TV
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Culture" tvg-group="Country: Belgium;Type: Culture;Language: German;Language: French;Language: Dutch",BAM-TV
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Bel RTL (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Music" tvg-group="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Bel RTL (1080p)
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",Bouke (504p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",Bouke (504p)
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",Bruzz (720p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",Bruzz (720p)
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",BX1 (504p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",BX1 (504p)
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Business;Language: German;Language: French;Language: Dutch",Canal Z (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Business" tvg-group="Country: Belgium;Type: Business;Language: German;Language: French;Language: Dutch",Canal Z (1080p)
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",Canal Zoom
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: General" tvg-group="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",Canal Zoom
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Fun Vision
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Music" tvg-group="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Fun Vision
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: News;Language: German;Language: French;Language: Dutch",HLN Live (720p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: News" tvg-group="Country: Belgium;Type: News;Language: German;Language: French;Language: Dutch",HLN Live (720p)
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Animation;Type: Kids;Language: German;Language: French;Language: Dutch",JapanimTV (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Animation" tvg-group="Country: Belgium;Type: Animation;Type: Kids;Language: German;Language: French;Language: Dutch",JapanimTV (1080p)
 https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Joe FM (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Music" tvg-group="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Joe FM (720p) [Not 24/7]
 https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Business;Language: German;Language: French;Language: Dutch",Kanaal Z (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Business" tvg-group="Country: Belgium;Type: Business;Language: German;Language: French;Language: Dutch",Kanaal Z (1080p)
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Klara (720p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Music" tvg-group="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Klara (720p)
 https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Entertainment;Language: German;Language: French;Language: Dutch",La Une (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Entertainment" tvg-group="Country: Belgium;Type: Entertainment;Language: German;Language: French;Language: Dutch",La Une (1080p)
 http://41.205.93.154/LA-UNE/index.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",Matele (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: General" tvg-group="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",Matele (1080p) [Not 24/7]
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",MNM (720p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Music" tvg-group="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",MNM (720p)
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",Notele (576p) [Not 24/7]
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: General" tvg-group="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",Notele (576p) [Not 24/7]
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",Play Crime (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",Play Crime (1080p)
 https://playmedia-playcrime-goplay-dash.amagi.tv/master.mpd
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",QU4TRE Liege Media (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: General" tvg-group="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",QU4TRE Liege Media (1080p)
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",Radio 2 (720p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: General" tvg-group="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",Radio 2 (720p)
 https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Radio Contact (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Music" tvg-group="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Radio Contact (1080p)
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",RTL-TVI (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",RTL-TVI (1080p) [Not 24/7]
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: News;Language: German;Language: French;Language: Dutch",Sterk TV (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: News" tvg-group="Country: Belgium;Type: News;Language: German;Language: French;Language: Dutch",Sterk TV (1080p)
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",StuBru (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Music" tvg-group="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",StuBru (1080p)
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",Tele MB (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",Tele MB (1080p)
 https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",Telesambre (504p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",Telesambre (504p)
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",Tipik (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",Tipik (1080p)
 http://41.205.93.154/TIPIK/index.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",TVcom (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: General" tvg-group="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",TVcom (1080p)
 https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",Vedia (1080p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",Vedia (1080p)
 https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",VTM 3 (360p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",VTM 3 (360p)
 https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium;Language: German;Language: French;Language: Dutch",VTM 4 (360p)
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Country: Belgium" tvg-group="Country: Belgium;Language: German;Language: French;Language: Dutch",VTM 4 (360p)
 https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8

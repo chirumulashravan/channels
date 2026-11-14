@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="MY" tvg-language="eng,msa" group-title="Country: Malaysia;Type: Movies;Language: English;Language: Malay",Maah TV (720p)
+#EXTINF:-1 tvg-country="MY" tvg-language="eng,msa" group-title="Type: Movies" tvg-group="Country: Malaysia;Type: Movies;Language: English;Language: Malay",Maah TV (720p)
 https://hls.maahtv.live/hls/stream.m3u8

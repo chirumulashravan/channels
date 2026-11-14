@@ -1,357 +1,357 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",5USA (360p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",5USA (360p)
 https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",Aathavan TV (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",Aathavan TV (720p)
 https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",Afghanistan International (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Language: English",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Afrobeat TV Entertainment (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Afrobeat TV Entertainment (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Ahlulbayt TV (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Ahlulbayt TV (1080p)
 https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Akaal Channel (396p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Akaal Channel (396p)
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Education;Language: English",Al Hiwar TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Education" tvg-group="Country: United Kingdom;Type: Education;Language: English",Al Hiwar TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Alb UK TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",Alb UK TV (1080p) [Not 24/7]
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",ATN Bangla UK (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",ATN Bangla UK (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",BBC Alba
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",BBC Alba
 https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",BBC Arabic (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Language: English",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Series;Language: English",BBC Drama (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Series" tvg-group="Country: United Kingdom;Type: Series;Language: English",BBC Drama (1080p)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Documentary;Type: Culture;Language: English",BBC Four
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Documentary" tvg-group="Country: United Kingdom;Type: Documentary;Type: Culture;Language: English",BBC Four
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Kids;Type: General;Type: Animation;Language: English",BBC Four/CBeebies (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Kids" tvg-group="Country: United Kingdom;Type: Kids;Type: General;Type: Animation;Language: English",BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC News Pashto (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",BBC One (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",BBC One (720p)
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Legislative;Language: English",BBC Parliament (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Legislative" tvg-group="Country: United Kingdom;Type: Legislative;Language: English",BBC Parliament (720p)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",BBC Persian (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Language: English",BBC Persian (1080p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 1 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 1 (720p)
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 2 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 2 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 3 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 3 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 4 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 4 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 5 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 5 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 6 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 6 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 7 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 7 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 8 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 8 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 9 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 9 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 10 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 10 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 11 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 11 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 12 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 12 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 13 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 13 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 14 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 14 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 15 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 15 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 16 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 16 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 17 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 17 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 18 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 18 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 19 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 19 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 20 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 20 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 21 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 21 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 22 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 22 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 23 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 23 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",BBC Red Button 24 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",BBC Red Button 24 (720p)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",BBC Scotland (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",BBC Scotland (720p)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",BBC Three (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",BBC Three (720p)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",BBC UHD 4 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",BBC UHD 4 (720p)
 http://45.14.84.37/bbc4/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Brit Asia TV (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Brit Asia TV (1080p)
 https://hls.autopo.st/hls/britasiatv/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Canaf54 TV (480p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",Canaf54 TV (480p)
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Animation;Type: Kids;Language: English",Cartoon Network CEE
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Animation" tvg-group="Country: United Kingdom;Type: Animation;Type: Kids;Language: English",Cartoon Network CEE
 http://193.33.39.108:9007/play/a00l
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Kids;Language: English",Cartoonito CEE
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Kids" tvg-group="Country: United Kingdom;Type: Kids;Language: English",Cartoonito CEE
 http://193.33.39.108:9019/play/a00t
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Type: Business;Language: English",CNBC UK (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Type: Business;Language: English",CNBC UK (1080p)
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",Crime + Investigation CEE
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",Crime + Investigation CEE
 http://88.212.7.14/live/test_cai_hevc/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",DAZN 4 (540p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",DAZN 4 (540p)
 http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",DAZN 5 (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",DAZN 5 (720p)
 http://23.237.104.106:8080/DAZN_5/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",DAZN Combat (684p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",DAZN Combat (684p)
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",DAZN F1
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",DAZN F1
 https://tvorb.net/ZTV/6918-live.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Deen TV (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",Deen TV (576p)
 https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Der TV
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",Der TV
 https://stream.berosat.live/hls/der-tv/der-tv.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Documentary;Language: English",Discovery History
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Documentary" tvg-group="Country: United Kingdom;Type: Documentary;Language: English",Discovery History
 http://37.49.224.5/stream/12/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Series;Language: English",Don't Tell The Bride (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Series" tvg-group="Country: United Kingdom;Type: Series;Language: English",Don't Tell The Bride (1080p)
 https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",Dunya News UK (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Language: English",Dunya News UK (720p) [Not 24/7]
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Eman Channel (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",ENT Channel (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",ENT Channel (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",ENT Family (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",ENT Family (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",Eurovision Sport (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",Eurovision Sport (1080p)
 https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Faith UK (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Faith UK (1080p)
 https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Faith World TV (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Faith World TV (1080p)
 https://faithworldtv.abs.tv/1826926230/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",FIFA+ (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",FIFA+ (720p)
 https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",FIFA+ Women (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",FIFA+ Women (720p)
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Culture;Language: English",Garshom TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Culture" tvg-group="Country: United Kingdom;Type: Culture;Language: English",Garshom TV (360p) [Not 24/7]
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",GB News (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Language: English",GB News (1080p)
 https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Shop;Language: English",Gems TV (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Shop" tvg-group="Country: United Kingdom;Type: Shop;Language: English",Gems TV (720p)
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",GOD TV Asia (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",GOD TV Asia (576p)
 https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Movies;Language: English",GREAT! movies (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Movies" tvg-group="Country: United Kingdom;Type: Movies;Language: English",GREAT! movies (1080p)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Movies;Language: English",GREAT! romance (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Movies" tvg-group="Country: United Kingdom;Type: Movies;Language: English",GREAT! romance (1080p)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Hala London (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",Hala London (1080p)
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Hellenic TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Hellenic TV (720p) [Not 24/7]
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Documentary;Language: English",History Hit (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Documentary" tvg-group="Country: United Kingdom;Type: Documentary;Language: English",History Hit (1080p)
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Lifestyle;Language: English",Hobby Maker (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Lifestyle" tvg-group="Country: United Kingdom;Type: Lifestyle;Language: English",Hobby Maker (720p)
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Outdoor;Language: English",Horse & Country TV (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Outdoor" tvg-group="Country: United Kingdom;Type: Outdoor;Language: English",Horse & Country TV (1080p)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",IBC Bakthi (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",IBC Bakthi (1080p)
 https://ibc.massstream.net/IBC2/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",IBC Tamil (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",IBC Tamil (1080p)
 https://ibc.massstream.net/IBC/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Iqra Bangla (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Iqra Bangla (576p)
 https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",Iran International (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Language: English",Iran International (1080p)
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",IraneFarda TV
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Language: English",IraneFarda TV
 https://iranefardalive.com/stream/live.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Islam Channel (576p) [Not 24/7]
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",ITV2 (360p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",ITV2 (360p)
 https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",ITV3 (360p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",ITV3 (360p)
 https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",ITV4 (360p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",ITV4 (360p)
 https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Kids;Language: English",JimJam Europe (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Kids" tvg-group="Country: United Kingdom;Type: Kids;Language: English",JimJam Europe (720p)
 http://212.5.144.156:8080/jimjam/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Kalemeh TV
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Kalemeh TV
 https://kalemeh.tv/live/hls/gate.php?p=/live/ngrp:kalemeh_all/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Culture;Language: English",Kalsan TV (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Culture" tvg-group="Country: United Kingdom;Type: Culture;Language: English",Kalsan TV (576p)
 https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Kanal Jadid
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Kanshi TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Kanshi TV (720p) [Not 24/7]
 https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Latest TV (480p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",Latest TV (480p)
 https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",Magnavision TV (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",Magnavision TV (720p)
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",Manoto
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",Manoto
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Cooking;Type: Education;Language: English",Master Chefs Academy TV (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Cooking" tvg-group="Country: United Kingdom;Type: Cooking;Type: Education;Language: English",Master Chefs Academy TV (720p)
 https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Kids;Language: English",Moonbug Kids (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Kids" tvg-group="Country: United Kingdom;Type: Kids;Language: English",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Series;Language: English",Most Haunted (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Series" tvg-group="Country: United Kingdom;Type: Series;Language: English",Most Haunted (1080p)
 https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Animation;Type: Kids;Language: English",Mr Bean Animated (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Animation" tvg-group="Country: United Kingdom;Type: Animation;Type: Kids;Language: English",Mr Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Comedy;Type: Kids;Language: English",Mr Bean Live Action (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Comedy" tvg-group="Country: United Kingdom;Type: Comedy;Type: Kids;Language: English",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",MTA1 World (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",MTA1 World (720p)
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",MTA2 Europe (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",MTA2 Europe (720p)
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",MTA3 Al-Arabia (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",MTA3 Al-Arabia (1080p)
 https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",MTA4 Africa (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",MTA4 Africa (1080p)
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",MTA5 Africa (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",MTA5 Africa (1080p)
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",MTA6 Asia (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",MTA6 Asia (1080p)
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",MTA7 Asia (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",MTA7 Asia (1080p)
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",MTA8 America (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",MTA8 America (1080p)
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",MUTV (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",MUTV (720p)
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Movies;Language: English",Nolly Africa (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Movies" tvg-group="Country: United Kingdom;Type: Movies;Language: English",Nolly Africa (1080p)
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Now 70s (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Now 70s (720p)
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Now 80s (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Now 80s (1080p)
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Now 90s00s (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Now 90s00s (1080p)
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",NOW Rock (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",NOW Rock (1080p)
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Panjab TV (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Panjab TV (576p)
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Education;Language: English",PBS America (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Education" tvg-group="Country: United Kingdom;Type: Education;Language: English",PBS America (576p)
 http://185.19.191.2:8090/PBS/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Comedy;Language: English",Planet Fun (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Comedy" tvg-group="Country: United Kingdom;Type: Comedy;Language: English",Planet Fun (1080p)
 http://66.102.126.10:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Kids;Language: English",Pop Up (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Kids" tvg-group="Country: United Kingdom;Type: Kids;Language: English",Pop Up (1080p)
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Shop;Language: English",QVC Beauty (540p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Shop" tvg-group="Country: United Kingdom;Type: Shop;Language: English",QVC Beauty (540p)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Shop;Language: English",QVC Extra (540p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Shop" tvg-group="Country: United Kingdom;Type: Shop;Language: English",QVC Extra (540p)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Real Wild (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Real Wild (1080p)
 https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",RugbyPass TV (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",RugbyPass TV (720p)
 https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",S4C (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",S4C (1080p)
 https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Religious;Language: English",Safeer TV (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: United Kingdom;Type: Religious;Language: English",Safeer TV (1080p)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Sangat TV (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Sangat TV (576p)
 https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Sheffield Live TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Sheffield Live TV (360p) [Not 24/7]
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",Simaye Azadi (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Weather;Language: English",Sky News Weather (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Weather" tvg-group="Country: United Kingdom;Type: Weather;Language: English",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Relax;Type: Travel;Language: English",Space Live powered by sen (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Relax" tvg-group="Country: United Kingdom;Type: Relax;Type: Travel;Language: English",Space Live powered by sen (1080p)
 https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",Strongman Champions League (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",Strongman Champions League (1080p)
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Takbeer TV (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Takbeer TV (720p)
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Talking Pictures TV (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Talking Pictures TV (576p)
 http://92.114.85.72:8000/play/a0la
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",talkSPORT (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",talkSPORT (1080p)
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",TalkTV (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",TalkTV (1080p)
 https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",TBN UK (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",TBN UK (1080p)
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Kids;Language: English",Teletubbies (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Kids" tvg-group="Country: United Kingdom;Type: Kids;Language: English",Teletubbies (720p)
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",That's 70s (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",That's 70s (720p)
 https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",That's 80s (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",That's 80s (720p)
 https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",That's TV (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",That's TV (576p)
 http://92.114.85.72:8000/play/a0lb
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Comedy;Type: Series;Language: English",The Chat Show Channel (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Comedy" tvg-group="Country: United Kingdom;Type: Comedy;Type: Series;Language: English",The Chat Show Channel (1080p)
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",The Graham Norton Show (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",The Graham Norton Show (1080p)
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Kids;Language: English",Tiny Pop (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Kids" tvg-group="Country: United Kingdom;Type: Kids;Language: English",Tiny Pop (1080p)
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Shop;Language: English",TJC (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Shop" tvg-group="Country: United Kingdom;Type: Shop;Language: English",TJC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",TNT Sports 1
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",TNT Sports 1
 http://37.49.224.5/stream/1/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Together TV (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Together TV (576p)
 http://92.114.85.72:8000/play/a0j8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Type: Auto;Language: English",Top Gear (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Type: Auto;Language: English",Top Gear (720p)
 https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Totalmusic 80s (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Totalmusic 80s (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Totalmusic 2000s (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Totalmusic 2000s (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Totalmusic (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Totalmusic (1080p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Totalmusic Concerts (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Totalmusic Concerts (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Totalmusic Dance (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Totalmusic Dance (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Music;Language: English",Trace UK (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Trace UK (1080p)
 https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Series;Language: English",True Crime (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Series" tvg-group="Country: United Kingdom;Type: Series;Language: English",True Crime (1080p)
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",TV Warehouse (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",TV Warehouse (720p)
 https://tvwarehouse.r.worldssl.net/mystream.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Series;Language: English",U&Alibi (576p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Series" tvg-group="Country: United Kingdom;Type: Series;Language: English",U&Alibi (576p)
 http://92.114.85.72:8000/play/a0bi
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",U&W
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",U&W
 http://92.114.85.72:8000/play/a0bj
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Utsav Bharat (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Utsav Bharat (720p)
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",Utsav Plus (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",Utsav Plus (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Science;Language: English",Wonder (1080p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Science" tvg-group="Country: United Kingdom;Type: Science;Language: English",Wonder (1080p)
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Kids;Language: English",YAAAS! (720p)
+#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Kids" tvg-group="Country: United Kingdom;Type: Kids;Language: English",YAAAS! (720p)
 https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
-#EXTINF:-1  tvg-id="554" tvg-name="24/7: Mr Bean The Animated Series" tvg-logo="http://icons.tw:8080/images/9cf37edfe19298ab48f76fb93dccf2e9.jpg" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Animation;Type: Kids;Language: English",Mr Bean The Animated Series
+#EXTINF:-1  tvg-id="554" tvg-name="24/7: Mr Bean The Animated Series" tvg-logo="http://icons.tw:8080/images/9cf37edfe19298ab48f76fb93dccf2e9.jpg" tvg-country="UK" tvg-language="eng" group-title="Type: Animation" tvg-group="Country: United Kingdom;Type: Animation;Type: Kids;Language: English",Mr Bean The Animated Series
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/298730.m3u8
-#EXTINF:-1  tvg-id="Sky.Sci-Fi.HD.uk" tvg-name="GB : SKY SCI-FI" tvg-logo="https://assets.tv24.co/channels/syfy-universal-l.webp" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Language: English",SKY SCI-FI
+#EXTINF:-1  tvg-id="Sky.Sci-Fi.HD.uk" tvg-name="GB : SKY SCI-FI" tvg-logo="https://assets.tv24.co/channels/syfy-universal-l.webp" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",SKY SCI-FI
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53991.m3u8
-#EXTINF:-1  tvg-id="Sky.History2.uk" tvg-name="GB : SKY HISTORY 2" tvg-logo="http://icons.tw:8080/images/b8a8a765a0a1538a9462cefe74648e39.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Documentary;Language: English",SKY HISTORY 2
+#EXTINF:-1  tvg-id="Sky.History2.uk" tvg-name="GB : SKY HISTORY 2" tvg-logo="http://icons.tw:8080/images/b8a8a765a0a1538a9462cefe74648e39.png" tvg-country="UK" tvg-language="eng" group-title="Type: Documentary" tvg-group="Country: United Kingdom;Type: Documentary;Language: English",SKY HISTORY 2
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/204632.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/MostHaunted_400x200.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Series;Language: English", Most Haunted
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/MostHaunted_400x200.png" tvg-country="UK" tvg-language="eng" group-title="Type: Series" tvg-group="Country: United Kingdom;Type: Series;Language: English", Most Haunted
 https://amg00426-lds-amg00426c17-lg-au-10349.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00426-littledotstudiofast-mosthaunted-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 channel-id="mjh-10-grahamnorton" tvg-id="mjh-10-grahamnorton" tvg-logo="https://10.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png?image-profile=logo" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",The Graham Norton Show
+#EXTINF:-1 channel-id="mjh-10-grahamnorton" tvg-id="mjh-10-grahamnorton" tvg-logo="https://10.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png?image-profile=logo" tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",The Graham Norton Show
 https://i.mjh.nz/.r/10-grahamnorton.m3u8
-#EXTINF:-1 channel-id="mjh-10-eightoutof10cats" tvg-id="mjh-10-eightoutof10cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",8 Out Of 10 Cats
+#EXTINF:-1 channel-id="mjh-10-eightoutof10cats" tvg-id="mjh-10-eightoutof10cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",8 Out Of 10 Cats
 https://i.mjh.nz/.r/10-eightoutof10cats.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67081_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",BBC One
+#EXTINF:-1 tvg-chno="13" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67081_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",BBC One
 http://41.205.93.154/BBCONE/index.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Entertainment;Language: English",E! Entertainment
+#EXTINF:-1 tvg-chno="60" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",E! Entertainment
 https://cache0.wonvt.st/live/15a0cd61f3w7um0229g5g/master.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24292_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: General;Language: English",ITV1
+#EXTINF:-1 tvg-chno="102" tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24292_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",ITV1
 http://176.65.153.4:4004/play/a07n/index.m3u8
-#EXTINF:-1 channel-id="mjh-bbc-news-fast" tvg-id="mjh-bbc-news-fast" tvg-logo="https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",BBC News
+#EXTINF:-1 channel-id="mjh-bbc-news-fast" tvg-id="mjh-bbc-news-fast" tvg-logo="https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png" tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Language: English",BBC News
 https://i.mjh.nz/.r/bbc-news-fast.m3u8
-#EXTINF:-1  tvg-id="US4000033L"   tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20260421T133849SQUARE.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: News;Language: English",BBC News
+#EXTINF:-1  tvg-id="US4000033L"   tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20260421T133849SQUARE.png" tvg-country="UK" tvg-language="eng" group-title="Type: News" tvg-group="Country: United Kingdom;Type: News;Language: English",BBC News
 https://jmp2.uk/stvp-US4000033L
-#EXTINF:-1 tvg-chno="153" tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-icon-uk.png" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",SKY SPORTS ACTION
+#EXTINF:-1 tvg-chno="153" tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-icon-uk.png" tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",SKY SPORTS ACTION
 http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
-#EXTINF:-1  tvg-id="SkySportsMix.uk"  tvg-logo="https://iptv-epg.org/images/4gM3ZXCHGY4zLspkSu2_4xfhSb2Tn_7QEzZkGbYzaPTB8N7Z8SNdIjKytM2PAsYZgjEMuKBrcCD9fheJ3ImsT4_0Vz_taY9f2P0G4PK5Uvtj" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",SKY SPORTS MIX
+#EXTINF:-1  tvg-id="SkySportsMix.uk"  tvg-logo="https://iptv-epg.org/images/4gM3ZXCHGY4zLspkSu2_4xfhSb2Tn_7QEzZkGbYzaPTB8N7Z8SNdIjKytM2PAsYZgjEMuKBrcCD9fheJ3ImsT4_0Vz_taY9f2P0G4PK5Uvtj" tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",SKY SPORTS MIX
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53983.m3u8
-#EXTINF:-1  tvg-id="SkySportsRacing.uk"  tvg-logo="https://iptv-epg.org/images/vAVkYGphmok7DQnALY5ihffj0O2nPB7tA63aDQ7iJK52TWvE0Zx5DEG852qDBSqzJofcnq1XyhU5vIS-XgaNiZ2zxcmF1GGeNOgHciDSaUZpV_Dw" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",SKY SPORTS RACING
+#EXTINF:-1  tvg-id="SkySportsRacing.uk"  tvg-logo="https://iptv-epg.org/images/vAVkYGphmok7DQnALY5ihffj0O2nPB7tA63aDQ7iJK52TWvE0Zx5DEG852qDBSqzJofcnq1XyhU5vIS-XgaNiZ2zxcmF1GGeNOgHciDSaUZpV_Dw" tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",SKY SPORTS RACING
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53987.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",TNT Sports 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q" tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?26350" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?26350" tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",TNT SPORTS 1
 http://8ksts.site:80/play/live.php?mac=00:1A:79:AE:8C:17&stream=588012&extension=ts&play_token=pRZMmACxqr
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q" tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom;Type: Sports;Language: English",TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q" tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",TNT SPORTS 1
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzU3ODAwMS50cw==

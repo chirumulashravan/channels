@@ -1,93 +1,93 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",ACNN (480p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",ACNN (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Africa TV3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Africa TV3 (720p) [Not 24/7]
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Music;Language: English",AMusic Channel (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Music" tvg-group="Country: Nigeria;Type: Music;Language: English",AMusic Channel (720p)
 http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: General;Language: English",BCS StarCross TV (576p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: General" tvg-group="Country: Nigeria;Type: General;Language: English",BCS StarCross TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Language: English",Bride TV (576p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Bride TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Caught-Up TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Caught-Up TV (480p) [Not 24/7]
 https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: News;Language: English",Channels 24
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: News" tvg-group="Country: Nigeria;Type: News;Language: English",Channels 24
 https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: News;Language: English",Channels TV
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: News" tvg-group="Country: Nigeria;Type: News;Language: English",Channels TV
 https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Chosen TV English (360p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Chosen TV English (360p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",cLoveworld TV (480p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",cLoveworld TV (480p)
 https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Coza TV (576p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Coza TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Dunamis TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Dunamis TV (576p) [Not 24/7]
 https://atechgroupuk.site/DTV.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Flame TV (576p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Flame TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: General;Language: English",Fortis TV
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: General" tvg-group="Country: Nigeria;Type: General;Language: English",Fortis TV
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Foursquare TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Foursquare TV (360p) [Not 24/7]
 https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Movies;Language: English",Itage TV (480p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Movies" tvg-group="Country: Nigeria;Type: Movies;Language: English",Itage TV (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Entertainment;Language: English",Kingsview TV (1080p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: Nigeria;Type: Entertainment;Language: English",Kingsview TV (1080p)
 https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: News;Language: English",LN247 (1080p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: News" tvg-group="Country: Nigeria;Type: News;Language: English",LN247 (1080p)
 https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",LoveWorld Arabic (360p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",LoveWorld Arabic (360p)
 https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",LoveWorld Persia (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",LoveWorld Persia (720p)
 https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",LoveWorld UK (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",LoveWorld UK (1080p) [Not 24/7]
 https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",LoveWorld USA (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",LoveWorld USA (720p)
 https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",LoveworldSAT (1080p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",LoveworldSAT (1080p)
 https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Master's TV (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Master's TV (720p)
 https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",More Grace TV (410p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",More Grace TV (410p) [Not 24/7]
 https://atechgroupuk.site/ETV.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: News;Language: English",News Central
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: News" tvg-group="Country: Nigeria;Type: News;Language: English",News Central
 https://wf.newscentral.ng:8443/hls/stream.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Culture;Language: English",Nigbati (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Culture" tvg-group="Country: Nigeria;Type: Culture;Language: English",Nigbati (720p) [Not 24/7]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Culture;Language: English",NTA International (576p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Culture" tvg-group="Country: Nigeria;Type: Culture;Language: English",NTA International (576p) [Not 24/7]
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Phenomenal Life TV (1080p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Phenomenal Life TV (1080p)
 https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Language: English",Plus TV Africa (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Plus TV Africa (720p) [Not 24/7]
 https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Culture;Language: English",Qausain TV (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Culture" tvg-group="Country: Nigeria;Type: Culture;Language: English",Qausain TV (720p)
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Language: English",Quest TV (240p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Quest TV (240p) [Not 24/7]
 https://media2.streambrothers.com:19360/8028/8028.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: General;Language: English",Rapid TV (480p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: General" tvg-group="Country: Nigeria;Type: General;Language: English",Rapid TV (480p)
 https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Language: English",Rave TV (576p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Rave TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: News;Language: English",Silverbird News 24 (576p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: News" tvg-group="Country: Nigeria;Type: News;Language: English",Silverbird News 24 (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Language: English",Soundcity TV
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Soundcity TV
 https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Culture;Type: Family;Language: English",Superscreen TV (412p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Culture" tvg-group="Country: Nigeria;Type: Culture;Type: Family;Language: English",Superscreen TV (412p)
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Language: English",Synagogue TV (576p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Synagogue TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: General;Language: English",Tele Regency TV (576p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: General" tvg-group="Country: Nigeria;Type: General;Language: English",Tele Regency TV (576p)
 https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: General;Language: English",UTV Africa (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: General" tvg-group="Country: Nigeria;Type: General;Language: English",UTV Africa (720p)
 https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36c7e5c56a986bf770091e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: General;Language: English",Waffi TV (240p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: General" tvg-group="Country: Nigeria;Type: General;Language: English",Waffi TV (240p)
 https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Language: English",Wap TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Wap TV (720p) [Not 24/7]
 https://newproxy3.vidivu.tv/waptv/index.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Language: English",Wazobia Max TV Nigeria (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Wazobia Max TV Nigeria (720p)
 https://wazobia.live:8333/channel/wmax.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Language: English",Wazobia Max TV Port-Harcourt (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Wazobia Max TV Port-Harcourt (720p)
 https://wazobia.live:8333/channel/wmaxph.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: Religious;Language: English",Whole Word TV (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",Whole Word TV (720p)
 https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria;Type: General;Language: English",Yobe TV (720p)
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: General" tvg-group="Country: Nigeria;Type: General;Language: English",Yobe TV (720p)
 https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestream24/60414fd886a863e5851f4559fb86e7f6.sdp/playlist.m3u8

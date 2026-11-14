@@ -1,103 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",ABNsat (720p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",ABNsat (720p)
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Afaq TV
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: General" tvg-group="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Afaq TV
 https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Kids;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Afarin Baxcha (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Kids" tvg-group="Country: Iraq;Type: Kids;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Afarin Baxcha (1080p)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Kids;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Afarin TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Kids" tvg-group="Country: Iraq;Type: Kids;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Afarin TV (720p) [Not 24/7]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Iraqia (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: General" tvg-group="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Iraqia (1080p)
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Iraqia Kurdish (720p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq" tvg-group="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Iraqia Kurdish (720p)
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Iraqia News (720p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Iraqia News (720p)
 https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Sports;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Iraqia Sport (720p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Sports" tvg-group="Country: Iraq;Type: Sports;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Iraqia Sport (720p)
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Janoub TV
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Janoub TV
 https://live.alissahost.net/hls/test.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Rasheed TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: General" tvg-group="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Rasheed TV (1080p) [Not 24/7]
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Sharqiya (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: General" tvg-group="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Sharqiya (1080p)
 http://185.9.2.18/chid_144/index.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Sharqiya News (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al Sharqiya News (1080p)
 https://indexforce.com/newshighres/mystream/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al-Aimma TV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al-Aimma TV (1080p)
 https://alaimma.tv/live/index.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al-Jawadain TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al-Jawadain TV (1080p) [Not 24/7]
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al-Naeem TV
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq" tvg-group="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Al-Naeem TV
 http://37.238.136.61/hls/stream.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Alabbassia TV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Alabbassia TV (1080p)
 https://stream.alabbassia.com/live/alabbassia/index.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Alawla TV (720p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: General" tvg-group="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Alawla TV (720p)
 https://live.alawla.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Alghadeer TV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Alghadeer TV (1080p)
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Alquran (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Alquran (1080p)
 https://ktvlive.online/stream/hls/ch1.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Amozhgary TV
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Amozhgary TV
 https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",AVA Media (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq" tvg-group="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",AVA Media (1080p)
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Avar TV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq" tvg-group="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Avar TV (1080p)
 https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",BeitolAbbas TV Channel (720p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",BeitolAbbas TV Channel (720p)
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Dijlah TV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Dijlah TV (1080p)
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Family;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",EmanTv (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Family" tvg-group="Country: Iraq;Type: Family;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",EmanTv (1080p)
 https://avr.host247.net/live/emantv/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",FarmodaTV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",FarmodaTV (1080p)
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 1 (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 1 (1080p)
 http://fa.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 2 (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 2 (1080p)
 http://ar.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 3 (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 3 (1080p)
 http://en.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 4 (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 4 (1080p)
 http://ur.imamhossaintv.com/live/ih4.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 5 (720p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 5 (720p)
 http://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 6 (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Imam Hussein TV 6 (1080p)
 http://live.imamhossaintv.com/live/ih6.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Iraq Future (480p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: General" tvg-group="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Iraq Future (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Type: Documentary;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Karbala Documentary
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Type: Documentary;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Karbala Documentary
 https://ktvlive.online/stream/hls/ch3.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurd Channel
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq" tvg-group="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurd Channel
 https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurdistan 24 (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurdistan 24 (1080p)
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurdistan TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: General" tvg-group="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurdistan TV (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Entertainment;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurdsat (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Entertainment" tvg-group="Country: Iraq;Type: Entertainment;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurdsat (1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurdsat News (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Kurdsat News (1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",MahdawiounTV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",MahdawiounTV (1080p)
 https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Manu Chat
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq" tvg-group="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Manu Chat
 https://vmi747311.contaboserver.net/hls/livetv.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Marjaeyat TV Arabic (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Marjaeyat TV Arabic (1080p)
 https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Marjaeyat TV English (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Marjaeyat TV English (1080p)
 https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Marjaeyat TV Persian (240p) [Not 24/7]
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Religious" tvg-group="Country: Iraq;Type: Religious;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Marjaeyat TV Persian (240p) [Not 24/7]
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",MBC Iraq (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: General" tvg-group="Country: Iraq;Type: General;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",MBC Iraq (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: Family;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Mixkurdy (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: Family" tvg-group="Country: Iraq;Type: Family;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Mixkurdy (1080p)
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",NRT TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Payam TV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Payam TV (1080p)
 https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Rudaw TV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Type: News" tvg-group="Country: Iraq;Type: News;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Rudaw TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Samarra TV
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq" tvg-group="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Samarra TV
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
-#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Waar TV (1080p)
+#EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq" tvg-group="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Waar TV (1080p)
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8

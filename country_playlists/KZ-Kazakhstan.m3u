@@ -1,83 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: News;Language: Kazakh;Language: Russian",24KZ (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: News" tvg-group="Country: Kazakhstan;Type: News;Language: Kazakh;Language: Russian",24KZ (576p)
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",31 Kanal (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",31 Kanal (576p)
 http://stream.mcquack.net/388/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Culture;Language: Kazakh;Language: Russian",Abai TV (720p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Culture" tvg-group="Country: Kazakhstan;Type: Culture;Language: Kazakh;Language: Russian",Abai TV (720p)
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Language: Kazakh;Language: Russian",Alau TV (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan" tvg-group="Country: Kazakhstan;Language: Kazakh;Language: Russian",Alau TV (576p)
 https://otv.wotom.net/alau/stream.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Almaty TV (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Almaty TV (576p)
 https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Aqjaiyq (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Aqjaiyq (576p)
 https://stream.kaztrk.kz/regional/oraltv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Aqtobe (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Aqtobe (576p)
 https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Astana TV (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Astana TV (576p)
 http://stream.mcquack.net/28/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Business;Language: Kazakh;Language: Russian",Atameken Business (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Business" tvg-group="Country: Kazakhstan;Type: Business;Language: Kazakh;Language: Russian",Atameken Business (576p)
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Atyray (720p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Atyray (720p)
 https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Kids;Language: Kazakh;Language: Russian",Balapan (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Kids" tvg-group="Country: Kazakhstan;Type: Kids;Language: Kazakh;Language: Russian",Balapan (576p)
 https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Kids;Language: Kazakh;Language: Russian",Balapan International (1080p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Kids" tvg-group="Country: Kazakhstan;Type: Kids;Language: Kazakh;Language: Russian",Balapan International (1080p)
 https://live-3.otcnet.ru/Balapan/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Channel One Eurasia (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Channel One Eurasia (576p)
 https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Ertis (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Ertis (1080p) [Not 24/7]
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Jambyl (360p) [Not 24/7]
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Jambyl (360p) [Not 24/7]
 https://stream.kaztrk.kz/regional/taraztv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Jibek Joly (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Jibek Joly (576p)
 https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Khabar (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Khabar (576p)
 https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Movies;Language: Kazakh;Language: Russian",KinoBoevik (1080p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Movies" tvg-group="Country: Kazakhstan;Type: Movies;Language: Kazakh;Language: Russian",KinoBoevik (1080p)
 https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Kokshe (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Kokshe (720p) [Not 24/7]
 https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",KTK (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",KTK (576p)
 http://stream.mcquack.net/26/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Mangystay (540p) [Not 24/7]
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Mangystay (540p) [Not 24/7]
 https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Movies;Language: Kazakh;Language: Russian",Mirovoe kino (1080p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Movies" tvg-group="Country: Kazakhstan;Type: Movies;Language: Kazakh;Language: Russian",Mirovoe kino (1080p)
 https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",MTRK (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",MTRK (576p)
 https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Kids;Language: Kazakh;Language: Russian",Nickelodeon CIS (1080p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Kids" tvg-group="Country: Kazakhstan;Type: Kids;Language: Kazakh;Language: Russian",Nickelodeon CIS (1080p)
 https://stream8.cinerama.uz/1500/playlist.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Novoe televidenie (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Novoe televidenie (576p)
 https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",NTK (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",NTK (576p)
 http://stream.mcquack.net/389/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Ontustik (360p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Ontustik (360p)
 https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Qazaqstan International
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Sports;Language: Kazakh;Language: Russian",QazSport (1080p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Sports" tvg-group="Country: Kazakhstan;Type: Sports;Language: Kazakh;Language: Russian",QazSport (1080p)
 http://stream.mcquack.net/72/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Entertainment;Language: Kazakh;Language: Russian",Qonaev Media
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Entertainment" tvg-group="Country: Kazakhstan;Type: Entertainment;Language: Kazakh;Language: Russian",Qonaev Media
 https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Language: Kazakh;Language: Russian",Qostanai (576p) [Not 24/7]
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan" tvg-group="Country: Kazakhstan;Language: Kazakh;Language: Russian",Qostanai (576p) [Not 24/7]
 https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Language: Kazakh;Language: Russian",Qyzyljar (720p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan" tvg-group="Country: Kazakhstan;Language: Kazakh;Language: Russian",Qyzyljar (720p)
 https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Qyzylorda (720p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Qyzylorda (720p)
 https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Rika TV (480p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Rika TV (480p)
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Saryarqa (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Saryarqa (720p) [Not 24/7]
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Silk Way (1080p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Silk Way (1080p)
 https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Movies;Language: Kazakh;Language: Russian",Silk Way Cinema (1080p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Movies" tvg-group="Country: Kazakhstan;Type: Movies;Language: Kazakh;Language: Russian",Silk Way Cinema (1080p)
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: Sports;Language: Kazakh;Language: Russian",Sport+ Qazaqstan (1080p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: Sports" tvg-group="Country: Kazakhstan;Type: Sports;Language: Kazakh;Language: Russian",Sport+ Qazaqstan (1080p)
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Language: Kazakh;Language: Russian",TDK 42
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan" tvg-group="Country: Kazakhstan;Language: Kazakh;Language: Russian",TDK 42
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Language: Kazakh;Language: Russian",Turan TV (576p)
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan" tvg-group="Country: Kazakhstan;Language: Kazakh;Language: Russian",Turan TV (576p)
 https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Ulytau
+#EXTINF:-1 tvg-country="KZ" tvg-language="kaz,rus" group-title="Type: General" tvg-group="Country: Kazakhstan;Type: General;Language: Kazakh;Language: Russian",Ulytau
 https://ulytau.tv/hls/master.m3u8

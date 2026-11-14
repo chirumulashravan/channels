@@ -1,59 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",Arbol de Vida TV (240p) [Not 24/7]
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",Arbol de Vida TV (240p) [Not 24/7]
 https://yupistream.top:19360/livearbol/livearbol.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Sports;Language: Spanish",Awapa Sports TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Sports" tvg-group="Country: El Salvador;Type: Sports;Language: Spanish",Awapa Sports TV (1080p) [Not 24/7]
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Canal 3 Impresionante (480p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Canal 3 Impresionante (480p)
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Canal 9 La Union (1080p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Canal 9 La Union (1080p)
 http://45.167.2.101:8000/play/a0r5/index.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Canal 11 TuTV (349p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Canal 11 TuTV (349p)
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Canal 15 El Zamorano [Not 24/7]
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Canal 15 El Zamorano [Not 24/7]
 https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",Canal 65 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",Canal 65 (1080p) [Not 24/7]
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Canal TRV (576p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Canal TRV (576p)
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",El 15 TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",El 15 TV (720p) [Not 24/7]
 https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",El Camino TV (480p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",El Camino TV (480p)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",GSG TV (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",GSG TV (720p)
 https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",JFV TV (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",JFV TV (720p)
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",Josue TV (1080p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",Josue TV (1080p)
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Legislative;Language: Spanish",Legislative Assembly of El Salvador (1080p) [Not 24/7]
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Legislative" tvg-group="Country: El Salvador;Type: Legislative;Language: Spanish",Legislative Assembly of El Salvador (1080p) [Not 24/7]
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Megavision Canal 19 (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Megavision Canal 19 (720p)
 http://45.167.1.138:8000/play/a02b
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Megavision Canal 21 (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Megavision Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",Mizpa TV (1080p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",Mizpa TV (1080p)
 http://45.167.2.101:8000/play/a0r7/index.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",Morazan TV (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Morazan TV (720p)
 http://45.167.2.138:8000/play/a0o4/index.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",RTV Canal 57 (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",RTV Canal 57 (720p)
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",SV+ (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",SV+ (720p)
 http://45.167.2.101:8000/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",TCS+ (480p) [Not 24/7]
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",TCS+ (480p) [Not 24/7]
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: News;Language: Spanish",Tribuna TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: News" tvg-group="Country: El Salvador;Type: News;Language: Spanish",Tribuna TV (720p) [Not 24/7]
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",TV CRET (1080p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",TV CRET (1080p)
 https://radiocret.net:8082/hls/tvcret.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",TV Getsemani (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",TV Getsemani (720p)
 https://serversv.com:8080/hls/tvgetsemani.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",TV Leon de Juda (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",TV Leon de Juda (720p)
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: Religious;Language: Spanish",TVCa (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",TVCa (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: News;Language: Spanish",TVM El Salvador [Not 24/7]
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: News" tvg-group="Country: El Salvador;Type: News;Language: Spanish",TVM El Salvador [Not 24/7]
 http://201.247.102.189/tmp_hls/stream/index.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",TVO Canal 23 (720p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",TVO Canal 23 (720p)
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Country: El Salvador;Type: General;Language: Spanish",WOW TV (1080p)
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",WOW TV (1080p)
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8

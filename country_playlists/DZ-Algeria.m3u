@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="DZ" tvg-language="ara" group-title="Country: Algeria;Type: News;Language: Arabic",AL24 News
+#EXTINF:-1 tvg-country="DZ" tvg-language="ara" group-title="Type: News" tvg-group="Country: Algeria;Type: News;Language: Arabic",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
-#EXTINF:-1 tvg-country="DZ" tvg-language="ara" group-title="Country: Algeria;Type: Kids;Language: Arabic",Amou Yazid TV (576p)
+#EXTINF:-1 tvg-country="DZ" tvg-language="ara" group-title="Type: Kids" tvg-group="Country: Algeria;Type: Kids;Language: Arabic",Amou Yazid TV (576p)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1 tvg-country="DZ" tvg-language="ara" group-title="Country: Algeria;Type: Sports;Language: Arabic",El-Heddaf TV (1080p)
+#EXTINF:-1 tvg-country="DZ" tvg-language="ara" group-title="Type: Sports" tvg-group="Country: Algeria;Type: Sports;Language: Arabic",El-Heddaf TV (1080p)
 https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
-#EXTINF:-1 tvg-country="DZ" tvg-language="ara" group-title="Country: Algeria;Type: General;Language: Arabic",Elwatania TV (1080i)
+#EXTINF:-1 tvg-country="DZ" tvg-language="ara" group-title="Type: General" tvg-group="Country: Algeria;Type: General;Language: Arabic",Elwatania TV (1080i)
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
