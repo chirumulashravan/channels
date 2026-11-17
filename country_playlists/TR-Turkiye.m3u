@@ -165,6 +165,8 @@ https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Music" tvg-group="Country: Turkiye;Type: Music;Language: Turkish",Kral Pop TV (720p)
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Culture" tvg-group="Country: Turkiye;Type: Culture;Language: Turkish",KRT (1080p)
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Religious" tvg-group="Country: Turkiye;Type: Religious;Language: Turkish",Lalegul TV (1080p)
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: General" tvg-group="Country: Turkiye;Type: General;Language: Turkish",Line TV (720p) [Not 24/7]

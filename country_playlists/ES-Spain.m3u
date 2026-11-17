@@ -45,6 +45,8 @@ https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain" tvg-group="Country: Spain;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Biosfera TV (720p) [Not 24/7]
 https://tvdatta.com:3021/live/biosferatvlive.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: Movies" tvg-group="Country: Spain;Type: Movies;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Bom Cine (576p)
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: General" tvg-group="Country: Spain;Type: General;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Bon Dia TV (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: Music" tvg-group="Country: Spain;Type: Music;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Cadena Elite (720p) [Not 24/7]
@@ -183,6 +185,8 @@ https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: General" tvg-group="Country: Spain;Type: General;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Intercomarcal TV (576p) [Not 24/7]
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: Entertainment" tvg-group="Country: Spain;Type: Entertainment;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Kidz (1080p)
+https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: General" tvg-group="Country: Spain;Type: General;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",La 1 (1086p)
 https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: General" tvg-group="Country: Spain;Type: General;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",La 1 Canarias (720p)
@@ -301,6 +305,8 @@ https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain" tvg-group="Country: Spain;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: Movies" tvg-group="Country: Spain;Type: Movies;Type: Series;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Squirrel (576p)
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: Documentary" tvg-group="Country: Spain;Type: Documentary;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",Storie Criminali
 https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: Animation" tvg-group="Country: Spain;Type: Animation;Type: Kids;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",SX3 (1080p)
@@ -349,6 +355,8 @@ https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
 https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain" tvg-group="Country: Spain;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",TVE Internacional Asia-Oceania
 http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51
+#EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain" tvg-group="Country: Spain;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",TVE Internacional Europe (576p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: Series" tvg-group="Country: Spain;Type: Series;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",TVE Star (576p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Country: Spain" tvg-group="Country: Spain;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",TVM Cordoba (1080p) [Not 24/7]

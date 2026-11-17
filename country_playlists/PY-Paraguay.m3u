@@ -3,8 +3,8 @@
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: Business" tvg-group="Country: Paraguay;Type: Business;Language: Guarani;Language: Spanish",5Dias TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
-#EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: News" tvg-group="Country: Paraguay;Type: News;Language: Guarani;Language: Spanish",A24 Paraguay
-https://tv.mitvparaguay.com/hls?type=hls&id=a24
+#EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: News" tvg-group="Country: Paraguay;Type: News;Language: Guarani;Language: Spanish",A24 Paraguay (1080p)
+https://a24-live.argosworkspace.com/a24/index.m3u8
 #EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: News" tvg-group="Country: Paraguay;Type: News;Language: Guarani;Language: Spanish",ABC-TV Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 #EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: General" tvg-group="Country: Paraguay;Type: General;Language: Guarani;Language: Spanish",AGR FM TV
@@ -13,8 +13,8 @@ https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 #EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: Entertainment" tvg-group="Country: Paraguay;Type: Entertainment;Language: Guarani;Language: Spanish",Alt Media TV
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-#EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: General" tvg-group="Country: Paraguay;Type: General;Language: Guarani;Language: Spanish",America Paraguay
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+#EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: General" tvg-group="Country: Paraguay;Type: General;Language: Guarani;Language: Spanish",America Paraguay (1080p)
+https://america-live.argosworkspace.com/america/index.m3u8
 #EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: General" tvg-group="Country: Paraguay;Type: General;Language: Guarani;Language: Spanish",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-country="PY" tvg-language="grn,spa" group-title="Type: News" tvg-group="Country: Paraguay;Type: News;Language: Guarani;Language: Spanish",C9N (720p)

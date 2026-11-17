@@ -171,8 +171,6 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Movies" tvg-group="Country: Germany;Type: Movies;Type: Series;Language: German",More TV Sci-fi
 https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
-#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Entertainment" tvg-group="Country: Germany;Type: Entertainment;Language: German",MTV (Germany)
-https://ma.anixa.tv/clips/stream/mtv/playlist.php
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Entertainment" tvg-group="Country: Germany;Type: Entertainment;Language: German",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Entertainment" tvg-group="Country: Germany;Type: Entertainment;Language: German",MTV Geordies
@@ -612,9 +610,9 @@ https://live.yoltv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany" tvg-group="Country: Germany;Language: German",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany" tvg-group="Country: Germany;Language: German",ZDFinfo (720p)
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany" tvg-group="Country: Germany;Language: German",ZDFneo (720p)
-http://5.180.164.197:8080/ZDFNEO/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Country: Germany" tvg-group="Country: Germany;Language: German",ZDFneo (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Music" tvg-group="Country: Germany;Type: Music;Language: German",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 channel-id="mjh-10-mtv-the-shores" tvg-id="mjh-10-mtv-the-shores" tvg-logo="https://10.com.au/ip/s3/2023/07/11/3901f5c4522a0c36cfed8630ab781a5e-1248401.png?image-profile=logo" tvg-country="DE" tvg-language="deu" group-title="Type: Entertainment" tvg-group="Country: Germany;Type: Entertainment;Language: German",MTV The Shores

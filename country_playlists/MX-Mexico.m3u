@@ -96,7 +96,7 @@ http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Type: General" tvg-group="Country: Mexico;Type: General;Language: Spanish",Eclipse TV (720p)
 https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Type: Kids" tvg-group="Country: Mexico;Type: Kids;Language: Spanish",El Chavo TV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Type: Culture" tvg-group="Country: Mexico;Type: Culture;Language: Spanish",El Sonorense (1080p) [Not 24/7]
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Type: General" tvg-group="Country: Mexico;Type: General;Language: Spanish",Expresa TV (720p)

@@ -27,6 +27,8 @@ http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
 http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Type: General" tvg-group="Country: Slovakia;Type: General;Language: Slovak;Language: Czech",Markiza +1
 http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
+#EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Type: News" tvg-group="Country: Slovakia;Type: News;Language: Slovak;Language: Czech",Markiza TN Live
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-adhoc12/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Type: General" tvg-group="Country: Slovakia;Type: General;Language: Slovak;Language: Czech",MTR (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Type: General" tvg-group="Country: Slovakia;Type: General;Language: Slovak;Language: Czech",NZTV

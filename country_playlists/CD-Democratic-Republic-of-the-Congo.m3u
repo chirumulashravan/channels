@@ -9,6 +9,8 @@ http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 #EXTINF:-1 tvg-country="CD" tvg-language="fra,kon,lin,lua,swa" group-title="Type: General" tvg-group="Country: Democratic Republic of the Congo;Type: General;Language: French;Language: Kongo;Language: Lingala;Language: Luba-Lulua;Language: Swahili",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+#EXTINF:-1 tvg-country="CD" tvg-language="fra,kon,lin,lua,swa" group-title="Type: General" tvg-group="Country: Democratic Republic of the Congo;Type: General;Language: French;Language: Kongo;Language: Lingala;Language: Luba-Lulua;Language: Swahili",Espoir TV (720p)
+https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8
 #EXTINF:-1 tvg-country="CD" tvg-language="fra,kon,lin,lua,swa" group-title="Type: Entertainment" tvg-group="Country: Democratic Republic of the Congo;Type: Entertainment;Language: French;Language: Kongo;Language: Lingala;Language: Luba-Lulua;Language: Swahili",EVI TV (720p)
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 #EXTINF:-1 tvg-country="CD" tvg-language="fra,kon,lin,lua,swa" group-title="Type: News" tvg-group="Country: Democratic Republic of the Congo;Type: News;Language: French;Language: Kongo;Language: Lingala;Language: Luba-Lulua;Language: Swahili",Kin24

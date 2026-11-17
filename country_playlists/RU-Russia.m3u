@@ -81,12 +81,10 @@ http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Kids" tvg-group="Country: Russia;Type: Kids;Language: Russian",Carousel International (576p)
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: General" tvg-group="Country: Russia;Type: General;Language: Russian",Channel 5 International (576p)
-http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: General" tvg-group="Country: Russia;Type: General;Language: Russian",Channel One CIS (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Entertainment" tvg-group="Country: Russia;Type: Entertainment;Language: Russian",Che! (576p)
-http://176.118.197.101/Che/index.m3u8
+http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Auto" tvg-group="Country: Russia;Type: Auto;Language: Russian",City Eden AutoGid [Not 24/7]
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Music" tvg-group="Country: Russia;Type: Music;Language: Russian",City Eden Birma Play [Not 24/7]
@@ -240,7 +238,7 @@ http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Language: Russian",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Language: Russian",Kinopremyera (1080p)
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Language: Russian",KinoSat (576p)
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Language: Russian",Kinosemja (576p)
@@ -437,8 +435,6 @@ http://176.118.197.101/RBK/index.m3u8
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: General" tvg-group="Country: Russia;Type: General;Language: Russian",REN TV (576p)
 http://31.148.5.241/kanal_11/index.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: General" tvg-group="Country: Russia;Type: General;Language: Russian",REN TV International (576p)
-http://178.134.1.158:8081/RENTV/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Classic" tvg-group="Country: Russia;Type: Classic;Language: Russian",Retro (576p)
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Language: Russian",Rodnoe Kino (576p)
@@ -559,8 +555,6 @@ https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Family" tvg-group="Country: Russia;Type: Family;Language: Russian",STS (576p)
 http://31.148.5.241/kanal_13/index.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia" tvg-group="Country: Russia;Language: Russian",STS International (576p)
-http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Kids" tvg-group="Country: Russia;Type: Kids;Language: Russian",STS kids (1080p)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Entertainment" tvg-group="Country: Russia;Type: Entertainment;Language: Russian",Subbota! (1080p)

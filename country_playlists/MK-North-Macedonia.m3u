@@ -9,6 +9,8 @@ http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
 #EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Music" tvg-group="Country: North Macedonia;Type: Music;Language: Macedonian",Jazz TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: General" tvg-group="Country: North Macedonia;Type: General;Language: Macedonian",Kanal 8 (1080p)
+https://tv.kanal8.mk/live/kanal8.m3u8
 #EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: General" tvg-group="Country: North Macedonia;Type: General;Language: Macedonian",M-Net HD (720p)
 http://ares.mnet.mk/hls/mnet.m3u8
 #EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: News" tvg-group="Country: North Macedonia;Type: News;Language: Macedonian",M-Net Info

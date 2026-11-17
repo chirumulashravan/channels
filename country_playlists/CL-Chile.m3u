@@ -55,8 +55,6 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Chile;Type: Entertainment;Language: Spanish",Canal Chilote (720p)
 https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
-#EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Country: Chile" tvg-group="Country: Chile;Language: Spanish",Canal Claro (720p)
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Chile;Type: Religious;Language: Spanish",Canal ISB (720p)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Country: Chile" tvg-group="Country: Chile;Language: Spanish",Canal Latino 54 (360p)
@@ -125,8 +123,6 @@ https://v2.tustreaming.cl/fmplus/index.m3u8
 https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",Frecuencia 7 TV (720p)
 https://v2.tustreaming.cl/frecuencia7/index.m3u8
-#EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Kids" tvg-group="Country: Chile;Type: Kids;Language: Spanish",FunBox
-http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Chile;Type: Music;Language: Spanish",Genial TV (720p)
 https://v1.tustreaming.cl/genialtv/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Education" tvg-group="Country: Chile;Type: Education;Language: Spanish",GVision (288p)

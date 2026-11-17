@@ -33,6 +33,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Entertainment" tvg-group="Country: United Arab Emirates;Type: Entertainment;Language: Arabic",MBC Persia (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Kids" tvg-group="Country: United Arab Emirates;Type: Kids;Language: Arabic",Nickelodeon Arabia (1080i)
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Movies" tvg-group="Country: United Arab Emirates;Type: Movies;Language: Arabic",OSN Movies Action (1080p)
 http://116.90.120.151:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Religious" tvg-group="Country: United Arab Emirates;Type: Religious;Language: Arabic",Peace TV Bangla (1080p)
@@ -63,5 +65,7 @@ https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: News" tvg-group="Country: United Arab Emirates;Type: News;Language: Arabic",Sky News Arabia Vertical (1080p)
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
+#EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Country: United Arab Emirates" tvg-group="Country: United Arab Emirates;Language: Arabic",Star World Middle East (720p)
+http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Country: United Arab Emirates" tvg-group="Country: United Arab Emirates;Language: Arabic",Watar Radio (1080p)
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8

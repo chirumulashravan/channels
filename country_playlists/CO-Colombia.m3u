@@ -19,6 +19,8 @@ https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: News" tvg-group="Country: Colombia;Type: News;Language: Spanish",Cablenoticias (1080p)
 http://181.78.211.244:8005/play/a09u/index.m3u8
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",CaliTV (1080p)
+https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal 2 Alpavision Neiva (720p) [Not 24/7]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal 8 Sincelejo (720p)

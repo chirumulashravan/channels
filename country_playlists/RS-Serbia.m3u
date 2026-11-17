@@ -59,6 +59,8 @@ http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Country: Serbia" tvg-group="Country: Serbia;Language: Serbian",TV Kanal M (576p)
 http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Country: Serbia" tvg-group="Country: Serbia;Language: Serbian",TV Kragujevac (576p)
+https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Country: Serbia" tvg-group="Country: Serbia;Language: Serbian",TV Marsh (720p) [Not 24/7]
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
 #EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Country: Serbia" tvg-group="Country: Serbia;Language: Serbian",TV Panon
@@ -67,5 +69,7 @@ https://stream2.nmih.hu:4102/live.m3u8
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Country: Serbia" tvg-group="Country: Serbia;Language: Serbian",TV Pirot (240p) [Not 24/7]
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Country: Serbia" tvg-group="Country: Serbia;Language: Serbian",TV Smederevo (360p)
+https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8
 #EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Type: Music" tvg-group="Country: Serbia;Type: Music;Language: Serbian",ZICO TV (720p)
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
