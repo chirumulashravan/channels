@@ -1464,7 +1464,7 @@ http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Music" tvg-group="Country: United States;Type: Music;Language: English;Language: Spanish",Mi Musica Romantica (1080p)
 http://168.228.44.241:9999/play/a054/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Music" tvg-group="Country: United States;Type: Music;Language: English;Language: Spanish",Mi Musica Salsa (1080p)
-http://181.78.12.119:16123/play/ch55/index.m3u8
+http://38.134.250.110:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Midnight Pulp (1080p)
 https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",Midpen Media Center Channel 26 (720p)
@@ -2190,7 +2190,7 @@ https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: News" tvg-group="Country: United States;Type: News;Language: English;Language: Spanish",SC Currents (1080p)
 https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Scares by Shudder (1080p)
-https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
+https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Business" tvg-group="Country: United States;Type: Business;Language: English;Language: Spanish",Schwab Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",Scientology Network (1080p)
@@ -2519,6 +2519,8 @@ http://168.196.127.137:6001/play/a095/index.m3u8
 https://d37kx062o4ii0p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Language: English;Language: Spanish",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Kids" tvg-group="Country: United States;Type: Kids;Language: English;Language: Spanish",Tom Sings TV (576p)
+https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Language: English;Language: Spanish",Toonami Aftermath (480p)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Type: Kids;Language: English;Language: Spanish",Tooncast (1080p)
@@ -2720,7 +2722,7 @@ https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: General" tvg-group="Country: United States;Type: General;Language: English;Language: Spanish",WCOT (720p)
 https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Weather" tvg-group="Country: United States;Type: Weather;Language: English;Language: Spanish",WeatherNation (1080p)
-https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Weeds & Nurse Jackie (720p)
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",WeHoTV (360p)
@@ -2754,7 +2756,7 @@ https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",Window TV (720p)
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",Wine Watches & Whiskey (1080p)
-https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
+https://w3-orka.b-cdn.net/W3-ORKA/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Wipeout Xtra (1080p)
 https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",Wired2FishTV (720p)
@@ -2971,6 +2973,8 @@ https://jmp2.uk/stvp-GBBD8000016N
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: News" tvg-group="Country: United States;Type: News;Language: English;Language: Spanish",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-chno="217" tvg-id="Weather.Nation.TV.HD.us2" tvg-name="WeatherNation" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72413_dark_360w_270h.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Weather" tvg-group="Country: United States;Type: Weather;Language: English;Language: Spanish",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="plex.tv.ACCDN.plex" tvg-name="ACC Digital Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124806_dark_360w_270h.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Sports" tvg-group="Country: United States;Type: Sports;Language: English;Language: Spanish",ACC Digital Network
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/37d38805-03d5-45f5-b40d-4ec9524040e5/4.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Sports" tvg-group="Country: United States;Type: Sports;Language: English;Language: Spanish",ACC Network

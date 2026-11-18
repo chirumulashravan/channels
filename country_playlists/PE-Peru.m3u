@@ -200,7 +200,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: Music" tvg-group="Country: Peru;Type: Music;Language: Aymara;Language: Quechua;Language: Spanish",RumbaMix TV (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Rumbo Minero TV (1080p)
-http://45.70.201.81:8000/play/a018/index.m3u8
+http://38.87.224.19:2220/play/a049/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru" tvg-group="Country: Peru;Language: Aymara;Language: Quechua;Language: Spanish",Senal Peru TV (404p) [Not 24/7]
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Siscom TV

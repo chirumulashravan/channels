@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Gold
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Live
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Sport 4K
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Sport
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Stars (1080p)
 http://89.33.29.115:8080/IL_5Stars/index.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",Comedy Channel (1080p)
