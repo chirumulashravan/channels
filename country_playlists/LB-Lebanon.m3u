@@ -13,7 +13,7 @@ https://edge.fastpublish.me/live/index.m3u8
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-country="LB" tvg-language="ara,fra" group-title="Type: Music" tvg-group="Country: Lebanon;Type: Music;Language: Arabic;Language: French",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-country="LB" tvg-language="ara,fra" group-title="Type: Religious" tvg-group="Country: Lebanon;Type: Religious;Language: Arabic;Language: French",Charity TV
+#EXTINF:-1 tvg-country="LB" tvg-language="ara,fra" group-title="Type: Religious" tvg-group="Country: Lebanon;Type: Religious;Language: Arabic;Language: French",Charity TV (1080p)
 https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-country="LB" tvg-language="ara,fra" group-title="Type: General" tvg-group="Country: Lebanon;Type: General;Language: Arabic;Language: French",Future TV (1080p)
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8

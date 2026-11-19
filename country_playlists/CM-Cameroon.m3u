@@ -23,7 +23,7 @@ https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-country="CM" tvg-language="eng,fra" group-title="Type: News" tvg-group="Country: Cameroon;Type: News;Language: English;Language: French",Panafrican Media TV (480p)
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
-#EXTINF:-1 tvg-country="CM" tvg-language="eng,fra" group-title="Type: Entertainment" tvg-group="Country: Cameroon;Type: Entertainment;Language: English;Language: French",PLEX TV
+#EXTINF:-1 tvg-country="CM" tvg-language="eng,fra" group-title="Type: Entertainment" tvg-group="Country: Cameroon;Type: Entertainment;Language: English;Language: French",PLEX TV (720p)
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-country="CM" tvg-language="eng,fra" group-title="Type: Entertainment" tvg-group="Country: Cameroon;Type: Entertainment;Language: English;Language: French",TR24 Television (720p)
 https://stream.it-innov.com/tr24/index.m3u8

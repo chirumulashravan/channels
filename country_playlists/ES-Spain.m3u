@@ -18,7 +18,7 @@ https://9laloma.tv/live.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: News" tvg-group="Country: Spain;Type: News;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",24 Horas Canarias (1080p)
 http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: News" tvg-group="Country: Spain;Type: News;Type: Public;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",24 Horas Catalunya (720p)
-https://ztnr.rtve.es/ztnr/4952053.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: General" tvg-group="Country: Spain;Type: General;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="spa,cat,eus,glg" group-title="Type: General" tvg-group="Country: Spain;Type: General;Language: Spanish;Language: Catalan;Language: Basque;Language: Galician",101tv Cadiz (1080p)

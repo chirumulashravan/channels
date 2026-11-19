@@ -51,7 +51,7 @@ https://tv.rtvnp.rs/stream.m3u8
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Type: Sports" tvg-group="Country: Serbia;Type: Sports;Language: Serbian",SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Type: Music" tvg-group="Country: Serbia;Type: Music;Language: Serbian",TDI Radio TV
+#EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Type: Music" tvg-group="Country: Serbia;Type: Music;Language: Serbian",TDI Radio TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 #EXTINF:-1 tvg-country="RS" tvg-language="srp" group-title="Type: Music" tvg-group="Country: Serbia;Type: Music;Language: Serbian",TV Duga+ (480p) [Not 24/7]
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8

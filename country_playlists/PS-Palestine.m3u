@@ -23,5 +23,5 @@ https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 tvg-country="PS" tvg-language="ara" group-title="Type: General" tvg-group="Country: Palestine;Type: General;Language: Arabic",Watar TV (720p) [Not 24/7]
 http://htvint.mada.ps:8889/orient/index.m3u8
-#EXTINF:-1 tvg-country="PS" tvg-language="ara" group-title="Country: Palestine" tvg-group="Country: Palestine;Language: Arabic",Wattan TV
+#EXTINF:-1 tvg-country="PS" tvg-language="ara" group-title="Country: Palestine" tvg-group="Country: Palestine;Language: Arabic",Wattan TV (720p)
 https://htvmada.mada.ps:4443/wattan/index.m3u8

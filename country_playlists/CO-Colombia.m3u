@@ -110,7 +110,7 @@ https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Heliconia Radio TV (720p)
 https://eu1.servers10.com:8081/8178/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Lifestyle" tvg-group="Country: Colombia;Type: Lifestyle;Language: Spanish",Hogar TV (1080p)
-http://190.61.47.54:8000/play/a01n/index.m3u8
+http://181.78.211.244:8005/play/a06w/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Kalu TV (1080p)
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",La Hermandad Salsera (1080p) [Not 24/7]

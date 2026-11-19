@@ -38,7 +38,7 @@ http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Movies" tvg-group="Country: United Arab Emirates;Type: Movies;Language: Arabic",OSN Movies Action (1080p)
 http://116.90.120.151:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Religious" tvg-group="Country: United Arab Emirates;Type: Religious;Language: Arabic",Peace TV Bangla (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Religious" tvg-group="Country: United Arab Emirates;Type: Religious;Language: Arabic",Peace TV Chinese (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Religious" tvg-group="Country: United Arab Emirates;Type: Religious;Language: Arabic",Peace TV English (1080p)

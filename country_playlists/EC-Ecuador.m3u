@@ -61,6 +61,8 @@ https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 #EXTINF:-1 tvg-country="EC" tvg-language="spa" group-title="Type: General" tvg-group="Country: Ecuador;Type: General;Language: Spanish",Majestad Television (720p)
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+#EXTINF:-1 tvg-country="EC" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Ecuador;Type: Entertainment;Language: Spanish",MakroDigital Television (1080p)
+http://205.235.6.29:8000/play/a0wp/index.m3u8
 #EXTINF:-1 tvg-country="EC" tvg-language="spa" group-title="Type: Culture" tvg-group="Country: Ecuador;Type: Culture;Language: Spanish",Manavision (480p)
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-country="EC" tvg-language="spa" group-title="Type: General" tvg-group="Country: Ecuador;Type: General;Language: Spanish",Marca TV (1080p)

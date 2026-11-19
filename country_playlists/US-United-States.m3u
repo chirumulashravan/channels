@@ -1701,6 +1701,8 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Omid e Iran TV
 https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",On Patrol: Live (720p)
+https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Documentary" tvg-group="Country: United States;Type: Documentary;Language: English;Language: Spanish",On The Case
 https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: News" tvg-group="Country: United States;Type: News;Language: English;Language: Spanish",One America News Network (720p)
@@ -2125,6 +2127,8 @@ https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Documentary" tvg-group="Country: United States;Type: Documentary;Language: English;Language: Spanish",Reelz (720p)
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Documentary" tvg-group="Country: United States;Type: Documentary;Language: English;Language: Spanish",Reelz Famous & Infamous (1080p)
+https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Classic" tvg-group="Country: United States;Type: Classic;Language: English;Language: Spanish",Retro TV (720p)
 https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Classic" tvg-group="Country: United States;Type: Classic;Type: Animation;Language: English;Language: Spanish",RetroCrush (1080p)
@@ -2373,7 +2377,7 @@ https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: General" tvg-group="Country: United States;Type: General;Language: English;Language: Spanish",TBCN (480p)
 https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",TBN Armenia
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",TBN Armenia (1080p)
 https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Religious" tvg-group="Country: United States;Type: Religious;Language: English;Language: Spanish",TBN Inspire (1080p)
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8

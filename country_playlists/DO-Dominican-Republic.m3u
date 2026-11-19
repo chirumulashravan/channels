@@ -85,7 +85,7 @@ https://edge.essastream.com/canalcocotv/playlist.m3u8
 https://edge.essastream.com/codigotv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: Sports" tvg-group="Country: Dominican Republic;Type: Sports;Language: Spanish",Colimdo TV (720p)
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Dominican Republic;Type: General;Language: Spanish",Colome TV [Not 24/7]
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Dominican Republic;Type: General;Language: Spanish",Colome TV (614p) [Not 24/7]
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Dominican Republic;Type: General;Language: Spanish",Color Vision (720p)
 https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8

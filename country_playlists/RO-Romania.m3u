@@ -21,8 +21,8 @@ https://livestream.a3sv.ro/master.m3u8
 https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Lifestyle" tvg-group="Country: Romania;Type: Lifestyle;Language: Romanian",Antena Monden (720p)
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",AntenaPlay Events (576i) [Not 24/7]
-https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",AntenaPlay Events (576p) [Not 24/7]
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",Arges TV (720p)
@@ -49,7 +49,7 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Movies" tvg-group="Country: Romania;Type: Movies;Language: Romanian",CineWow (576i)
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",Columna TV
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",Columna TV (720p)
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Comedy" tvg-group="Country: Romania;Type: Comedy;Language: Romanian",Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
@@ -149,7 +149,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",PRO TV International
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",PROFI 24 TV
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",PROFI 24 TV (720p)
 https://live.ro24tv.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: News" tvg-group="Country: Romania;Type: News;Language: Romanian",PROTV News
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0
@@ -261,7 +261,7 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Voyo Events (576i) [Not 24/7]
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Voyo Sport 1 (1080i)
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Voyo Sport 1 (1080p)
+http://34.92.70.128/VOYO-SPORT-1/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",Zece TV
 https://zecetv.ilink.ro:8088/hls/live.m3u8
