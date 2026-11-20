@@ -378,7 +378,7 @@ https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Dominican Republic;Type: General;Language: Spanish",TV 10 San Juan (720p) [Not 24/7]
 https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Dominican Republic;Type: Entertainment;Language: Spanish",TV Canal Sur (720p) [Not 24/7]
-https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8
+https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Dominican Republic;Type: General;Language: Spanish",TV Cotui Canal 31 (1080p) [Not 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/tvcotui/playlist.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Dominican Republic;Type: General;Language: Spanish",TV Daja (1080p) [Not 24/7]

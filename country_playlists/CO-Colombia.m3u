@@ -139,6 +139,8 @@ https://stream1.bitred.cl/ntn24/index.m3u8
 http://45.173.231.22:8000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Type: Culture;Language: Spanish",Ondambiental TV (360p)
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Culture" tvg-group="Country: Colombia;Type: Culture;Language: Spanish",Origen Channel (1080p)
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Panche Television
 https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Parranda Vallenata (720p)
@@ -157,8 +159,8 @@ http://45.224.96.220:18000/play/a098/index.m3u8
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Reyali (614p)
 https://eu1.servers10.com:8081/8090/index.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Salsa Gorda Television (1080p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",Salsa Gorda Television (1080p)
+https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Colombia;Type: Religious;Language: Spanish",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Senal Colombia (1080p)

@@ -6,7 +6,7 @@ https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
 #EXTINF:-1 tvg-country="LK" tvg-language="sin,tam" group-title="Type: Entertainment" tvg-group="Country: Sri Lanka;Type: Entertainment;Language: Sinhala;Language: Tamil",Hiru TV (360p) [Not 24/7]
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-country="LK" tvg-language="sin,tam" group-title="Type: Culture" tvg-group="Country: Sri Lanka;Type: Culture;Language: Sinhala;Language: Tamil",Imai TV (576i)
-https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
+https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-country="LK" tvg-language="sin,tam" group-title="Type: Entertainment" tvg-group="Country: Sri Lanka;Type: Entertainment;Language: Sinhala;Language: Tamil",Monara TV (720p) [Not 24/7]
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="LK" tvg-language="sin,tam" group-title="Type: Entertainment" tvg-group="Country: Sri Lanka;Type: Entertainment;Language: Sinhala;Language: Tamil",NDTV LANKA (1080p)

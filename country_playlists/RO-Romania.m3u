@@ -80,7 +80,7 @@ https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Formula 2 AntenaPlay (576i) [Not 24/7]
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Formula Academy AntenaPlay (576p) [Not 24/7]
-https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8
+https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",Hunedoara 1 (480p) [Not 24/7]
@@ -143,6 +143,10 @@ http://novapress.ro:2022/live/nova/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: News" tvg-group="Country: Romania;Type: News;Language: Romanian",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Prima Sport PPV 1
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Prima Sport PPV 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",Pro Arena (1080p)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Movies" tvg-group="Country: Romania;Type: Movies;Language: Romanian",Pro Cinema (1080p)
@@ -261,7 +265,7 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Voyo Events (576i) [Not 24/7]
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Voyo Sport 1 (1080p)
-http://34.92.70.128/VOYO-SPORT-1/index.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Voyo Sport 1 (1080i)
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",Zece TV
 https://zecetv.ilink.ro:8088/hls/live.m3u8

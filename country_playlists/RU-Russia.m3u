@@ -460,7 +460,7 @@ http://31.148.5.241/kanal_21/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: General" tvg-group="Country: Russia;Type: General;Language: Russian",Russia-1 (1080p)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: News" tvg-group="Country: Russia;Type: News;Language: Russian",Russia-24 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Culture" tvg-group="Country: Russia;Type: Culture;Language: Russian",Russia-K (576p)
 http://31.148.5.241/kanal_6/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Sports" tvg-group="Country: Russia;Type: Sports;Language: Russian",Russian Extreme (576p)
@@ -511,18 +511,24 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Series" tvg-group="Country: Russia;Type: Series;Language: Russian",Skoraya pomoshch (1080p)
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Kids" tvg-group="Country: Russia;Type: Kids;Language: Russian",Smotrim 100% Detskoe (720p)
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Documentary" tvg-group="Country: Russia;Type: Documentary;Language: Russian",Smotrim 100% Fakty (720p)
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Type: Classic;Language: Russian",Smotrim 100% Klassika (720p)
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Series" tvg-group="Country: Russia;Type: Series;Language: Russian",Smotrim 100% Lyubov (720p)
-https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Series" tvg-group="Country: Russia;Type: Series;Language: Russian",Smotrim 100% Muzhskoe (720p)
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Entertainment" tvg-group="Country: Russia;Type: Entertainment;Language: Russian",Smotrim 100% Prazdnik (720p)
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Kids" tvg-group="Country: Russia;Type: Kids;Language: Russian",Smotrim 100% Detskoe (1080p)
+https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Documentary" tvg-group="Country: Russia;Type: Documentary;Language: Russian",Smotrim 100% Fakty (1080p)
+https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Language: Russian",Smotrim 100% Gorkogo (1080p)
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Entertainment" tvg-group="Country: Russia;Type: Entertainment;Language: Russian",Smotrim 100% k 1 (1080p)
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Type: Classic;Language: Russian",Smotrim 100% Klassika (1080p)
+https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Series" tvg-group="Country: Russia;Type: Series;Language: Russian",Smotrim 100% Lyubov (1080p)
+https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Series" tvg-group="Country: Russia;Type: Series;Language: Russian",Smotrim 100% Muzhskoe (1080p)
+https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Entertainment" tvg-group="Country: Russia;Type: Entertainment;Language: Russian",Smotrim 100% Prazdnik (1080p)
+https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Entertainment" tvg-group="Country: Russia;Type: Entertainment;Language: Russian",Smotrim 100% Talk-show (1080p)
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Series" tvg-group="Country: Russia;Type: Series;Language: Russian",Smotrim Chestnyy Detektiv (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: General" tvg-group="Country: Russia;Type: General;Type: News;Language: Russian",Sochi24 (720p)
@@ -683,8 +689,8 @@ http://31.148.5.241/Viasat_Sport/index.m3u8
 https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Shop" tvg-group="Country: Russia;Type: Shop;Language: Russian",Vitrina TV (720p)
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Music" tvg-group="Country: Russia;Type: Music;Language: Russian",VIVA Russia
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Music" tvg-group="Country: Russia;Type: Music;Language: Russian",VIVA Russia (1080p)
+https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Travel" tvg-group="Country: Russia;Type: Travel;Language: Russian",Vkus (576p)
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia" tvg-group="Country: Russia;Language: Russian",Vmeste-RF (1080p)

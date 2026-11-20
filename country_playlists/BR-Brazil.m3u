@@ -205,6 +205,8 @@ http://186.219.52.187/rede_familia/index.m3u8
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Religious" tvg-group="Country: Brazil;Type: Religious;Language: Portuguese",Rede Gospel (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Religious" tvg-group="Country: Brazil;Type: Religious;Language: Portuguese",Rede Impacto Gospel TV (720p)
+https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil" tvg-group="Country: Brazil;Language: Portuguese",Rede Meio Norte (720p)
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: General" tvg-group="Country: Brazil;Type: General;Language: Portuguese",Rede Metropole (720p)

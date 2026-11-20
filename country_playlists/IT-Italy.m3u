@@ -253,8 +253,6 @@ http://5.180.164.197:8080/RAIGULP/index.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: Education" tvg-group="Country: Italy;Type: Education;Language: Italian",Rai Scuola (576p)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-#EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: Sports" tvg-group="Country: Italy;Type: Sports;Language: Italian",Rai Sport
-http://sultanios.alwaysdata.net/vavo.php?ID=843891896
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Country: Italy" tvg-group="Country: Italy;Language: Italian",Rai Storia (1080p)
 http://team-tv.co:81/raistoria/index.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Country: Italy" tvg-group="Country: Italy;Language: Italian",RDS Social TV (720p)

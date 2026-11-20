@@ -10,7 +10,7 @@ https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Religious" tvg-group="Country: Canada;Type: Religious;Language: English;Language: French",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: General" tvg-group="Country: Canada;Type: General;Language: English;Language: French",Az Star TV (1080p)
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Religious" tvg-group="Country: Canada;Type: Religious;Language: English;Language: French",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Business" tvg-group="Country: Canada;Type: Business;Language: English;Language: French",BNN Bloomberg

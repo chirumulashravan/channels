@@ -41,8 +41,6 @@ https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-country="AU" tvg-language="eng" group-title="Type: General" tvg-group="Country: Australia;Type: General;Language: English",JonmoBhumi TV (720p)
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="AU" tvg-language="eng" group-title="Type: Culture" tvg-group="Country: Australia;Type: Culture;Language: English",MIS Televizija (720p) [Not 24/7]
-https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-country="AU" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Australia;Type: Religious;Language: English",Mission Asia (1080p)
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 #EXTINF:-1 tvg-country="AU" tvg-language="eng" group-title="Type: Weather" tvg-group="Country: Australia;Type: Weather;Language: English",News24 Weather

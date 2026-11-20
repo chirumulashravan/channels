@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="ME" tvg-language="cnr,srp,bos,sqi,hrv" group-title="Type: General" tvg-group="Country: Montenegro;Type: General;Language: Montenegrin;Language: Serbian;Language: Bosnian;Language: Albanian;Language: Croatian",Radio televizija Rozaje (614p) [Not 24/7]
-https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 #EXTINF:-1 tvg-country="ME" tvg-language="cnr,srp,bos,sqi,hrv" group-title="Type: General" tvg-group="Country: Montenegro;Type: General;Language: Montenegrin;Language: Serbian;Language: Bosnian;Language: Albanian;Language: Croatian",TV Niksic (720p)
 https://tv.rtv-niksic.me/hls/stream.m3u8
 #EXTINF:-1 tvg-country="ME" tvg-language="cnr,srp,bos,sqi,hrv" group-title="Type: General" tvg-group="Country: Montenegro;Type: General;Language: Montenegrin;Language: Serbian;Language: Bosnian;Language: Albanian;Language: Croatian",TV Teuta (720p)

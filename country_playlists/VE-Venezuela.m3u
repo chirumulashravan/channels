@@ -25,8 +25,8 @@ http://200.59.191.177:8000/play/a0la/index.m3u8
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Type: Science" tvg-group="Country: Venezuela;Type: Science;Language: Spanish",EXC TV (720p) [Not 24/7]
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
-#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Type: General" tvg-group="Country: Venezuela;Type: General;Language: Spanish",Globovision (576p)
-http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Type: General" tvg-group="Country: Venezuela;Type: General;Language: Spanish",Globovision (720p)
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 #EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Type: General" tvg-group="Country: Venezuela;Type: General;Language: Spanish",Grande TV
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 #EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Venezuela;Type: Entertainment;Language: Spanish",Guaro TV (720p)
