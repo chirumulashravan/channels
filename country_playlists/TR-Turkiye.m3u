@@ -27,6 +27,8 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",ATV Avrupa (576p)
 https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Sports" tvg-group="Country: Turkiye;Type: Sports;Language: Turkish",beIN Sports 1 Turk (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: General" tvg-group="Country: Turkiye;Type: General;Language: Turkish",Benguturk TV (1080p)
 http://185.234.111.229:8000/play/a05u
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",Beyaz TV (720p) [Not 24/7]
@@ -253,8 +255,8 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",TRT 2 (1440p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",TRT 3 (720p)
-https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",TRT 3 (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: News" tvg-group="Country: Turkiye;Type: News;Language: Turkish",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",TRT Avaz (720p)

@@ -357,22 +357,8 @@ https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Series" tvg-group="Country: Germany;Type: Series;Language: German",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
-#EXTINF:-1 tvg-country="CR" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Costa Rica;Type: Entertainment;Language: Spanish",¡OPA! (720p)
-https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
-#EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Type: Music" tvg-group="Country: Ukraine;Type: Music;Language: Ukrainian",¡Viva Latino! (1080p)
-http://stream.mcquack.net/285/index.m3u8
-#EXTINF:-1,&pictures HD (1080p)
-http://116.90.120.149:8000/play/a132/index.m3u8
-#EXTINF:-1,&TV HD (1080p)
-http://116.90.120.149:8000/play/a133/index.m3u8
 #EXTINF:-1,&TV International (1080p)
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",&xplor HD (1080p)
-http://116.90.120.149:8000/play/a11o/index.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: General" tvg-group="Country: Brazil;Type: General;Type: Entertainment;Type: Movies;Type: Music;Language: Portuguese",+MaisUm (720p)
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
-#EXTINF:-1,+TV (576p)
-https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF:-1,.black (576p)
 http://116.90.120.149:8000/play/a0s4/index.m3u8
 #EXTINF:-1,.black HD (1080p)
@@ -385,6 +371,20 @@ http://178.134.1.158:8081/red/index.m3u8
 http://116.90.120.149:8000/play/a0ao/index.m3u8
 #EXTINF:-1,:24 (1080p)
 http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-country="CR" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Costa Rica;Type: Entertainment;Language: Spanish",¡OPA! (720p)
+https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
+#EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Type: Music" tvg-group="Country: Ukraine;Type: Music;Language: Ukrainian",¡Viva Latino! (1080p)
+http://stream.mcquack.net/285/index.m3u8
+#EXTINF:-1,&pictures HD (1080p)
+http://116.90.120.149:8000/play/a132/index.m3u8
+#EXTINF:-1,&TV HD (1080p)
+http://116.90.120.149:8000/play/a133/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",&xplor HD (1080p)
+http://116.90.120.149:8000/play/a11o/index.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: General" tvg-group="Country: Brazil;Type: General;Type: Entertainment;Type: Movies;Type: Music;Language: Portuguese",+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1,+TV (576p)
+https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Music" tvg-group="Country: Russia;Type: Music;Language: Russian",A1 (576p)
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1,A1 TV (1080p) [Not 24/7]
@@ -737,12 +737,6 @@ https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Music" tvg-group="Country: Germany;Type: Music;Language: German",Adria Music Television
 https://adriaapp.b-cdn.net/1080p/index.m3u8
-#EXTINF:-1 tvg-country="BA" tvg-language="bos,hrv,srp" group-title="Type: Sports" tvg-group="Country: Bosnia and Herzegovina;Type: Sports;Language: Bosnian;Language: Croatian;Language: Serbian",Adriatic Sport 1
-http://sultanios.alwaysdata.net/vavo.php?ID=3645291205
-#EXTINF:-1 tvg-country="BA" tvg-language="bos,hrv,srp" group-title="Type: Sports" tvg-group="Country: Bosnia and Herzegovina;Type: Sports;Language: Bosnian;Language: Croatian;Language: Serbian",Adriatic Sport 2
-http://sultanios.alwaysdata.net/vavo.php?ID=2665922581
-#EXTINF:-1 tvg-country="BA" tvg-language="bos,hrv,srp" group-title="Type: Sports" tvg-group="Country: Bosnia and Herzegovina;Type: Sports;Language: Bosnian;Language: Croatian;Language: Serbian",Adriatic Sport 3
-http://sultanios.alwaysdata.net/vavo.php?ID=2743527845
 #EXTINF:-1,Adult Swim West [Not 24/7;Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Documentary" tvg-group="Country: Germany;Type: Documentary;Language: German",Adventure Earth (1080p)
@@ -1465,15 +1459,13 @@ http://181.78.8.199:8000/play/a0fo/index.m3u8
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1,AP TV (720p)
 https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: News" tvg-group="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",APA Tv
-http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 tvg-country="LU" tvg-language="deu,fra,ltz" group-title="Type: Lifestyle" tvg-group="Country: Luxembourg;Type: Lifestyle;Type: Business;Type: Culture;Language: German;Language: French;Language: Letzeburgesch",apart TV (1080p)
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",APN (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Type: General" tvg-group="Country: Pakistan;Type: General;Language: English;Language: Urdu",Apna Channel (576p)
 http://115.42.65.142:9981/stream/channelid/1273966657
-#EXTINF:-1,Apna Punjab TV (720p)
+#EXTINF:-1,Apna Punjab TV (Canada) (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 tvg-country="HU" tvg-language="hun" group-title="Type: Religious" tvg-group="Country: Hungary;Type: Religious;Language: Hungarian",Apostol TV (576p)
 https://live.apostoltv.hu/live/playlist.m3u8
@@ -1505,6 +1497,8 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Country: Iran" tvg-group="Country: Iran;Language: Persian",Arax TV
 https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: News" tvg-group="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",ARB 24
+https://operativmm.az/tvs/arb24/stream/index.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",Arbol de Vida TV (240p) [Not 24/7]
 https://yupistream.top:19360/livearbol/livearbol.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Documentary" tvg-group="Country: United States;Type: Documentary;Language: English;Language: Spanish",Archivos Forenses
@@ -1707,6 +1701,8 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Documentary" tvg-group="Country: United States;Type: Documentary;Language: English;Language: Spanish",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: Entertainment" tvg-group="Country: Poland;Type: Entertainment;Language: Polish",ATM Rozrywka REWORK (1080p)
+https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8
 #EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: General" tvg-group="Country: Bangladesh;Type: General;Language: Bengali",ATN Bangla (720p)
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: General" tvg-group="Country: United Kingdom;Type: General;Language: English",ATN Bangla UK (576p)
@@ -1863,8 +1859,6 @@ http://138.121.15.230:9002/AXN/index.m3u8
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1,AXN Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
-#EXTINF:-1,AXN Movies (Spain)
-http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
 #EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: Movies" tvg-group="Country: Poland;Type: Movies;Language: Polish",AXN Poland (1080p)
 http://92.114.85.87:8015/play/a00f/index.m3u8
 #EXTINF:-1,AXN White (Poland) (576i)
@@ -2273,6 +2267,8 @@ http://ivi.bupt.edu.cn/hls/btv1.m3u8
 http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 tvg-country="QA" tvg-language="ara" group-title="Type: Sports" tvg-group="Country: Qatar;Type: Sports;Language: Arabic",beIN Sports 1
 https://vg162.adcdsd123321.shop/7.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Sports" tvg-group="Country: Turkiye;Type: Sports;Language: Turkish",beIN Sports 1 Turk (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Sports" tvg-group="Country: United States;Type: Sports;Language: English;Language: Spanish",beIN Sports USA (576p)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Sports" tvg-group="Country: United States;Type: Sports;Language: English;Language: Spanish",beIN SPORTS XTRA (1080p)
@@ -2359,12 +2355,8 @@ https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8
 https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
 #EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Best of Paradise Hotel: Skolveckan
 https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8
-#EXTINF:-1,Best of The Drew Barrymore Show (Sweden)
-https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
-#EXTINF:-1,Best of The Drew Barrymore Show (Sweden) DK
-https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
-#EXTINF:-1,Best of The Drew Barrymore Show (Sweden) NO
-https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Best of The Drew Barrymore Show
+https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
 #EXTINF:-1,Best TV (720p) [Not 24/7]
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 tvg-country="CR" tvg-language="spa" group-title="Country: Costa Rica" tvg-group="Country: Costa Rica;Language: Spanish",BestClasicosTV (720p) [Not 24/7]
@@ -2661,18 +2653,14 @@ https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 https://seswa.bonce.tv/hls/bonceswa.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Dominican Republic;Type: Entertainment;Language: Spanish",Bonches Latinos TV (720p)
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
-#EXTINF:-1,Bondi Rescue (Sweden) (720p)
-https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
-#EXTINF:-1,Bondi Rescue (Sweden) DK (720p)
-https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
-#EXTINF:-1,Bondi Rescue (Sweden) NO (720p)
-https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Bondi Rescue (720p)
+https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Music" tvg-group="Country: India;Type: Music;Language: English;Language: Hindi;Language: Tamil",Boogle Bollywood (720p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1,Boomerang (France) HD (720p)
 http://41.205.93.154/BOOMERANG/index.m3u8
-#EXTINF:-1,Boomerang (Italy)
-http://sultanios.alwaysdata.net/vavo.php?ID=2705627802
+#EXTINF:-1,Boomerang (Thailand)
+https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
 #EXTINF:-1 tvg-country="TH" tvg-language="tha" group-title="Type: Religious" tvg-group="Country: Thailand;Type: Religious;Language: Thai",Boonniyom TV (720p)
 https://live.x2.co.th/live/bntv.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: Movies" tvg-group="Country: Dominican Republic;Type: Movies;Language: Spanish",Boreal (720p) [Not 24/7]
@@ -2873,6 +2861,8 @@ https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Type: Entertainment" tvg-group="Country: France;Type: Entertainment;Language: French",C Star (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",C-10 (576p)
+https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Country: Vietnam" tvg-group="Country: Vietnam;Language: Vietnamese",Ca Mau TV (720p)
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Country: Argentina" tvg-group="Country: Argentina;Language: Guarani;Language: Spanish",Cable Imagen Armstrong (540p) [Not 24/7]
@@ -3289,6 +3279,8 @@ http://190.61.47.54:8000/play/a00v/index.m3u8
 http://187.102.210.46/IPE/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Chile;Type: Religious;Language: Spanish",Canal ISB (720p)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1,Canal J (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Country: Chile" tvg-group="Country: Chile;Language: Spanish",Canal Latino 54 (360p)
 https://videostream.chileservidores.com:8081/latina/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: General" tvg-group="Country: Brazil;Type: General;Language: Portuguese",Canal Libras (720p)
@@ -3419,7 +3411,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?o
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Type: Sports" tvg-group="Country: Slovakia;Type: Sports;Language: Slovak;Language: Czech",Canal+ Sport 8 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
-#EXTINF:-1,Canal+ Sport (France) (1080p)
+#EXTINF:-1,Canal+ Sport (1080p)
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-language="slk,ces" group-title="Type: Sports" tvg-group="Country: Slovakia;Type: Sports;Language: Slovak;Language: Czech",Canal+ Sport SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
@@ -3473,12 +3465,8 @@ https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Type: Religious" tvg-group="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Capuchin TV
 https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
-#EXTINF:-1,Car Chase (Sweden) (720p)
-https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
-#EXTINF:-1,Car Chase (Sweden) DK (720p)
-https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
-#EXTINF:-1,Car Chase (Sweden) NO (720p)
-https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Car Chase (720p)
+https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 #EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland" tvg-group="Country: Poland;Language: Polish",Car City Adventures (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-country="CH" tvg-language="deu,fra,ita" group-title="Type: Entertainment" tvg-group="Country: Switzerland;Type: Entertainment;Language: German;Language: French;Language: Italian",Carac 1 (1080p)
@@ -3559,6 +3547,8 @@ http://45.173.12.70:8000/play/a0fj
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1,Cartoon Network Latin America South Pacific (576p)
 http://45.167.1.138:8000/play/a00w
+#EXTINF:-1,Cartoon Network Western Europe Portugal (576p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c
 #EXTINF:-1,Cartoonito HD (720p)
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Kids" tvg-group="Country: United Kingdom;Type: Kids;Language: English",Cartoonito CEE
@@ -4005,9 +3995,7 @@ https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: News" tvg-group="Country: United States;Type: News;Language: English;Language: Spanish",Cheddar News (1080p)
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-#EXTINF:-1,Cheers (Sweden) NO
-https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
-#EXTINF:-1,Cheers (United States)
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Cheers
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Comedy" tvg-group="Country: United States;Type: Comedy;Language: English;Language: Spanish",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
@@ -4145,6 +4133,8 @@ https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Movies" tvg-group="Country: Germany;Type: Movies;Language: German",Cine Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+#EXTINF:-1,Cine+ Classic (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027
 #EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Type: Kids" tvg-group="Country: Ukraine;Type: Kids;Language: Ukrainian",Cine+ Kids (576p)
 http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Cinecanal (1080p)
@@ -4741,8 +4731,8 @@ https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Religious" tvg-group="Country: United States;Type: Religious;Language: English;Language: Spanish",CSat TV (1080p) [Not 24/7]
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1,CSI (Sweden)
-https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CSI
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",CSI en espanol
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Series" tvg-group="Country: Germany;Type: Series;Language: German",CSI: Crime Scene Investigation
@@ -4863,8 +4853,8 @@ http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 tvg-country="VN" tvg-language="vie" group-title="Type: General" tvg-group="Country: Vietnam;Type: General;Language: Vietnamese",Da Nang TV2 (1080p) [Not 24/7]
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
-#EXTINF:-1,Da Vinci (Poland) (576p)
-http://116.90.120.149:8000/play/a0ad/index.m3u8
+#EXTINF:-1,Da Vinci (576p)
+http://116.90.120.149:8000/play/a0s6/index.m3u8
 #EXTINF:-1,Da Vinci Asia Vietnam (1080p)
 https://vmttv.dpdns.org/tv360?id=davinci-hd
 #EXTINF:-1 tvg-country="TW" tvg-language="zho" group-title="Type: General" tvg-group="Country: Taiwan;Type: General;Language: Chinese",DaAi 1 (720p)
@@ -5173,12 +5163,6 @@ https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/play
 https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 #EXTINF:-1 tvg-country="HR" tvg-language="hrv" group-title="Type: General" tvg-group="Country: Croatia;Type: General;Language: Croatian",Diadora TV (720p)
 https://diadoratv.stream/live/diadora/playlist.m3u8
-#EXTINF:-1,Diagnosis Murder
-https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
-#EXTINF:-1,Diagnosis Murder DK
-https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
-#EXTINF:-1,Diagnosis Murder NO
-https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
 #EXTINF:-1 tvg-country="SN" tvg-language="fra" group-title="Country: Senegal" tvg-group="Country: Senegal;Language: French",Diaspora 24
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: Culture" tvg-group="Country: Peru;Type: Culture;Language: Aymara;Language: Quechua;Language: Spanish",Diaspora TV
@@ -5199,14 +5183,6 @@ https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: News" tvg-group="Country: Romania;Type: News;Language: Romanian",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1,Digi Sport 1 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3174529991
-#EXTINF:-1,Digi Sport 2 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=867728420
-#EXTINF:-1,Digi Sport 3 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=4279401658
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Digi Sport 4
-http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
 #EXTINF:-1 tvg-country="BJ" tvg-language="fra" group-title="Type: General" tvg-group="Country: Benin;Type: General;Language: French",Digital Channel (480p)
 https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
 #EXTINF:-1 tvg-country="CD" tvg-language="fra,kon,lin,lua,swa" group-title="Type: General" tvg-group="Country: Democratic Republic of the Congo;Type: General;Language: French;Language: Kongo;Language: Lingala;Language: Luba-Lulua;Language: Swahili",Digital Congo TV
@@ -5387,8 +5363,8 @@ http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Doble C Television (720p)
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
-#EXTINF:-1,Doc Martin (Sweden)
-https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Doc Martin
+https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",Docevision (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Education" tvg-group="Country: Russia;Type: Education;Type: Lifestyle;Language: Russian",Doctor (1080p)
@@ -5767,8 +5743,8 @@ https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-language="grn,spa" group-title="Type: General" tvg-group="Country: Argentina;Type: General;Language: Guarani;Language: Spanish",El Trece Internacional Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",EL TV (260p)
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",EL TV [Not 24/7]
+https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-country="TN" tvg-language="ara" group-title="Type: General" tvg-group="Country: Tunisia;Type: General;Language: Arabic",El Watania 1 (1080i)
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
 #EXTINF:-1 tvg-country="TN" tvg-language="ara" group-title="Type: General" tvg-group="Country: Tunisia;Type: General;Language: Arabic",El Watania 2 (1080p)
@@ -6183,12 +6159,12 @@ https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: Sports" tvg-group="Country: Poland;Type: Sports;Language: Polish",Eurosport 2 Polska (1080p)
 http://57.128.210.196:8080/263/index.m3u8
-#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: Sports" tvg-group="Country: Poland;Type: Sports;Language: Polish",Eurosport 3 Polska
-http://sultanios.alwaysdata.net/vavo.php?ID=512159637
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: Sports" tvg-group="Country: Poland;Type: Sports;Language: Polish",Eurosport 3 Polska (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35
 #EXTINF:-1,Eurosport 4K Romania (2160p)
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
-#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: Sports" tvg-group="Country: Poland;Type: Sports;Language: Polish",Eurosport 4 Polska
-http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: Sports" tvg-group="Country: Poland;Type: Sports;Language: Polish",Eurosport 4 Polska (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72
 #EXTINF:-1,Eurosport (India) HD (1080p)
 http://116.90.120.149:8000/play/a118/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",Eurovision Sport (1080p)
@@ -6315,12 +6291,8 @@ https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 #EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Familien fra Bryggen
 https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8
-#EXTINF:-1,Family Ties (Sweden)
-https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
-#EXTINF:-1,Family Ties (Sweden) DK
-https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
-#EXTINF:-1,Family Ties (Sweden) NO
-https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Family Ties
+https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Animation" tvg-group="Country: Russia;Type: Animation;Type: Movies;Language: Russian",FAN (1080p)
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1,Fano TV (1080p)
@@ -6725,8 +6697,8 @@ https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: General" tvg-group="Country: Germany;Type: General;Language: German",Franken Fernsehen (1080p) [Not 24/7]
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:-1,Frasier (Sweden)
-https://jmp2.uk/plu-6400c095498393000878a634.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Frasier
+https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Comedy" tvg-group="Country: Germany;Type: Comedy;Language: German",Frasier: Beruhmte Gaste
 https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
 #EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Dominican Republic;Type: General;Language: Spanish",FRATA TV (1080p) [Not 24/7]
@@ -7359,13 +7331,9 @@ https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
 https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
 #EXTINF:-1,Happy Channel HD (1080i)
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
-#EXTINF:-1,Happy Days (Sweden)
-https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
-#EXTINF:-1,Happy Days (Sweden) DK
-https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
-#EXTINF:-1,Happy Days (Sweden) NO
-https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
-#EXTINF:-1,Happy Days (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+#EXTINF:-1,Happy Days CA
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
 #EXTINF:-1 tvg-country="UA" tvg-language="ukr" group-title="Type: Music" tvg-group="Country: Ukraine;Type: Music;Language: Ukrainian",Happy Radio TV (1080p)
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
@@ -7640,7 +7608,7 @@ https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1,HMTV (India) (720p)
 https://cdn.pishow.tv/ott/live/280/master.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",HNN 24x7 (576p)
-https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlHNN24X7/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Lifestyle" tvg-group="Country: United Kingdom;Type: Lifestyle;Language: English",Hobby Maker (720p)
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Type: Kids" tvg-group="Country: Iran;Type: Kids;Language: Persian",HodHod Farsi TV (1080p)
@@ -7877,15 +7845,11 @@ https://ibc.massstream.net/IBC/index.m3u8
 http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-country="TZ" tvg-language="eng,swa" group-title="Type: Religious" tvg-group="Country: Tanzania;Type: Religious;Language: English;Language: Swahili",IBN TV Africa (720p)
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-#EXTINF:-1,iCarly (Sweden)
-https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
-#EXTINF:-1,iCarly (Sweden) DK
-https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
-#EXTINF:-1,iCarly (Sweden) NO
-https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
-#EXTINF:-1,iCarly (United States) LatAm
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",iCarly
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+#EXTINF:-1,iCarly LatAm
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
-#EXTINF:-1,iCarly (United States) SD
+#EXTINF:-1,iCarly SD
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: General" tvg-group="Country: Italy;Type: General;Language: Italian",Icaro TV (720p) [Not 24/7]
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
@@ -8305,12 +8269,8 @@ https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
 https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
 #EXTINF:-1 tvg-country="HK" tvg-language="eng,zho" group-title="Type: Entertainment" tvg-group="Country: Hong Kong;Type: Entertainment;Language: English;Language: Chinese",Jade (1080p)
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-#EXTINF:-1,JAG (Sweden)
-https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
-#EXTINF:-1,JAG (Sweden) DK
-https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
-#EXTINF:-1,JAG (Sweden) NO
-https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",JAG
+https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-language="fas" group-title="Type: General" tvg-group="Country: Iran;Type: General;Language: Persian",Jahanbin TV
 https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
 #EXTINF:-1 tvg-country="TJ" tvg-language="rus,tgk" group-title="Type: General" tvg-group="Country: Tajikistan;Type: General;Language: Russian;Language: Tajik",Jahonnamo (1080p)
@@ -8377,12 +8337,8 @@ https://mp.panelchs.com:1936/8038/8038/playlist.m3u8
 https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Type: General" tvg-group="Country: Pakistan;Type: General;Language: English;Language: Urdu",Jeremiah TV (720p)
 https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
-#EXTINF:-1,Jersey Shore (Sweden)
-https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8
-#EXTINF:-1,Jersey Shore (Sweden) DK
-https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8
-#EXTINF:-1,Jersey Shore (Sweden) NO
-https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Jersey Shore
+https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 #EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Jersey Shore Family Vacation
 https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
 #EXTINF:-1,Jersey Shore Family Vacation DK
@@ -9661,13 +9617,9 @@ https://htvmada.mada.ps:4443/maannews/index.m3u8
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Type: Entertainment" tvg-group="Country: Bangladesh;Type: Entertainment;Language: Bengali",Maasranga TV (720p)
 http://tvsen5.aynascope.net/maasrangatv/index.m3u8
-#EXTINF:-1,MacGyver (Sweden)
-https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
-#EXTINF:-1,MacGyver (Sweden) DK
-https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
-#EXTINF:-1,MacGyver (Sweden) NO
-https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
-#EXTINF:-1,MacGyver (United States) LatAm
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Classic" tvg-group="Country: United States;Type: Classic;Language: English;Language: Spanish",MacGyver
+https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+#EXTINF:-1,MacGyver LatAm
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Cooking" tvg-group="Country: United States;Type: Cooking;Language: English;Language: Spanish",Mad Dog and Merrill (540p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
@@ -9817,6 +9769,8 @@ https://cdn.pishow.tv/ott/live/1474/master.m3u8
 https://cdn.pishow.tv/ott/live/1013/master.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",Manoto
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-country="KP" tvg-language="kor" group-title="Type: Entertainment" tvg-group="Country: North Korea;Type: Entertainment;Language: Korean",Mansudae Television (1080p) [Not 24/7]
+https://live.koryocdn.org/mansudae/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Mantavya News (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
 #EXTINF:-1 tvg-country="IQ" tvg-language="ara,arc,ckb" group-title="Country: Iraq" tvg-group="Country: Iraq;Language: Arabic;Language: Imperial Aramaic (700-300 BCE);Language: Central Kurdish",Manu Chat
@@ -9919,13 +9873,9 @@ http://31.148.5.241/kanal_3/index.m3u8
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Mathrubhumi News (720p)
 https://dn5yap910rvbg.cloudfront.net/live/mbnews/master.m3u8
-#EXTINF:-1,Matlock (Sweden)
-https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
-#EXTINF:-1,Matlock (Sweden) DK
-https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
-#EXTINF:-1,Matlock (Sweden) NO
-https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
-#EXTINF:-1,Matlock (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Matlock
+https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
+#EXTINF:-1,Matlock CA
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 #EXTINF:-1 tvg-country="BD" tvg-language="ben" group-title="Country: Bangladesh" tvg-group="Country: Bangladesh;Language: Bengali",Matribhumi TV (720p)
 http://live.playmax.live/matribhumi/index.m3u8
@@ -10327,13 +10277,9 @@ https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-country="AU" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Australia;Type: Religious;Language: English",Mission Asia (1080p)
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
-#EXTINF:-1,Mission Impossible (Sweden)
-https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
-#EXTINF:-1,Mission Impossible (Sweden) DK
-https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
-#EXTINF:-1,Mission Impossible (Sweden) NO
-https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
-#EXTINF:-1,Mission Impossible (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Mission Impossible
+https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
+#EXTINF:-1,Mission Impossible CA
 https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Religious" tvg-group="Country: United States;Type: Religious;Language: English;Language: Spanish",Mission TV (1080p) [Not 24/7]
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
@@ -10625,15 +10571,11 @@ https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
 #EXTINF:-1,MTV Biggest Pop LatAm (1080p)
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1,MTV Catfish (Sweden) (720p)
-https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
-#EXTINF:-1,MTV Catfish (Sweden) DK (720p)
-https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
-#EXTINF:-1,MTV Catfish (Sweden) NO
-https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8
-#EXTINF:-1,MTV Catfish (United States) BR (720p)
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",MTV Catfish
+https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
+#EXTINF:-1,MTV Catfish BR (720p)
 https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
-#EXTINF:-1,MTV Catfish (United States) LatAm (720p)
+#EXTINF:-1,MTV Catfish LatAm (720p)
 https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 #EXTINF:-1 tvg-country="NI" tvg-language="spa" group-title="Type: General" tvg-group="Country: Nicaragua;Type: General;Language: Spanish",MTV Chontales (720p) [Not 24/7]
 https://altair.hostingnica.net/hls/mtv_stream/index.m3u8
@@ -10649,15 +10591,11 @@ https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",MTV Con Mi Ex
 https://jmp2.uk/plu-638693db857364000781b471.m3u8
-#EXTINF:-1,MTV Dating (Sweden) (720p)
-https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
-#EXTINF:-1,MTV Dating (Sweden) DK (720p)
-https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
-#EXTINF:-1,MTV Dating (Sweden) NO (720p)
-https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
-#EXTINF:-1,MTV Dating (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",MTV Dating
+https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+#EXTINF:-1,MTV Dating CA
 https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8
-#EXTINF:-1,MTV Dating (United States) LatAm (720p)
+#EXTINF:-1,MTV Dating LatAm (720p)
 https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",MTV Drag
 https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
@@ -10681,7 +10619,7 @@ https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
 #EXTINF:-1 tvg-country="GY" tvg-language="eng" group-title="Type: General" tvg-group="Country: Guyana;Type: General;Language: English",MTV Guyana (1080p) [Not 24/7]
 https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
-#EXTINF:-1,MTV Jersey Shore
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",MTV Jersey Shore
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Entertainment" tvg-group="Country: Germany;Type: Entertainment;Language: German",MTV Jerseys
 https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
@@ -10701,25 +10639,15 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1,MTV Pluto TV LatAm (720p)
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-#EXTINF:-1,MTV Reality (Sweden) (720p)
-https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
-#EXTINF:-1,MTV Reality (Sweden) DK (720p)
-https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
-#EXTINF:-1,MTV Reality (Sweden) NO
-https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
-#EXTINF:-1,MTV Reality (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",MTV Reality (720p)
+https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+#EXTINF:-1,MTV Reality CA
 https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
-#EXTINF:-1,MTV Reality (United States) LatAm (720p)
+#EXTINF:-1,MTV Reality LatAm (720p)
 https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
-#EXTINF:-1,MTV Ridiculousness (Sweden) (720p)
-https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
-#EXTINF:-1,MTV Ridiculousness (Sweden) DK (720p)
-https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
-#EXTINF:-1,MTV Ridiculousness (Sweden) NO (720p)
-https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8
-#EXTINF:-1,MTV Ridiculousness (United States) CA
+#EXTINF:-1,MTV Ridiculousness CA
 https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
-#EXTINF:-1,MTV Ridiculousness (United States) LatAm (720p)
+#EXTINF:-1,MTV Ridiculousness LatAm (720p)
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
@@ -10731,12 +10659,8 @@ https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1,MTV Spankin' New CA (1080p)
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
-#EXTINF:-1,MTV Teen Mom (Sweden) (720p)
-https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
-#EXTINF:-1,MTV Teen Mom (Sweden) DK (720p)
-https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8
-#EXTINF:-1,MTV Teen Mom (Sweden) NO (720p)
-https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",MTV Teen Mom (720p)
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 #EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",MTV The Hills
 https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
 #EXTINF:-1,MTV The Hills DK
@@ -11133,18 +11057,18 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/play
 https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="TH" tvg-language="tha" group-title="Type: General" tvg-group="Country: Thailand;Type: General;Language: Thai",NBT World (1080p)
 https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
-#EXTINF:-1,NCIS (Sweden)
-https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
-#EXTINF:-1,NCIS (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",NCIS
+https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+#EXTINF:-1,NCIS CA
 https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
-#EXTINF:-1,NCIS (United States) LatAm
+#EXTINF:-1,NCIS LatAm
 https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
 #EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",NCIS: Det bedste med Gibbs
 https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 #EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
-#EXTINF:-1,NCIS: Los Angeles (Sweden)
-https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",NCIS: Los Angeles
+https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Education" tvg-group="Country: United States;Type: Education;Type: Kids;Language: English;Language: Spanish",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Legislative" tvg-group="Country: United States;Type: Legislative;Language: English;Language: Spanish",NCM Government & Politics Channel
@@ -11477,6 +11401,8 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1,NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Animation" tvg-group="Country: Brazil;Type: Animation;Type: Kids;Language: Portuguese",NickOnline Bob Esponja [Not 24/7]
+https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1,Nicktoons (Czech Republic)
 http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1,Nicktoons (United States) CA
@@ -11771,10 +11697,6 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 http://190.181.61.93:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-country="EC" tvg-language="spa" group-title="Type: General" tvg-group="Country: Ecuador;Type: General;Language: Spanish",Nuka TV (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8118/index.m3u8
-#EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Series" tvg-group="Country: Sweden;Type: Series;Language: Swedish",Numb3rs
-https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
-#EXTINF:-1,Numb3rs NO
-https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Music" tvg-group="Country: Turkiye;Type: Music;Language: Turkish",Number 1 Ask (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Music" tvg-group="Country: Turkiye;Type: Music;Language: Turkish",Number 1 Damar (720p)
@@ -11783,8 +11705,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Music" tvg-group="Country: Turkiye;Type: Music;Language: Turkish",Number 1 TV (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1,Numbers (Sweden)
-https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Numbers
+https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Numeros
 https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Nurafshon TV
@@ -12061,8 +11983,8 @@ https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="TH" tvg-language="tha" group-title="Type: General" tvg-group="Country: Thailand;Type: General;Language: Thai",One 31 (720p)
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
-#EXTINF:-1,One (720p)
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1,One (Israel)
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Music" tvg-group="Country: Germany;Type: Music;Language: German",One Adria
 https://oneadriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: News" tvg-group="Country: United States;Type: News;Language: English;Language: Spanish",One America News Network (720p)
@@ -12317,8 +12239,8 @@ https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
-#EXTINF:-1,Paramount Network (Poland)
-http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
+#EXTINF:-1,Paramount Network (Poland) (1080p)
+https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Paranormal State
@@ -12581,12 +12503,6 @@ http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
 https://stream.streaming4u.hu/PilisTV/index.m3u8
 #EXTINF:-1 tvg-country="KE" tvg-language="eng,swa" group-title="Type: Religious" tvg-group="Country: Kenya;Type: Religious;Language: English;Language: Swahili",Pillar TV (720p) [Not 24/7]
 https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
-#EXTINF:-1,Pimp My Ride
-https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
-#EXTINF:-1,Pimp My Ride DK
-https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
-#EXTINF:-1,Pimp My Ride NO
-https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
 #EXTINF:-1 tvg-country="PA" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Panama;Type: Music;Language: Spanish",Pindin TV
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
 #EXTINF:-1 tvg-country="LV" tvg-language="lav" group-title="Type: Animation" tvg-group="Country: Latvia;Type: Animation;Type: Kids;Language: Latvian",Pingviins (720p)
@@ -12651,12 +12567,8 @@ https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Pluto TV A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
-#EXTINF:-1,Pluto TV Action (Sweden)
-https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
-#EXTINF:-1,Pluto TV Action (Sweden) DK
-https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
-#EXTINF:-1,Pluto TV Action (Sweden) NO
-https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Pluto TV Action
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Pluto TV Action Movies
 https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Animation" tvg-group="Country: Germany;Type: Animation;Type: Comedy;Language: German",Pluto TV Adult Animation
@@ -12953,18 +12865,14 @@ https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Pluto TV Hometown Drama
 https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
-#EXTINF:-1,Pluto TV Horror (Sweden)
-https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
-#EXTINF:-1,Pluto TV Horror (Sweden) DK
-https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
-#EXTINF:-1,Pluto TV Horror (Sweden) NO
-https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
-#EXTINF:-1,Pluto TV Horror (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Type: Series;Language: English;Language: Spanish",Pluto TV Horror
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:-1,Pluto TV Horror CA
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Series" tvg-group="Country: Germany;Type: Series;Language: German",Pluto TV Horror-Serien
 https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
-#EXTINF:-1,Pluto TV Humor (Sweden)
-https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",Pluto TV Humor
+https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Entertainment" tvg-group="Country: Germany;Type: Entertainment;Language: German",Pluto TV Impacto
@@ -13103,11 +13011,9 @@ https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
 https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Education" tvg-group="Country: United States;Type: Education;Language: English;Language: Spanish",Pluto TV Paisagens por Stingray (720p)
 https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
-#EXTINF:-1,Pluto TV Paranormal (Sweden)
-https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
-#EXTINF:-1,Pluto TV Paranormal (Sweden) DK
-https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
-#EXTINF:-1,Pluto TV Paranormal (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Documentary" tvg-group="Country: United States;Type: Documentary;Language: English;Language: Spanish",Pluto TV Paranormal
+https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
+#EXTINF:-1,Pluto TV Paranormal CA
 https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",Pluto TV Peleas
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
@@ -13161,15 +13067,11 @@ https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Comedy" tvg-group="Country: Germany;Type: Comedy;Language: German",Pluto TV Scherzi e risate
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
-#EXTINF:-1,Pluto TV Sci-Fi (Sweden)
-https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-#EXTINF:-1,Pluto TV Sci-Fi (Sweden) DK
-https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
-#EXTINF:-1,Pluto TV Sci-Fi (Sweden) NO
-https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
-#EXTINF:-1,Pluto TV Sci-Fi (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Type: Movies;Language: English;Language: Spanish",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
+#EXTINF:-1,Pluto TV Sci-Fi CA
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
-#EXTINF:-1,Pluto TV Sci-Fi (United States) LatAm
+#EXTINF:-1,Pluto TV Sci-Fi LatAm
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Series" tvg-group="Country: Germany;Type: Series;Language: German",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
@@ -13291,13 +13193,9 @@ https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Pluto TV Trending Now
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
-#EXTINF:-1,Pluto TV True Crime (Sweden)
-https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
-#EXTINF:-1,Pluto TV True Crime (Sweden) DK
-https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
-#EXTINF:-1,Pluto TV True Crime (Sweden) NO
-https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
-#EXTINF:-1,Pluto TV True Crime (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Type: Documentary;Language: English;Language: Spanish",Pluto TV True Crime
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+#EXTINF:-1,Pluto TV True Crime CA
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Auto" tvg-group="Country: United States;Type: Auto;Type: Documentary;Language: English;Language: Spanish",Pluto TV Turbo
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
@@ -13333,9 +13231,9 @@ https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Series" tvg-group="Country: Germany;Type: Series;Language: German",Pluto TV Western Serien
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
-#EXTINF:-1,Pluto TV Westerns (Germany)
-https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
-#EXTINF:-1,Pluto TV Westerns (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Pluto TV Westerns
+https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
+#EXTINF:-1,Pluto TV Westerns CA
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Movies" tvg-group="Country: Sweden;Type: Movies;Type: Series;Language: Swedish",Pluto TV Wild West
 https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
@@ -13550,11 +13448,7 @@ https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Country: Czech Republic" tvg-group="Country: Czech Republic;Language: Czech;Language: Slovak",Prima Show (1080p)
 http://88.212.15.50/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1,Prima Sport 2 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3381201599
-#EXTINF:-1,Prima Sport 3 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
-#EXTINF:-1,Prima Sport 4 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 #EXTINF:-1 tvg-country="CZ" tvg-language="ces,slk" group-title="Type: Sports" tvg-group="Country: Czech Republic;Type: Sports;Language: Czech;Language: Slovak",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Prima Sport PPV 1
@@ -14339,13 +14233,9 @@ https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/ind
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 #EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Rave TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
-#EXTINF:-1,Rawhide (Sweden)
-https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
-#EXTINF:-1,Rawhide (Sweden) DK
-https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
-#EXTINF:-1,Rawhide (Sweden) NO
-https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
-#EXTINF:-1,Rawhide (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Type: Series;Language: English;Language: Spanish",Rawhide
+https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
+#EXTINF:-1,Rawhide CA
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-country="NP" tvg-language="nep" group-title="Type: Entertainment" tvg-group="Country: Nepal;Type: Entertainment;Type: General;Language: Nepali",Ray TV HD
 https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
@@ -14685,8 +14575,8 @@ https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-country="TT" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Trinidad and Tobago;Type: Religious;Language: English",Riddim & Hope TV
 https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
-#EXTINF:-1,Ridiculousness (Germany) (720p)
-https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Comedy" tvg-group="Country: United States;Type: Comedy;Language: English;Language: Spanish",Ridiculousness
+https://jmp2.uk/plu-6996296087742204bff43147.m3u8
 #EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Ridiculousness: Nya avsnitt
 https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
 #EXTINF:-1 tvg-country="SE" tvg-language="swe" group-title="Type: Entertainment" tvg-group="Country: Sweden;Type: Entertainment;Language: Swedish",Ridiculousness: Nye afsnit
@@ -15071,8 +14961,8 @@ https://rutvkids.ru/live/efir/index.m3u8
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",RugbyPass TV (720p)
 https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
-#EXTINF:-1,Rugrats (Germany)
-https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Kids" tvg-group="Country: United States;Type: Kids;Language: English;Language: Spanish",Rugrats
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 #EXTINF:-1,Rumba TV (1080p)
 http://38.134.250.110:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: Music" tvg-group="Country: Peru;Type: Music;Language: Aymara;Language: Quechua;Language: Spanish",RumbaMix TV (720p)
@@ -15907,6 +15797,8 @@ http://37.49.224.5/stream/50/index.m3u8
 http://37.49.224.5/stream/70/index.m3u8
 #EXTINF:-1,Sky Sport 9
 http://37.49.224.5/stream/52/index.m3u8
+#EXTINF:-1,Sky Sport F1 (Italy)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d
 #EXTINF:-1 tvg-country="NZ" tvg-language="eng,mri,nzs" group-title="Type: Sports" tvg-group="Country: New Zealand;Type: Sports;Language: English;Language: Maori;Language: New Zealand Sign Language",Sky Sport Select
 http://37.49.224.5/stream/53/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Type: Sports" tvg-group="Country: Mexico;Type: Sports;Language: Spanish",Sky Sports 1 (1080p)
@@ -15951,10 +15843,8 @@ https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1,Smithsonian Channel Pluto TV LatAm
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
-#EXTINF:-1,Smithsonian Channel Selects (Sweden)
-https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-#EXTINF:-1,Smithsonian Channel Selects (Sweden) DK
-https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Science" tvg-group="Country: United States;Type: Science;Language: English;Language: Spanish",Smithsonian Channel Selects
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:-1 tvg-country="PH" tvg-language="eng,fil" group-title="Country: Philippines" tvg-group="Country: Philippines;Language: English;Language: Filipino",SMNI (720p)
 https://stream.kdlc.click/hls/0/stream.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Kids" tvg-group="Country: Russia;Type: Kids;Language: Russian",Smotrim 100% Detskoe (1080p)
@@ -16079,8 +15969,18 @@ https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1,Sony Pix HD (1080p)
 http://116.90.120.149:8000/play/a138/index.m3u8
+#EXTINF:-1,Sony SAB HD (1080p)
+http://116.90.120.149:8000/play/a128/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Sony Sports Ten 1 (576p)
+http://116.90.120.149:8000/play/a126/index.m3u8
+#EXTINF:-1,Sony Sports Ten 1 HD (1080p)
+http://116.90.120.149:8000/play/a11t/index.m3u8
+#EXTINF:-1,Sony Sports Ten 2 HD (1080p)
+http://116.90.120.149:8000/play/a137/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Sony Sports Ten 3 Hindi (1080p)
 https://r2.amml.in/sony-ten-3-hd/live.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Sony Sports Ten 5 (576p)
+http://116.90.120.149:8000/play/a117/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Sony Wah (576p)
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Animation" tvg-group="Country: India;Type: Animation;Type: Kids;Language: English;Language: Hindi;Language: Tamil",Sony Yay! (1080p)
@@ -16107,16 +16007,8 @@ https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Country: Nigeria" tvg-group="Country: Nigeria;Language: English",Soundcity TV
 https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8
-#EXTINF:-1,South Park (Germany)
-https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-#EXTINF:-1,South Park (Germany) GB
-https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
-#EXTINF:-1,South Park (Germany) IT
-https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
-#EXTINF:-1,South Park (Sweden) DK
-https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
-#EXTINF:-1,South Park (Sweden) NO
-https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Type: Comedy;Language: English;Language: Spanish",South Park
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
 #EXTINF:-1,South Park Armageddon
 https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
 #EXTINF:-1,South Park Armageddon DK
@@ -16139,12 +16031,8 @@ https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
 https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
 #EXTINF:-1,South Park: Butters Collection (Sweden) NO
 https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
-#EXTINF:-1,South Park: Cartman Collection (Germany)
-https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
-#EXTINF:-1,South Park: Cartman Collection (Sweden) DK
-https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
-#EXTINF:-1,South Park: Cartman Collection (Sweden) NO
-https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Type: Comedy;Language: English;Language: Spanish",South Park: Cartman Collection
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Type: Comedy;Language: English;Language: Spanish",South Park: Colecao Cartman
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Type: Comedy;Language: English;Language: Spanish",South Park: Colecao Kenny
@@ -16167,26 +16055,14 @@ https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
 https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
 #EXTINF:-1,South Park: Into the Stars NO
 https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
-#EXTINF:-1,South Park: Kenny Collection (Germany)
-https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
-#EXTINF:-1,South Park: Kenny Collection (Sweden) DK
-https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
-#EXTINF:-1,South Park: Kenny Collection (Sweden) NO
-https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
-#EXTINF:-1,South Park: Kyle Collection (Germany)
-https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
-#EXTINF:-1,South Park: Kyle Collection (Sweden) DK
-https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
-#EXTINF:-1,South Park: Kyle Collection (Sweden) NO
-https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Type: Comedy;Language: English;Language: Spanish",South Park: Kenny Collection
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Type: Comedy;Language: English;Language: Spanish",South Park: Kyle Collection
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Animation" tvg-group="Country: Germany;Type: Animation;Type: Comedy;Language: German",South Park: Original Version
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1,South Park: Stan Collection (Germany)
-https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
-#EXTINF:-1,South Park: Stan Collection (Sweden) DK
-https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
-#EXTINF:-1,South Park: Stan Collection (Sweden) NO
-https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Type: Comedy;Language: English;Language: Spanish",South Park: Stan Collection
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Animation" tvg-group="Country: United States;Type: Animation;Type: Comedy;Language: English;Language: Spanish",South Park: Welcome to Canada!
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",South Station (1080p)
@@ -16325,6 +16201,14 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 http://s1.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Language: Russian",Star Family (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Star Gold 2 (576p)
+http://116.90.120.149:8000/play/a12b/index.m3u8
+#EXTINF:-1,Star Gold HD (1080p)
+http://116.90.120.149:8000/play/a12a/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Star Gold Romance (576p)
+http://116.90.120.149:8000/play/a12c/index.m3u8
+#EXTINF:-1,Star Gold Select HD (1080p)
+http://116.90.120.149:8000/play/a131/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Star Jalsha (1080p)
 http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 #EXTINF:-1,Star Jalsha HD (1080p)
@@ -16335,12 +16219,22 @@ https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1,Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1,Star Movies (India) HD (1080p)
+http://116.90.120.149:8000/play/a13a/index.m3u8
+#EXTINF:-1,Star Movies Select HD (1080p)
+http://116.90.120.149:8000/play/a139/index.m3u8
 #EXTINF:-1,Star News (1080p)
 http://103.135.253.32:8080/Star-News/index.m3u8
 #EXTINF:-1 tvg-country="MK" tvg-language="mkd" group-title="Type: Music" tvg-group="Country: North Macedonia;Type: Music;Language: Macedonian",Star Plus Televizija (1080p) [Not 24/7]
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1,Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+#EXTINF:-1,Star Sports 1 HD (1080p)
+http://116.90.120.149:8000/play/a11x/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi HD (1080p)
+http://116.90.120.149:8000/play/a122/index.m3u8
+#EXTINF:-1,Star Sports 2 HD (1080p)
+http://116.90.120.149:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-country="LK" tvg-language="sin,tam" group-title="Type: Movies" tvg-group="Country: Sri Lanka;Type: Movies;Language: Sinhala;Language: Tamil",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Star Trek
@@ -16357,18 +16251,16 @@ https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Type: Series;Language: English;Language: Spanish",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
-#EXTINF:-1,Star Trek: The Next Generation (Germany)
-https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Type: Series;Language: English;Language: Spanish",Star Trek: The Next Generation
+https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 #EXTINF:-1,Star Trek: The Original Series (Germany)
 https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
 #EXTINF:-1,Star Trek: The Original Series (Sweden) DK
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1,Star Trek: The Original Series (Sweden) NO
 https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
-#EXTINF:-1,Star Trek: Voyager (Germany)
-https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-#EXTINF:-1,Star Trek: Voyager (Germany) IT
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Type: Series;Language: English;Language: Spanish",Star Trek: Voyager
+https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1,Star TV (Turkiye) (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Star Utsav (576p)
@@ -16913,6 +16805,8 @@ https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.is
 https://hls.nejat.live/hls/stream.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",TBN Pacific
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland" tvg-group="Country: Poland;Language: Polish",TBN Polska (1080p)
+https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Country: United Kingdom" tvg-group="Country: United Kingdom;Language: English",TBN UK (1080p)
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",TBN Ukraine (720p)
@@ -16977,12 +16871,8 @@ https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:-1,TED (1080p)
 https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
-#EXTINF:-1,Teen Mom (Germany)
-https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
-#EXTINF:-1,Teen Mom (Germany) FR (720p)
-https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-#EXTINF:-1,Teen Mom (Germany) GB
-https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Documentary" tvg-group="Country: United States;Type: Documentary;Language: English;Language: Spanish",Teen Mom
+https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Animation" tvg-group="Country: Germany;Type: Animation;Type: Kids;Language: German",Teenage Mutant Ninja Turtles (720p)
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1,TeenNick (Poland) (576i)
@@ -17015,8 +16905,8 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Culture" tvg-group="Country: Colombia;Type: Culture;Language: Spanish",Tele Amiga (720p)
 http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
-#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Dominican Republic;Type: General;Language: Spanish",Tele Antillas (1080p)
-http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
+#EXTINF:-1 tvg-country="DO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Dominican Republic;Type: General;Language: Spanish",Tele Antillas (480p)
+https://hls.tvabierta.net/hls/010.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",Tele Boston (480p)
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: General" tvg-group="Country: Italy;Type: General;Language: Italian",Tele Chiara (720p)
@@ -17421,6 +17311,8 @@ http://ott.sgn.net/hls/tvurslja.m3u8
 https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
 #EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: Business" tvg-group="Country: Poland;Type: Business;Language: Polish",Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: General" tvg-group="Country: Poland;Type: General;Language: Polish",Telewizja Imperium (1080p)
+https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8
 #EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Country: Poland" tvg-group="Country: Poland;Language: Polish",Telewizja iTTV (1080p)
 https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: General" tvg-group="Country: Poland;Type: General;Language: Polish",Telewizja Jaslo (720p)
@@ -17641,15 +17533,11 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Type: Documentary;Language: English;Language: Spanish",The Nest (1080p)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1,The New Detectives (Germany)
-https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
-#EXTINF:-1,The New Detectives (Sweden) DK
-https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
-#EXTINF:-1,The New Detectives (Sweden) NO
-https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
-#EXTINF:-1,The New Detectives (United States) CA
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",The New Detectives
+https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
+#EXTINF:-1,The New Detectives CA
 https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
-#EXTINF:-1,The New Detectives (United States) LatAm
+#EXTINF:-1,The New Detectives LatAm
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Religious" tvg-group="Country: United States;Type: Religious;Language: English;Language: Spanish",The Now Network (480p) [Not 24/7]
 https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
@@ -17709,12 +17597,8 @@ https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Weather" tvg-group="Country: Canada;Type: Weather;Language: English;Language: French",The Weather Network (720p)
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
-#EXTINF:-1,The Wild Wild West (Sweden)
-https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
-#EXTINF:-1,The Wild Wild West (Sweden) DK
-https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
-#EXTINF:-1,The Wild Wild West (Sweden) NO
-https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Type: Series;Language: English;Language: Spanish",The Wild Wild West
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Religious" tvg-group="Country: United States;Type: Religious;Language: English;Language: Spanish",The Word Network (1080p)
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Entertainment" tvg-group="Country: Germany;Type: Entertainment;Language: German",The Yellow Couch with Jeremy Lynch
@@ -17823,6 +17707,8 @@ http://190.181.61.93:8000/play/a004/index.m3u8
 https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
 #EXTINF:-1,TLC (Czech Republic)
 http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1,TLC (India) HD (1080p)
+http://116.90.120.149:8000/play/a11g/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Lifestyle" tvg-group="Country: United States;Type: Lifestyle;Language: English;Language: Spanish",TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1,TLC Latin America Brazil (720p)
@@ -18007,14 +17893,10 @@ https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
 https://us.streaminghd.cl/torococotelevision/video.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Country: Canada" tvg-group="Country: Canada;Language: English;Language: French",Toronto 360 TV (720p) [Not 24/7]
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
-#EXTINF:-1,Tortues Ninja TV (Germany) (720p)
-https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
-#EXTINF:-1,Tosh.0 (Sweden)
-https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
-#EXTINF:-1,Tosh.0 (Sweden) DK
-https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
-#EXTINF:-1,Tosh.0 (Sweden) NO
-https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Kids" tvg-group="Country: United States;Type: Kids;Language: English;Language: Spanish",Tortues Ninja TV (720p)
+https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Tosh.0
+https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Toshkent (576p)
 https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Religious" tvg-group="Country: India;Type: Religious;Language: English;Language: Hindi;Language: Tamil",Total Bhakti (1080p)
@@ -18023,15 +17905,9 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/in
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India" tvg-group="Country: India;Language: English;Language: Hindi;Language: Tamil",Total TV Haryana (1080p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4836fb71b5764f70ab1f3815e0295dfd/index.m3u8
-#EXTINF:-1,Totally Turtles (Germany) (720p)
-https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-#EXTINF:-1,Totally Turtles (Germany) GB
-https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
-#EXTINF:-1,Totally Turtles (Sweden) DK (720p)
-https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
-#EXTINF:-1,Totally Turtles (Sweden) NO (720p)
-https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
-#EXTINF:-1,Totally Turtles (United States) CA (720p)
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Kids" tvg-group="Country: United States;Type: Kids;Language: English;Language: Spanish",Totally Turtles
+https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
+#EXTINF:-1,Totally Turtles CA (720p)
 https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Music" tvg-group="Country: United Kingdom;Type: Music;Language: English",Totalmusic 80s (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
@@ -18059,8 +17935,6 @@ https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
 https://stream.it-innov.com/tr24/index.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: Sports" tvg-group="Country: Italy;Type: Sports;Language: Italian",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Type: Music" tvg-group="Country: France;Type: Music;Language: French",Trace Brazuca (1080p)
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Trace Brazuca HD (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Type: Sports" tvg-group="Country: France;Type: Sports;Language: French",Trace Sport Stars (1080p)
@@ -18151,8 +18025,8 @@ https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",TRT 2 (1440p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",TRT 3 (720p)
-https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",TRT 3 (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243
 #EXTINF:-1,TRT (Greece) (720p)
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: News" tvg-group="Country: Turkiye;Type: News;Language: Turkish",TRT Arabi (1080p) [Not 24/7]
@@ -19117,6 +18991,8 @@ https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1,TVK (Cambodia) (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: Entertainment" tvg-group="Country: Poland;Type: Entertainment;Language: Polish",TVK SMNT (1080p)
+https://tvk.smnt.pl/memfs/cf3a66ef-133a-4579-86da-5995ab23ae2a.m3u8
 #EXTINF:-1 tvg-country="PL" tvg-language="pol" group-title="Type: General" tvg-group="Country: Poland;Type: General;Type: News;Language: Polish",TVK Stella (576p)
 https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-language="ind" group-title="Country: Indonesia" tvg-group="Country: Indonesia;Language: Indonesian",TVKU (720p)
@@ -19563,6 +19439,12 @@ https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 https://stream.unison.mx/hls/unisontvatem.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Education" tvg-group="Country: Brazil;Type: Education;Type: Culture;Language: Portuguese",Unisul TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Unite8 Sports 1 (576p)
+http://116.90.120.149:8000/play/a11l/index.m3u8
+#EXTINF:-1,Unite8 Sports 1 HD (1080p)
+http://116.90.120.149:8000/play/a125/index.m3u8
+#EXTINF:-1,Unite8 Sports 2 HD (1080p)
+http://116.90.120.149:8000/play/a129/index.m3u8
 #EXTINF:-1,Unitel (Bolivia) (1080p)
 http://190.181.61.93:8000/play/1909/index.m3u8
 #EXTINF:-1,Unitel (Bolivia) Cochabamba (1080p)
@@ -20683,6 +20565,8 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1,Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Classic" tvg-group="Country: India;Type: Classic;Language: English;Language: Hindi;Language: Tamil",Zee Classic (576p)
+http://116.90.120.149:8000/play/a121/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Comedy" tvg-group="Country: India;Type: Comedy;Language: English;Language: Hindi;Language: Tamil",Zee Comedy Nation (1080p)
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Zee Delhi NCR Haryana (720p)
@@ -20709,12 +20593,16 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
 #EXTINF:-1,Zee One German (720p)
 https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
+#EXTINF:-1,Zee Power HD (1080p)
+http://116.90.120.149:8000/play/a11p/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Zee Punjab Haryana Himachal (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Zee Rajasthan (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1,Zee Talkies HD (1080p)
+http://116.90.120.149:8000/play/a116/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Zee Tamil (576p)
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
 #EXTINF:-1,Zee Tamil HD (1080p)
@@ -20725,6 +20613,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Zee Telugu News (720p)
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+#EXTINF:-1,Zee Thirai HD (1080p)
+http://116.90.120.149:8000/play/a11q/index.m3u8
 #EXTINF:-1,Zee TV HD (1080p)
 http://103.135.253.32:8080/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-country="SG" tvg-language="eng,msa,zho,tam" group-title="Country: Singapore" tvg-group="Country: Singapore;Language: English;Language: Malay;Language: Chinese;Language: Tamil",Zee TV Asia Pacific (720p)
@@ -20805,24 +20695,8 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-language="deu" group-title="Type: Music" tvg-group="Country: Germany;Type: Music;Language: German",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",4 SiDES TV (1080p)
-https://stream.ottlive.co.in/4sidestv/index.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Music" tvg-group="Country: India;Type: Music;Language: English;Language: Hindi;Language: Tamil",ETV Beats (1080p)
-https://jmp2.uk/stvp-IN4900002RV
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Comedy" tvg-group="Country: India;Type: Comedy;Language: English;Language: Hindi;Language: Tamil",ETV Comedy (1080p)
-https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",ETV Josh (1080p)
-https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Lifestyle" tvg-group="Country: India;Type: Lifestyle;Language: English;Language: Hindi;Language: Tamil",ETV Life (1080p)
-https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Music" tvg-group="Country: India;Type: Music;Language: English;Language: Hindi;Language: Tamil",ETV Music (1080p)
-https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",ETV Telangana (1080p)
-https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Religious" tvg-group="Country: India;Type: Religious;Language: English;Language: Hindi;Language: Tamil",Hare Krsna TV (1080p)
-https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Spondon (1080p)
-https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",HNN 24x7 (576p)
+https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
 #EXTINF:-1 channel-id="News24.au"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8-Drpzj-lsb_BlXTArPRAND9vVnrNDe0XAOaQG1xag&s=10" group-title="BRISBANE",NEWS 24
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="BRISBANE" ,NEWS24
@@ -21025,8 +20899,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:70:80:E8&stream=1600209&exte
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224244.m3u8
 #EXTINF:-1  tvg-id="515" tvg-name="24/7: Jurassic World Camp Cretaceous" tvg-logo="http://icons.tw:8080/images/f238174d9badbbb0b56372572c95ceb7.jpg" group-title="KIDS",Jurassic World Camp Cretaceous
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224245.m3u8
-#EXTINF:-1 tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="KIDS" ,HAPPY DAYS
-https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+#EXTINF:-1 tvg-id="HappyDays.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",HAPPY DAYS
+https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
 #EXTINF:-1  tvg-id="480" tvg-name="24/7: Flash Gordon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwKgBtCucw-d9PQVv2K0zdBIrpxbRdajLx5P5JVsg0g&s=10" group-title="KIDS",FLASH GORDEN
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/298960.m3u8
 #EXTINF:-1  tvg-id="585" tvg-name="24/7: Quickdraw McGraw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ1VGlxde7tae78zP5UE_T4BAzczsw9AIKALLwu9vWkA&s=10" group-title="KIDS",QUICKDRAW McGRAW
@@ -21251,7 +21125,7 @@ https://csm-e-cesevextprdausw2live-0bdd15c686e38375a.bln1.yospace.com/csm/extliv
 https://csm-e-cesevextprdausw2live-00c7346ea41efb696.bln1.yospace.com/csm/extlive/sevenprd01,CAS39.m3u8
 #EXTINF:-1 channel-id="845b77875b6056d192401e10949948d2" tvg-id="845b77875b6056d192401e10949948d2" tvg-chno="518" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/845b77875b6056d192401e10949948d2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450454351_filmRiseDrGMedicalExaminer_HUDlogo_260x147.png" tvg-country="PL" tvg-language="pol" group-title="Type: General" tvg-group="Country: Poland;Type: General;Language: Polish", DR G MEDICAL EXAMINER
 https://jmp2.uk/rok-845b77875b6056d192401e10949948d2.m3u8
-#EXTINF:-1 channel-id="494861" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="CRIME/MEDICAL", BONDI RESCUE
+#EXTINF:-1 channel-id="494861" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish", BONDI RESCUE
 https://csm-e-cesevextprdausw2live-0eb858b2942fb6410.bln1.yospace.com/csm/extlive/sevenprd01,CAS41.m3u8
 #EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="CRIME/MEDICAL", 9 CRIME
 https://i.mjh.nz/.r/9crime-fast.m3u8
@@ -21713,7 +21587,7 @@ https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extliv
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS12.m3u8
 #EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="24/7 CHANNELS",MEDICAL EMERGENCY
 https://i.mjh.nz/.r/10-medical-emergency.m3u8
-#EXTINF:-1 channel-id="mjh-cas41-fast" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="24/7 CHANNELS",BONDI RESCUE
+#EXTINF:-1 channel-id="mjh-cas41-fast" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",BONDI RESCUE
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS41.m3u8
 #EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="mjh-bordersecurityaustralia-fast" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="24/7 CHANNELS",BORDER SECURITY AUSTRALIA
 https://csm-e-cesevextprdausw2live-0363db156d028b8f9.bln1.yospace.com/csm/extlive/sevenprd01,CAS02.m3u8
@@ -21759,9 +21633,11 @@ https://i.mjh.nz/.r/bbc-comedy-fast.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/223985.m3u8
 #EXTINF:-1  tvg-id="476" tvg-name="24/7: Fawlty Towers" tvg-logo="http://icons.tw:8080/images/642944cb3dce32b4d95a87f96735fcde.jpg" group-title="24/7 CHANNELS",FAWLTY TOWERS
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224115.m3u8
+#EXTINF:-1 tvg-id="Cheers.se" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CHEERS
+https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
 #EXTINF:-1  tvg-id="491" tvg-name="24/7: Good Times" tvg-logo="http://icons.tw:8080/images/88c608166c77dc0883bdb1f0585814e8.jpg" group-title="24/7 CHANNELS",GOOD TIMES
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224159.m3u8
-#EXTINF:-1  tvg-id="547" tvg-name="24/7: Mission Impossible" tvg-logo="http://icons.tw:8080/images/0c90a06ace7b5a4aae18c5384fdb99d0.jpg" group-title="24/7 CHANNELS",MISSION IMPOSSIBLE
+#EXTINF:-1  tvg-id="547" tvg-name="24/7: Mission Impossible" tvg-logo="http://icons.tw:8080/images/0c90a06ace7b5a4aae18c5384fdb99d0.jpg" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",MISSION IMPOSSIBLE
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224337.m3u8
 #EXTINF:-1 tvg-chno="567" channel-number="567" tvg-id="567" tvg-name="24/7: Newhart" tvg-logo="http://icons.tw:8080/images/a98dcc68e6446f11d286d4eb3b6ce472.jpg" group-title="24/7 CHANNELS",NEWHART
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224373.m3u8
@@ -21857,9 +21733,9 @@ https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS22.m3u8
 #EXTINF:-1 channel-id="mjh-dance-moms-247-fast" tvg-id="mjh-dance-moms-247-fast" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="24/7 CHANNELS",DANCE MOMS
 https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
-#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="24/7 CHANNELS" ,CSI
+#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CSI
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS34.m3u8
-#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="24/7 CHANNELS",NCIS
+#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",NCIS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS38.m3u8
 #EXTINF:-1 channel-id="mjh-blueheelers-fast" tvg-id="mjh-blueheelers-fast" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="24/7 CHANNELS",BLUE HEELERS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS11.m3u8
@@ -21907,7 +21783,7 @@ https://i.mjh.nz/.r/10-aussiedramapopup.m3u8
 https://i.mjh.nz/.r/10-rookieblue.m3u8
 #EXTINF:-1 channel-id="mjh-10-heartland" tvg-id="mjh-10-heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",HEARTLAND
 https://i.mjh.nz/.r/10-heartland.m3u8
-#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="24/7 CHANNELS",Diagnosis Murder
+#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Diagnosis Murder
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
 #EXTINF:-1 channel-id="mjh-10-nexttopmodel" tvg-id="mjh-10-nexttopmodel" tvg-logo="https://10.com.au/ip/s3/2026/08/04/7b46b0620b6c96c6afcd7c47bf356f79-1448048.png?image-profile=logo" group-title="24/7 CHANNELS",Next Top Model
 https://i.mjh.nz/.r/10-nexttopmodel.m3u8
@@ -21933,10 +21809,28 @@ https://i.mjh.nz/.r/10-moviesphere.m3u8
 https://i.mjh.nz/.r/10-geckotv.m3u8
 #EXTINF:-1 channel-id="mjh-10-youtv" tvg-id="mjh-10-youtv" tvg-logo="https://10.com.au/ip/s3/2024/07/10/33f7c16e8ba1628d52844cb45b8eac4f-1326074.png?image-profile=logo"  group-title="24/7 CHANNELS",YouTV
 https://i.mjh.nz/.r/10-youtv.m3u8
-#EXTINF:-1 tvg-id="CSI.us@SD" tvg-logo="https://i.imgur.com/xLLNEfA.png"   group-title="24/7 CHANNELS" ,CSI
-https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+#EXTINF:-1 tvg-id="Numb3rs.se@NO" tvg-logo="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png" group-title="24/7 CHANNELS" ,NUMBE3S
+https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
+#EXTINF:-1 tvg-id="Numbers.se@DK" tvg-logo="https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png" group-title="24/7 CHANNELS" ,NUMBE3S
+https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
+#EXTINF:-1 tvg-id="CSI.se@DK" tvg-logo="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CSI
+https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
+#EXTINF:-1 tvg-id="BondiRescue.se@SE" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",BONDI RESCUE
+https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
 #EXTINF:-1 tvg-id="Hoarders.us@SD" group-title="24/7 CHANNELS" ,HOARDERS by A&E (720p)
 https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="DiagnosisMurder.se@NO" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",DIAGNOSIS MURDER
+https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
+#EXTINF:-1 tvg-id="JAG.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",JAG
+https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
+#EXTINF:-1 tvg-id="MacGyver.se@SE" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Classic" tvg-group="Country: United States;Type: Classic;Language: English;Language: Spanish",MACGYVER
+https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
+#EXTINF:-1 tvg-id="Matlock.se@NO" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",MATLOCK
+https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
+#EXTINF:-1 tvg-id="MissionImpossible.se@SE" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",MISSION IMPOSSIBLE
+https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
+#EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Type: Series;Language: English;Language: Spanish",RAWHIDE
+https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 #EXTINF:-1 tvg-id="TheAddamsFamily.us@SD" tvg-country="US" group-title="24/7 CHANNELS" ,THE ADAMS FAMILY
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9decccae-21fa-404d-9d81-56fffb2cc206
 #EXTINF:-1  tvg-id="445" tvg-name="24/7: American Horror Story" tvg-logo="http://icons.tw:8080/images/ccf644ddc12b9644704eb7d24cd68110.jpg" group-title="24/7 CHANNELS",American Horror Story
@@ -21959,7 +21853,7 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224118.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224119.m3u8
 #EXTINF:-1  tvg-id="479" tvg-name="24/7: Finding Bigfoot" tvg-logo="http://icons.tw:8080/images/0dc3a1ef648c885f1554458e9ac8476d.jpg" group-title="24/7 CHANNELS",Finding Bigfoot
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299053.m3u8
-#EXTINF:-1  tvg-id="482" tvg-name="24/7: Frasier" tvg-logo="http://icons.tw:8080/images/47495602d67e120caed0efa6248b7dca.jpg" group-title="24/7 CHANNELS",Frasier
+#EXTINF:-1  tvg-id="482" tvg-name="24/7: Frasier" tvg-logo="http://icons.tw:8080/images/47495602d67e120caed0efa6248b7dca.jpg" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Frasier
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224130.m3u8
 #EXTINF:-1  tvg-id="483" tvg-name="24/7: Fresh Off the Boat" tvg-logo="http://icons.tw:8080/images/dcc7338716b498c820795f4b03c5271f.jpg" group-title="24/7 CHANNELS",Fresh Off the Boat
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224131.m3u8
@@ -22017,12 +21911,6 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/299649.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299612.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRr8a8nIcvt-1U-uMmOCmR8wDY30k866XB6FY5UJUxPg&s=10" group-title="24/7 CHANNELS",24/7 TRAILER PARK BOYS
 http://8ksts.site:80/play/live.php?mac=00:1A:79:AE:8C:17&stream=1600231&extension=ts&play_token=hcESqqIIjk
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="24/7 CHANNELS",DOC MARTIN
-https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="24/7 CHANNELS",FRASIER
-https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" group-title="24/7 CHANNELS",JAG
-https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="USA ENTERTAINMENT",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="USA ENTERTAINMENT",Adult Swim

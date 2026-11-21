@@ -223,11 +223,11 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:70:80:E8&stream=1600209&exte
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224244.m3u8
 #EXTINF:-1  tvg-id="515" tvg-name="24/7: Jurassic World Camp Cretaceous" tvg-logo="http://icons.tw:8080/images/f238174d9badbbb0b56372572c95ceb7.jpg" group-title="KIDS",Jurassic World Camp Cretaceous
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224245.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" group-title="KIDS" ,HAPPY DAYS
+#EXTINF:-1 tvg-id="HappyDays.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",HAPPY DAYS
 https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
-#EXTINF:-1 tvg-id="HappyDays.us@CA" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="KIDS" ,HAPPY DAYS
+#EXTINF:-1 tvg-id="HappyDays.us@CA" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",HAPPY DAYS
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
-#EXTINF:-1 tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="KIDS" ,HAPPY DAYS
+#EXTINF:-1 tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",HAPPY DAYS
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 #EXTINF:-1  tvg-id="480" tvg-name="24/7: Flash Gordon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwKgBtCucw-d9PQVv2K0zdBIrpxbRdajLx5P5JVsg0g&s=10" group-title="KIDS",FLASH GORDEN
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/298960.m3u8
@@ -467,7 +467,7 @@ https://csm-e-cesevextprdausw2live-0bdd15c686e38375a.bln1.yospace.com/csm/extliv
 https://csm-e-cesevextprdausw2live-00c7346ea41efb696.bln1.yospace.com/csm/extlive/sevenprd01,CAS39.m3u8
 #EXTINF:-1 channel-id="845b77875b6056d192401e10949948d2" tvg-id="845b77875b6056d192401e10949948d2" tvg-chno="518" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/845b77875b6056d192401e10949948d2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450454351_filmRiseDrGMedicalExaminer_HUDlogo_260x147.png" tvg-country="PL" tvg-language="pol" group-title="Type: General" tvg-group="Country: Poland;Type: General;Language: Polish", DR G MEDICAL EXAMINER
 https://jmp2.uk/rok-845b77875b6056d192401e10949948d2.m3u8
-#EXTINF:-1 channel-id="494861" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="CRIME/MEDICAL", BONDI RESCUE
+#EXTINF:-1 channel-id="494861" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish", BONDI RESCUE
 https://csm-e-cesevextprdausw2live-0eb858b2942fb6410.bln1.yospace.com/csm/extlive/sevenprd01,CAS41.m3u8
 #EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="CRIME/MEDICAL", 9 CRIME
 https://i.mjh.nz/.r/9crime-fast.m3u8
@@ -933,7 +933,7 @@ https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extliv
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS12.m3u8
 #EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="24/7 CHANNELS",MEDICAL EMERGENCY
 https://i.mjh.nz/.r/10-medical-emergency.m3u8
-#EXTINF:-1 channel-id="mjh-cas41-fast" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="24/7 CHANNELS",BONDI RESCUE
+#EXTINF:-1 channel-id="mjh-cas41-fast" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",BONDI RESCUE
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS41.m3u8
 #EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="mjh-bordersecurityaustralia-fast" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="24/7 CHANNELS",BORDER SECURITY AUSTRALIA
 https://csm-e-cesevextprdausw2live-0363db156d028b8f9.bln1.yospace.com/csm/extlive/sevenprd01,CAS02.m3u8
@@ -983,13 +983,13 @@ https://i.mjh.nz/.r/bbc-comedy-fast.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/223985.m3u8
 #EXTINF:-1  tvg-id="476" tvg-name="24/7: Fawlty Towers" tvg-logo="http://icons.tw:8080/images/642944cb3dce32b4d95a87f96735fcde.jpg" group-title="24/7 CHANNELS",FAWLTY TOWERS
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224115.m3u8
-#EXTINF:-1 tvg-id="Cheers.se" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png"  group-title="24/7 CHANNELS",CHEERS
+#EXTINF:-1 tvg-id="Cheers.se" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CHEERS
 https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
 #EXTINF:-1 tvg-id="CheersPlusFrasier.us" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="24/7 CHANNELS",CHEERS AND FRASIER
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 #EXTINF:-1  tvg-id="491" tvg-name="24/7: Good Times" tvg-logo="http://icons.tw:8080/images/88c608166c77dc0883bdb1f0585814e8.jpg" group-title="24/7 CHANNELS",GOOD TIMES
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224159.m3u8
-#EXTINF:-1  tvg-id="547" tvg-name="24/7: Mission Impossible" tvg-logo="http://icons.tw:8080/images/0c90a06ace7b5a4aae18c5384fdb99d0.jpg" group-title="24/7 CHANNELS",MISSION IMPOSSIBLE
+#EXTINF:-1  tvg-id="547" tvg-name="24/7: Mission Impossible" tvg-logo="http://icons.tw:8080/images/0c90a06ace7b5a4aae18c5384fdb99d0.jpg" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",MISSION IMPOSSIBLE
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224337.m3u8
 #EXTINF:-1 tvg-chno="567" channel-number="567" tvg-id="567" tvg-name="24/7: Newhart" tvg-logo="http://icons.tw:8080/images/a98dcc68e6446f11d286d4eb3b6ce472.jpg" group-title="24/7 CHANNELS",NEWHART
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224373.m3u8
@@ -1085,9 +1085,9 @@ https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS22.m3u8
 #EXTINF:-1 channel-id="mjh-dance-moms-247-fast" tvg-id="mjh-dance-moms-247-fast" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="24/7 CHANNELS",DANCE MOMS
 https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
-#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="24/7 CHANNELS" ,CSI
+#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CSI
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS34.m3u8
-#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="24/7 CHANNELS",NCIS
+#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",NCIS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS38.m3u8
 #EXTINF:-1 channel-id="mjh-blueheelers-fast" tvg-id="mjh-blueheelers-fast" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="24/7 CHANNELS",BLUE HEELERS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS11.m3u8
@@ -1135,7 +1135,7 @@ https://i.mjh.nz/.r/10-aussiedramapopup.m3u8
 https://i.mjh.nz/.r/10-rookieblue.m3u8
 #EXTINF:-1 channel-id="mjh-10-heartland" tvg-id="mjh-10-heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",HEARTLAND
 https://i.mjh.nz/.r/10-heartland.m3u8
-#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="24/7 CHANNELS",Diagnosis Murder
+#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Diagnosis Murder
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
 #EXTINF:-1 channel-id="mjh-10-nexttopmodel" tvg-id="mjh-10-nexttopmodel" tvg-logo="https://10.com.au/ip/s3/2026/08/04/7b46b0620b6c96c6afcd7c47bf356f79-1448048.png?image-profile=logo" group-title="24/7 CHANNELS",Next Top Model
 https://i.mjh.nz/.r/10-nexttopmodel.m3u8
@@ -1171,13 +1171,13 @@ https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
 https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
 #EXTINF:-1 tvg-id="CSINY.us@SD" tvg-logo="https://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG_1731837277521.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CSI: NY
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
-#EXTINF:-1 tvg-id="CSI.se@DK" tvg-logo="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png" group-title="24/7 CHANNELS" ,CSI
+#EXTINF:-1 tvg-id="CSI.se@DK" tvg-logo="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CSI
 https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
-#EXTINF:-1 tvg-id="CSI.us@SD" tvg-logo="https://i.imgur.com/xLLNEfA.png"   group-title="24/7 CHANNELS" ,CSI
+#EXTINF:-1 tvg-id="CSI.us@SD" tvg-logo="https://i.imgur.com/xLLNEfA.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 #EXTINF:-1 tvg-id="BlueBloods.us@SD" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",BLUE BLOODS
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se@SE" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" group-title="24/7 CHANNELS" ,BONDI RESCUE
+#EXTINF:-1 tvg-id="BondiRescue.se@SE" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Entertainment" tvg-group="Country: United States;Type: Entertainment;Language: English;Language: Spanish",BONDI RESCUE
 https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
 #EXTINF:-1 tvg-id="Hoarders.us@SD" group-title="24/7 CHANNELS" ,HOARDERS by A&E (720p)
 https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -1185,17 +1185,17 @@ https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 #EXTINF:-1 tvg-id="CagneyLacey.de@GB" tvg-logo="https://images.pluto.tv/channels/6960c5a906d76f50db2816dc/colorLogoPNG_1767949823270.png"  tvg-country="DE" tvg-language="deu" group-title="Type: Series" tvg-group="Country: Germany;Type: Series;Language: German",CAGNEY & LACEY
 https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se@NO" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" group-title="24/7 CHANNELS" ,DIAGNOSIS MURDER
+#EXTINF:-1 tvg-id="DiagnosisMurder.se@NO" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",DIAGNOSIS MURDER
 https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
-#EXTINF:-1 tvg-id="JAG.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" group-title="24/7 CHANNELS" ,JAG
+#EXTINF:-1 tvg-id="JAG.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",JAG
 https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se@SE" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="24/7 CHANNELS" ,MACGYVER
+#EXTINF:-1 tvg-id="MacGyver.se@SE" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Classic" tvg-group="Country: United States;Type: Classic;Language: English;Language: Spanish",MACGYVER
 https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
-#EXTINF:-1 tvg-id="Matlock.se@NO" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="24/7 CHANNELS" ,MATLOCK
+#EXTINF:-1 tvg-id="Matlock.se@NO" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",MATLOCK
 https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se@SE" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="24/7 CHANNELS" ,MISSION IMPOSSIBLE
+#EXTINF:-1 tvg-id="MissionImpossible.se@SE" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",MISSION IMPOSSIBLE
 https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="24/7 CHANNELS" ,RAWHIDE
+#EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png"  tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Type: Series;Language: English;Language: Spanish",RAWHIDE
 https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 #EXTINF:-1 tvg-id="TheAddamsFamily.us@SD" tvg-country="US" group-title="24/7 CHANNELS" ,THE ADAMS FAMILY
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9decccae-21fa-404d-9d81-56fffb2cc206
@@ -1219,7 +1219,7 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224118.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224119.m3u8
 #EXTINF:-1  tvg-id="479" tvg-name="24/7: Finding Bigfoot" tvg-logo="http://icons.tw:8080/images/0dc3a1ef648c885f1554458e9ac8476d.jpg" group-title="24/7 CHANNELS",Finding Bigfoot
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299053.m3u8
-#EXTINF:-1  tvg-id="482" tvg-name="24/7: Frasier" tvg-logo="http://icons.tw:8080/images/47495602d67e120caed0efa6248b7dca.jpg" group-title="24/7 CHANNELS",Frasier
+#EXTINF:-1  tvg-id="482" tvg-name="24/7: Frasier" tvg-logo="http://icons.tw:8080/images/47495602d67e120caed0efa6248b7dca.jpg" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",Frasier
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224130.m3u8
 #EXTINF:-1  tvg-id="483" tvg-name="24/7: Fresh Off the Boat" tvg-logo="http://icons.tw:8080/images/dcc7338716b498c820795f4b03c5271f.jpg" group-title="24/7 CHANNELS",Fresh Off the Boat
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224131.m3u8
@@ -1281,17 +1281,17 @@ http://8ksts.site:80/play/live.php?mac=00:1A:79:AE:8C:17&stream=1600231&extensio
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",BAR RESCUE
 https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="24/7 CHANNELS",CHEERS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",CHEERS
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="24/7 CHANNELS",DOC MARTIN
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",DOC MARTIN
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="24/7 CHANNELS",FRASIER
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",FRASIER
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" tvg-country="CA" tvg-language="eng,fra" group-title="Type: Series" tvg-group="Country: Canada;Type: Series;Language: English;Language: French",HauntTV
 https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" group-title="24/7 CHANNELS",JAG
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",JAG
 https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="24/7 CHANNELS",MATLOCK
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" tvg-country="US" tvg-language="eng,spa" group-title="Type: Series" tvg-group="Country: United States;Type: Series;Language: English;Language: Spanish",MATLOCK
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="USA ENTERTAINMENT",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8

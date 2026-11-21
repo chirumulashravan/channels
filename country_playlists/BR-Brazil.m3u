@@ -157,6 +157,8 @@ https://play.mbcbrasil.tv.br/playlist.m3u8
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Music" tvg-group="Country: Brazil;Type: Music;Language: Portuguese",Music Box Brazil (720p)
 http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Animation" tvg-group="Country: Brazil;Type: Animation;Type: Kids;Language: Portuguese",NickOnline Bob Esponja [Not 24/7]
+https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil" tvg-group="Country: Brazil;Language: Portuguese",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Religious" tvg-group="Country: Brazil;Type: Religious;Language: Portuguese",Nuevo Tiempo (720p) [Not 24/7]

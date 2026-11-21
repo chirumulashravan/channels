@@ -239,8 +239,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Country: France" tvg-group="Country: France;Language: French",Toute l'Histoire (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Type: Music" tvg-group="Country: France;Type: Music;Language: French",Trace Brazuca (1080p)
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Type: Sports" tvg-group="Country: France;Type: Sports;Language: French",Trace Sport Stars (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-language="fra" group-title="Type: Music" tvg-group="Country: France;Type: Music;Language: French",Trace Urban (1080p)

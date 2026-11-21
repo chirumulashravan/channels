@@ -183,6 +183,8 @@ https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Education" tvg-group="Country: India;Type: Education;Language: English;Language: Hindi;Language: Tamil",BVG (576p)
 https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",C-10 (576p)
+https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Country: India" tvg-group="Country: India;Language: English;Language: Hindi;Language: Tamil",Calvary TV (576p)
 https://cdn.pishow.tv/ott/live/963/master.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Animation" tvg-group="Country: India;Type: Animation;Type: Kids;Language: English;Language: Hindi;Language: Tamil",Cartoon Network HD+ (1080p)
@@ -416,7 +418,7 @@ https://livingindiaottlive.akamaized.net/hindikhabar/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Religious" tvg-group="Country: India;Type: Religious;Language: English;Language: Hindi;Language: Tamil",Hindu Dharmam (1080p)
 https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",HNN 24x7 (576p)
-https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlHNN24X7/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Religious" tvg-group="Country: India;Type: Religious;Language: English;Language: Hindi;Language: Tamil",Hope Channel India (576p)
 https://cdn.pishow.tv/ott/live/1385/master.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Religious" tvg-group="Country: India;Type: Religious;Language: English;Language: Hindi;Language: Tamil",Hosanna TV (720p)
@@ -1003,8 +1005,12 @@ http://27.124.71.27/Sony_Aath/index.m3u8
 http://116.90.120.149:8000/play/a123/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Sony Pal (576p)
 http://59.103.38.46:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Sony Sports Ten 1 (576p)
+http://116.90.120.149:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Sony Sports Ten 3 Hindi (1080p)
 https://r2.amml.in/sony-ten-3-hd/live.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Sony Sports Ten 5 (576p)
+http://116.90.120.149:8000/play/a117/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Sony Wah (576p)
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Animation" tvg-group="Country: India;Type: Animation;Type: Kids;Language: English;Language: Hindi;Language: Tamil",Sony Yay! (1080p)
@@ -1015,6 +1021,10 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",SRK TV (1080p)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Star Gold 2 (576p)
+http://116.90.120.149:8000/play/a12b/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Movies" tvg-group="Country: India;Type: Movies;Language: English;Language: Hindi;Language: Tamil",Star Gold Romance (576p)
+http://116.90.120.149:8000/play/a12c/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Star Jalsha (1080p)
 http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Star Utsav (576p)
@@ -1149,6 +1159,8 @@ https://stream.ottlive.co.in/ubangla/index.m3u8
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Type: Kids;Language: English;Language: Hindi;Language: Tamil",Unique TV (576p)
 http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Unite8 Sports 1 (576p)
+http://116.90.120.149:8000/play/a11l/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",UP NOW (720p)
 http://45.122.122.61:8080/UPNOW/video.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: General" tvg-group="Country: India;Type: General;Language: English;Language: Hindi;Language: Tamil",UTV Palakkad (1080p)
@@ -1225,6 +1237,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Classic" tvg-group="Country: India;Type: Classic;Language: English;Language: Hindi;Language: Tamil",Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Classic" tvg-group="Country: India;Type: Classic;Language: English;Language: Hindi;Language: Tamil",Zee Classic (576p)
+http://116.90.120.149:8000/play/a121/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Comedy" tvg-group="Country: India;Type: Comedy;Language: English;Language: Hindi;Language: Tamil",Zee Comedy Nation (1080p)
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Zee Delhi NCR Haryana (720p)
