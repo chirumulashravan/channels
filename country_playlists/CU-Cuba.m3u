@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-country="CU" tvg-language="spa" group-title="Type: General" tvg-group="Country: Cuba;Type: General;Language: Spanish",Cubavision Internacional (1080p)
+http://90.183.52.46:4000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-country="CU" tvg-language="spa" group-title="Type: News" tvg-group="Country: Cuba;Type: News;Language: Spanish",Prensa Latina TV (1080p)
 https://eu1.servers10.com:8081/8192/index.m3u8

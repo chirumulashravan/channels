@@ -313,6 +313,8 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: News" tvg-group="Country: Brazil;Type: News;Language: Portuguese",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: General" tvg-group="Country: Brazil;Type: General;Type: News;Type: Music;Type: Religious;Type: Entertainment;Language: Portuguese",TV CAJUI WEB (720p)
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Legislative" tvg-group="Country: Brazil;Type: Legislative;Language: Portuguese",TV Camara 2 (1080p) [Not 24/7]
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Legislative" tvg-group="Country: Brazil;Type: Legislative;Language: Portuguese",TV Camara Salvador (288p) [Not 24/7]
@@ -377,6 +379,8 @@ https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: General" tvg-group="Country: Brazil;Type: General;Language: Portuguese",TV Litoral RN (720p)
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Religious" tvg-group="Country: Brazil;Type: Religious;Language: Portuguese",TV Maanaim (720p) [Not 24/7]
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Education" tvg-group="Country: Brazil;Type: Education;Language: Portuguese",TV Mackenzie (480p)
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: General" tvg-group="Country: Brazil;Type: General;Language: Portuguese",TV Mais Marica (1080p)

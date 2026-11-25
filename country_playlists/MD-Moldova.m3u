@@ -25,5 +25,7 @@ http://188.237.212.16:8888/live/cameraFeed.m3u8
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 tvg-country="MD" tvg-language="ron" group-title="Type: General" tvg-group="Country: Moldova;Type: General;Language: Romanian",TVR Moldova (720p)
 https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
+#EXTINF:-1 tvg-country="MD" tvg-language="ron" group-title="Type: News" tvg-group="Country: Moldova;Type: News;Language: Romanian",UNU TV (1080p)
+https://live.unutv.md/hls/unutv/index.m3u8
 #EXTINF:-1 tvg-country="MD" tvg-language="ron" group-title="Country: Moldova" tvg-group="Country: Moldova;Language: Romanian",Vocea Basarabiei TV
 https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8

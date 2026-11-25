@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Type: General" tvg-group="Country: Saudi Arabia;Type: General;Language: Arabic",3.16 Channel (1080p)
+https://316hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Type: Music" tvg-group="Country: Saudi Arabia;Type: Music;Language: Arabic",Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Type: Movies" tvg-group="Country: Saudi Arabia;Type: Movies;Language: Arabic",Aflam (1080p)
@@ -81,6 +83,14 @@ https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/ind
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 #EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Type: Music" tvg-group="Country: Saudi Arabia;Type: Music;Language: Arabic",Rashid AlMajed (1080p)
 https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Type: Movies" tvg-group="Country: Saudi Arabia;Type: Movies;Language: Arabic",Rotana Cinema KSA (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Type: Classic" tvg-group="Country: Saudi Arabia;Type: Classic;Language: Arabic",Rotana Classic (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_classic/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia" tvg-group="Country: Saudi Arabia;Language: Arabic",Rotana Clip (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_clip/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Type: Music" tvg-group="Country: Saudi Arabia;Type: Music;Language: Arabic",Rotana Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Type: Culture" tvg-group="Country: Saudi Arabia;Type: Culture;Language: Arabic",Saudi Thaqafiya TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 tvg-country="SA" tvg-language="ara" group-title="Country: Saudi Arabia" tvg-group="Country: Saudi Arabia;Language: Arabic",Saudia Radio (1080p)

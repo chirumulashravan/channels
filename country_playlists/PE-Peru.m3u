@@ -57,8 +57,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
 http://187.102.210.46/IPE/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",CANAL M Television (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
-#EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: News" tvg-group="Country: Peru;Type: News;Language: Aymara;Language: Quechua;Language: Spanish",Canal N (1080p)
-http://187.102.208.209:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: News" tvg-group="Country: Peru;Type: News;Language: Aymara;Language: Quechua;Language: Spanish",Canal N (576p)
+http://190.108.91.206:9050/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Casma TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Charapa TV (720p)
@@ -201,6 +201,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Rumbo Minero TV (1080p)
 http://38.87.224.19:2220/play/a049/index.m3u8
+#EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: Music" tvg-group="Country: Peru;Type: Music;Language: Aymara;Language: Quechua;Language: Spanish",SanjuaneraTV (1080p)
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru" tvg-group="Country: Peru;Language: Aymara;Language: Quechua;Language: Spanish",SelvaTV (1080p)
+https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru" tvg-group="Country: Peru;Language: Aymara;Language: Quechua;Language: Spanish",Senal Peru TV (404p) [Not 24/7]
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Siscom TV
@@ -211,8 +215,12 @@ https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Studio Pasco TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
+#EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Sullana TV (1080p)
+https://mundial.cpustream.com:8081/sullanatv/video.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Telecolor Yurimaguas (720p) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Telelima (1080p)
+https://live.telelima.net/web/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru" tvg-group="Country: Peru;Language: Aymara;Language: Quechua;Language: Spanish",Teleselva (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Telesystem TV (720p)
@@ -259,6 +267,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Country: Peru" tvg-group="Country: Peru;Language: Aymara;Language: Quechua;Language: Spanish",Uranio TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
+#EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",USIL TV (1080p)
+https://eu1.servers10.com:8081/8162/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: Culture" tvg-group="Country: Peru;Type: Culture;Language: Aymara;Language: Quechua;Language: Spanish",USMPTV (720p)
 http://187.102.210.46/USMP/index.m3u8
 #EXTINF:-1 tvg-country="PE" tvg-language="aym,que,spa" group-title="Type: General" tvg-group="Country: Peru;Type: General;Language: Aymara;Language: Quechua;Language: Spanish",Via Altomayo (720p) [Not 24/7]

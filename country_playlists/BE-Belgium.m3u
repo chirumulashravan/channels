@@ -13,7 +13,7 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 #EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: General" tvg-group="Country: Belgium;Type: General;Language: German;Language: French;Language: Dutch",Canal Zoom
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
-#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Music" tvg-group="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Fun Vision
+#EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: Music" tvg-group="Country: Belgium;Type: Music;Language: German;Language: French;Language: Dutch",Fun Vision (1080p)
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-country="BE" tvg-language="deu,fra,nld" group-title="Type: News" tvg-group="Country: Belgium;Type: News;Language: German;Language: French;Language: Dutch",HLN Live (720p)
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8

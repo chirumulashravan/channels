@@ -49,7 +49,7 @@ https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
 https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8
 #EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Religious" tvg-group="Country: Nigeria;Type: Religious;Language: English",More Grace TV (410p) [Not 24/7]
 https://atechgroupuk.site/ETV.m3u8
-#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: News" tvg-group="Country: Nigeria;Type: News;Language: English",News Central
+#EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: News" tvg-group="Country: Nigeria;Type: News;Language: English",News Central (720p)
 https://wf.newscentral.ng:8443/hls/stream.m3u8
 #EXTINF:-1 tvg-country="NG" tvg-language="eng" group-title="Type: Culture" tvg-group="Country: Nigeria;Type: Culture;Language: English",Nigbati (720p) [Not 24/7]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8

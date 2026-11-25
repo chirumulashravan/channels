@@ -103,10 +103,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",Crime + Investigation CEE
 http://88.212.7.14/live/test_cai_hevc/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",DAZN 4 (540p)
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",DAZN 5 (720p)
-http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",DAZN Combat (684p)
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="eng" group-title="Type: Sports" tvg-group="Country: United Kingdom;Type: Sports;Language: English",DAZN F1
@@ -321,6 +317,8 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/298730.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53991.m3u8
 #EXTINF:-1  tvg-id="Sky.History2.uk" tvg-name="GB : SKY HISTORY 2" tvg-logo="http://icons.tw:8080/images/b8a8a765a0a1538a9462cefe74648e39.png" tvg-country="UK" tvg-language="eng" group-title="Type: Documentary" tvg-group="Country: United Kingdom;Type: Documentary;Language: English",SKY HISTORY 2
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/204632.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="National.Geographic.HD.us2" tvg-name="Nat Geo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-country="UK" tvg-language="eng" group-title="Type: Documentary" tvg-group="Country: United Kingdom;Type: Documentary;Language: English",Nat Geo
+http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/MostHaunted_400x200.png" tvg-country="UK" tvg-language="eng" group-title="Type: Series" tvg-group="Country: United Kingdom;Type: Series;Language: English", Most Haunted
 https://amg00426-lds-amg00426c17-lg-au-10349.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00426-littledotstudiofast-mosthaunted-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 channel-id="mjh-10-grahamnorton" tvg-id="mjh-10-grahamnorton" tvg-logo="https://10.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png?image-profile=logo" tvg-country="UK" tvg-language="eng" group-title="Type: Entertainment" tvg-group="Country: United Kingdom;Type: Entertainment;Language: English",The Graham Norton Show

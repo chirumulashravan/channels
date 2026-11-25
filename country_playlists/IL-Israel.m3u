@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Gold
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Gold (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Live
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Live (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Max
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Max (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Sport 4K
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Sport 4K (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Sport
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Stars
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",5Stars (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Kids" tvg-group="Country: Israel;Type: Kids;Language: Arabic;Language: Hebrew",Arutz HaYeladim
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Kids" tvg-group="Country: Israel;Type: Kids;Language: Arabic;Language: Hebrew",Arutz HaYeladim (720p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",Comedy Channel (1080p)
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",Economy Channel
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",Economy Channel (1080p)
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",Foody
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",Foody (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: General" tvg-group="Country: Israel;Type: General;Language: Arabic;Language: Hebrew",Hala TV (1080p) [Not 24/7]
 https://stream.panet.com/edge/halaTV/playlist.m3u8
@@ -41,15 +41,15 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: News" tvg-group="Country: Israel;Type: News;Language: Arabic;Language: Hebrew",Makan 33 (1080p)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Music" tvg-group="Country: Israel;Type: Music;Language: Arabic;Language: Hebrew",Music IL
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Music" tvg-group="Country: Israel;Type: Music;Language: Arabic;Language: Hebrew",Music IL (720p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: General" tvg-group="Country: Israel;Type: General;Language: Arabic;Language: Hebrew",Now 14 (1080p)
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",One 2
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Sports" tvg-group="Country: Israel;Type: Sports;Language: Arabic;Language: Hebrew",One 2 (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",One Doco
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",One Doco (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",One Edge
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Country: Israel" tvg-group="Country: Israel;Language: Arabic;Language: Hebrew",One Edge (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Entertainment" tvg-group="Country: Israel;Type: Entertainment;Language: Arabic;Language: Hebrew",Reality Channel
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
@@ -59,9 +59,9 @@ https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Entertainment" tvg-group="Country: Israel;Type: Entertainment;Language: Arabic;Language: Hebrew",Vacation Channel
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: General" tvg-group="Country: Israel;Type: General;Language: Arabic;Language: Hebrew",Viva Istanbul
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: General" tvg-group="Country: Israel;Type: General;Language: Arabic;Language: Hebrew",Viva Istanbul (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: General" tvg-group="Country: Israel;Type: General;Language: Arabic;Language: Hebrew",Viva Premium (1080p)
 http://stream.mcquack.net/43/index.m3u8
-#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Series" tvg-group="Country: Israel;Type: Series;Language: Arabic;Language: Hebrew",Viva Telenovelas
+#EXTINF:-1 tvg-country="IL" tvg-language="ara,heb" group-title="Type: Series" tvg-group="Country: Israel;Type: Series;Language: Arabic;Language: Hebrew",Viva Telenovelas (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8

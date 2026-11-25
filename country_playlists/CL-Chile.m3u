@@ -145,6 +145,8 @@ https://vdochile.com:3134/stream/play.m3u8
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",La Comarca TV (720p)
 https://v2.tustreaming.cl/lcomarcatv/index.m3u8
+#EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Chile;Type: Music;Language: Spanish",La Granja TV (1080p)
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Chile;Type: Entertainment;Language: Spanish",La Melinkana TV (720p)
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",La Metro TV (1080p)
@@ -159,6 +161,8 @@ https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",Marga Marga TV (720p)
 https://v1.tustreaming.cl/margamargatv/index.m3u8
+#EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",Mas Radio TV (1080p)
+https://iptv.intersurtv.cl/intersur_mauletv/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Culture" tvg-group="Country: Chile;Type: Culture;Language: Spanish",Mega 2 (1080p)
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Series" tvg-group="Country: Chile;Type: Series;Language: Spanish",Mega Ficcion (1080p)
@@ -181,6 +185,10 @@ http://190.181.61.93:8000/play/a00o/index.m3u8
 https://v2.tustreaming.cl/odiseatv/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: News" tvg-group="Country: Chile;Type: News;Language: Spanish",Opinionsur (720p)
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
+#EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",Osorno TV (1080p)
+https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
+#EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Chile;Type: Music;Language: Spanish",PalMundo FM (1080p)
+https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Chile;Type: Music;Language: Spanish",Patagonia Radio TV (720p)
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Chile;Type: Music;Language: Spanish",Pauta (1080p)
@@ -199,6 +207,8 @@ https://v2.tustreaming.cl/americamovil/index.m3u8
 https://v2.tustreaming.cl/radioancoatv/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Chile;Type: Religious;Language: Spanish",Radio Armonia TV (720p)
 https://v2.tustreaming.cl/armoniamovil/index.m3u8
+#EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",Radio Bohemia TV (1080p)
+https://portalstream.cl:8080/bohemia1.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",Radio Chiloe (720p)
 https://videostream.chileservidores.com:8081/chiloe1/index.m3u8
 #EXTINF:-1 tvg-country="CL" tvg-language="spa" group-title="Type: General" tvg-group="Country: Chile;Type: General;Language: Spanish",Radio Contemporanea Coihueco (720p)

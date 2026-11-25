@@ -35,10 +35,12 @@ https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/ind
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Kids" tvg-group="Country: United Arab Emirates;Type: Kids;Language: Arabic",Nickelodeon Arabia (1080i)
 http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Entertainment" tvg-group="Country: United Arab Emirates;Type: Entertainment;Language: Arabic",NTV UAE HD (720p)
+https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Movies" tvg-group="Country: United Arab Emirates;Type: Movies;Language: Arabic",OSN Movies Action (1080p)
 http://116.90.120.151:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Religious" tvg-group="Country: United Arab Emirates;Type: Religious;Language: Arabic",Peace TV Bangla (1080p)
-http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Religious" tvg-group="Country: United Arab Emirates;Type: Religious;Language: Arabic",Peace TV Chinese (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 #EXTINF:-1 tvg-country="AE" tvg-language="ara" group-title="Type: Religious" tvg-group="Country: United Arab Emirates;Type: Religious;Language: Arabic",Peace TV English (1080p)

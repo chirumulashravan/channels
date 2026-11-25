@@ -1,23 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: News" tvg-group="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",ARB 24
-https://operativmm.az/tvs/arb24/stream/index.m3u8
 #EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Az TV
-https://operativmm.az/tvs/az/stream9/index.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: News" tvg-group="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: Sports" tvg-group="Country: Azerbaijan;Type: Sports;Language: Azerbaijani;Language: Russian",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",EL TV [Not 24/7]
-https://live.eltv.az/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Ictimai TV
-https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: News" tvg-group="Country: Azerbaijan;Type: News;Language: Azerbaijani;Language: Russian",Kapaz TV
-http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: Music" tvg-group="Country: Azerbaijan;Type: Music;Language: Azerbaijani;Language: Russian",KN Music TV
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: Music" tvg-group="Country: Azerbaijan;Type: Music;Language: Azerbaijani;Language: Russian",KN Music TV (1080p)
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Vilayet TV
-https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Xezer TV
-https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-language="aze,rus" group-title="Type: General" tvg-group="Country: Azerbaijan;Type: General;Language: Azerbaijani;Language: Russian",Xezer TV (1080p)
+https://xezer.tvstream.az/hls/stream/index.m3u8

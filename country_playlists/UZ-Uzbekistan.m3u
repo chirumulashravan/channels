@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: Kids" tvg-group="Country: Uzbekistan;Type: Kids;Language: Russian;Language: Uzbek",Aqlvoy
+#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: Kids" tvg-group="Country: Uzbekistan;Type: Kids;Language: Russian;Language: Uzbek",Aqlvoy (1080p)
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: Movies" tvg-group="Country: Uzbekistan;Type: Movies;Language: Russian;Language: Uzbek",BIZ Cinema (1080p)
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
@@ -13,7 +13,7 @@ https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93euby
 https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Dunyo bo'ylab (1080p)
 https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Farg'ona MTRK
+#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Farg'ona MTRK (1080p)
 https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: Sports" tvg-group="Country: Uzbekistan;Type: Sports;Language: Russian;Language: Uzbek",Futbol TV (1080p)
 http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
@@ -29,7 +29,7 @@ https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: Kids" tvg-group="Country: Uzbekistan;Type: Kids;Language: Russian;Language: Uzbek",MiMi TV (720p)
 https://fl.biztv.media/MiMiTV_720/playlist.m3u8
-#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: Music" tvg-group="Country: Uzbekistan;Type: Music;Language: Russian;Language: Uzbek",Muz TV Uzbekistan
+#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: Music" tvg-group="Country: Uzbekistan;Type: Music;Language: Russian;Language: Uzbek",Muz TV Uzbekistan (1080p)
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: Entertainment" tvg-group="Country: Uzbekistan;Type: Entertainment;Language: Russian;Language: Uzbek",MY5 (576p)
 https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
@@ -37,7 +37,7 @@ https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
 https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Navoiy MTRK (576i)
 https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Nurafshon TV
+#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Nurafshon TV (1080p)
 https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: News" tvg-group="Country: Uzbekistan;Type: News;Language: Russian;Language: Uzbek",O'zbekiston 24 (1080p)
 https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
@@ -51,7 +51,7 @@ https://stream8.cinerama.uz/1467/playlist.m3u8
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: Family" tvg-group="Country: Uzbekistan;Type: Family;Language: Russian;Language: Uzbek",Sevimli TV (1080p)
 https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Taraqqiyot TV
+#EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Taraqqiyot TV (1080p)
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="UZ" tvg-language="rus,uzb" group-title="Type: General" tvg-group="Country: Uzbekistan;Type: General;Language: Russian;Language: Uzbek",Toshkent (576p)
 https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8

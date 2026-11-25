@@ -22,7 +22,7 @@ https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: General" tvg-group="Country: China;Type: General;Language: Chinese",CCTV-4 Asia (720p)
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: General" tvg-group="Country: China;Type: General;Language: Chinese",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: Movies" tvg-group="Country: China;Type: Movies;Language: Chinese",CCTV-6
 https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: Education" tvg-group="Country: China;Type: Education;Language: Chinese",CCTV-7 (720p)
@@ -61,16 +61,16 @@ http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: News" tvg-group="Country: China;Type: News;Language: Chinese",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: News" tvg-group="Country: China;Type: News;Language: Chinese",CGTN Arabic
-https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: News" tvg-group="Country: China;Type: News;Language: Chinese",CGTN Arabic (1080p)
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: News" tvg-group="Country: China;Type: News;Language: Chinese",CGTN French (1080p)
-https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: Business" tvg-group="Country: China;Type: Business;Language: Chinese",CGTN Global Biz (1080p)
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: News" tvg-group="Country: China;Type: News;Language: Chinese",CGTN Russian (1080p)
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: News" tvg-group="Country: China;Type: News;Language: Chinese",CGTN Spanish (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: General" tvg-group="Country: China;Type: General;Language: Chinese",Chaozhou Public Channel
 http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="zho" group-title="Type: Movies" tvg-group="Country: China;Type: Movies;Language: Chinese",CHC Action (1080p)

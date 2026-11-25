@@ -79,6 +79,8 @@ https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-language="ind" group-title="Type: Religious" tvg-group="Country: Indonesia;Type: Religious;Language: Indonesian",MGI TV (720p)
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+#EXTINF:-1 tvg-country="ID" tvg-language="ind" group-title="Type: General" tvg-group="Country: Indonesia;Type: General;Language: Indonesian",Moji (480p)
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-language="ind" group-title="Type: Kids" tvg-group="Country: Indonesia;Type: Kids;Language: Indonesian",My Kidz (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 #EXTINF:-1 tvg-country="ID" tvg-language="ind" group-title="Type: Religious" tvg-group="Country: Indonesia;Type: Religious;Language: Indonesian",Nabawi TV (720p)

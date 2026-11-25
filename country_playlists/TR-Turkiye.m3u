@@ -33,6 +33,8 @@ https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavo
 http://185.234.111.229:8000/play/a05u
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",Beyaz TV (720p) [Not 24/7]
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: General" tvg-group="Country: Turkiye;Type: General;Language: Turkish",Bi Kanal (1080p)
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Business" tvg-group="Country: Turkiye;Type: Business;Language: Turkish",Bloomberg HT (720p)
 https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",Bric ve Satranc TV (480p) [Not 24/7]
@@ -45,7 +47,9 @@ https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Education" tvg-group="Country: Turkiye;Type: Education;Type: Culture;Language: Turkish",Ciftci TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Business" tvg-group="Country: Turkiye;Type: Business;Type: Series;Language: Turkish",CNBC-e
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: General" tvg-group="Country: Turkiye;Type: General;Language: Turkish",Cine 1 (1080p)
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Business" tvg-group="Country: Turkiye;Type: Business;Type: Series;Language: Turkish",CNBC-e (1080p)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: News" tvg-group="Country: Turkiye;Type: News;Language: Turkish",CNN Turk (1080p)
 http://85.117.61.84/cnnturk/index.m3u8
@@ -79,7 +83,7 @@ https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: News" tvg-group="Country: Turkiye;Type: News;Language: Turkish",Finans Turk TV (720p)
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: News" tvg-group="Country: Turkiye;Type: News;Language: Turkish",Flash Haber TV
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: News" tvg-group="Country: Turkiye;Type: News;Language: Turkish",Flash Haber TV (1080p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",FX (Turkiye)
 https://saran-live.ercdn.net/fx/index.m3u8
@@ -111,8 +115,6 @@ https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Movies" tvg-group="Country: Turkiye;Type: Movies;Language: Turkish",GEM Pixel
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Sports" tvg-group="Country: Turkiye;Type: Sports;Language: Turkish",GEM Sport
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Movies" tvg-group="Country: Turkiye;Type: Movies;Language: Turkish",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: News" tvg-group="Country: Turkiye;Type: News;Language: Turkish",Guneydogu TV (720p)
@@ -209,6 +211,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: General" tvg-group="Country: Turkiye;Type: General;Language: Turkish",On4 TV (1080p)
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: General" tvg-group="Country: Turkiye;Type: General;Language: Turkish",Pati TV (1080p)
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Music" tvg-group="Country: Turkiye;Type: Music;Language: Turkish",Power Dance (1080p)
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Music" tvg-group="Country: Turkiye;Type: Music;Language: Turkish",Power Love (1080p)
@@ -241,7 +245,7 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: News" tvg-group="Country: Turkiye;Type: News;Language: Turkish",TGRT Haber (720p)
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Religious" tvg-group="Country: Turkiye;Type: Religious;Language: Turkish",Thaqalayn TV
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Religious" tvg-group="Country: Turkiye;Type: Religious;Language: Turkish",Thaqalayn TV (480p)
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: General" tvg-group="Country: Turkiye;Type: General;Language: Turkish",Tivi 6 (720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -279,8 +283,8 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",TRT Kurdi (720p)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Music" tvg-group="Country: Turkiye;Type: Music;Language: Turkish",TRT Muzik (720p)
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Music" tvg-group="Country: Turkiye;Type: Music;Language: Turkish",TRT Muzik (1080p)
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Sports" tvg-group="Country: Turkiye;Type: Sports;Language: Turkish",TRT Spor (720p)
 https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: Sports" tvg-group="Country: Turkiye;Type: Sports;Language: Turkish",TRT Spor Yildiz (1440p)
@@ -307,7 +311,7 @@ http://canli.tvden.com.tr/hls/live.m3u8
 http://217.174.229.138:8000/play/a0el
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",Urfa Natik TV (720p)
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: General" tvg-group="Country: Turkiye;Type: General;Language: Turkish",Van 65 TV
+#EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Type: General" tvg-group="Country: Turkiye;Type: General;Language: Turkish",Van 65 TV (720p)
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="tur" group-title="Country: Turkiye" tvg-group="Country: Turkiye;Language: Turkish",Vav TV (1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8

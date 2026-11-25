@@ -11,6 +11,8 @@ http://45.167.2.101:8000/play/a0r5/index.m3u8
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Canal 15 El Zamorano [Not 24/7]
 https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
+#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",Canal 63 TV Catolico Corinto (720p)
+http://167.249.23.102:8000/play/TvCatolico_CO/index.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",Canal 65 (1080p) [Not 24/7]
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",Canal TRV (576p)
@@ -39,8 +41,6 @@ http://45.167.2.138:8000/play/a0o4/index.m3u8
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",SV+ (720p)
 http://45.167.2.101:8000/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: General" tvg-group="Country: El Salvador;Type: General;Language: Spanish",TCS+ (480p) [Not 24/7]
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: News" tvg-group="Country: El Salvador;Type: News;Language: Spanish",Tribuna TV (720p) [Not 24/7]
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
 #EXTINF:-1 tvg-country="SV" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: El Salvador;Type: Religious;Language: Spanish",TV CRET (1080p)

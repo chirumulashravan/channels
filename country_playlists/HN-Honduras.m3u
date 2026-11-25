@@ -93,8 +93,6 @@ https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
 https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
 #EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Type: General" tvg-group="Country: Honduras;Type: General;Language: Spanish",Telavision (720p)
 https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
-#EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Type: General" tvg-group="Country: Honduras;Type: General;Language: Spanish",Telecadena 7 y 4 (576p)
-http://45.167.2.101:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras" tvg-group="Country: Honduras;Language: Spanish",Teleceiba (1080p)
 http://45.238.141.222:8000/play/a0pf/index.m3u8
 #EXTINF:-1 tvg-country="HN" tvg-language="spa" group-title="Country: Honduras" tvg-group="Country: Honduras;Language: Spanish",TeleDanli (720p) [Not 24/7]

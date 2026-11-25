@@ -29,6 +29,8 @@ http://181.78.21.38:8000/play/a0df/index.m3u8
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal 9 Cosespu
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal 12 Valledupar (1080p)
+http://181.78.8.199:8000/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Entertainment" tvg-group="Country: Colombia;Type: Entertainment;Language: Spanish",Canal 14 Codazzi (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Canal Calima TV (720p)
@@ -111,6 +113,8 @@ https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 https://eu1.servers10.com:8081/8178/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Lifestyle" tvg-group="Country: Colombia;Type: Lifestyle;Language: Spanish",Hogar TV (1080p)
 http://181.78.211.244:8005/play/a06w/index.m3u8
+#EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Huila TV (1080p)
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: General" tvg-group="Country: Colombia;Type: General;Language: Spanish",Kalu TV (1080p)
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Music" tvg-group="Country: Colombia;Type: Music;Language: Spanish",La Hermandad Salsera (1080p) [Not 24/7]
