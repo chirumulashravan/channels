@@ -287,18 +287,6 @@ https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands" tvg-group="Country: Netherlands;Language: Dutch",WOS (1080p)
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Type: Music" tvg-group="Country: Netherlands;Type: Music;Language: Dutch",XITE (720p)
-https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Type: Music" tvg-group="Country: Netherlands;Type: Music;Language: Dutch",XITE Classic Country (720p)
-https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Type: Music" tvg-group="Country: Netherlands;Type: Music;Language: Dutch",XITE Hits (1080p)
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Type: Music" tvg-group="Country: Netherlands;Type: Music;Language: Dutch",XITE Just Chill (1080p)
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Type: Music" tvg-group="Country: Netherlands;Type: Music;Language: Dutch",XITE Reggae Vibes (1080p)
-https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Type: Music" tvg-group="Country: Netherlands;Type: Music;Language: Dutch",XITE Rock x Metal (1080p)
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 #EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Country: Netherlands" tvg-group="Country: Netherlands;Language: Dutch",XON (480p) [Not 24/7]
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="NL" tvg-language="nld" group-title="Type: Music" tvg-group="Country: Netherlands;Type: Music;Language: Dutch",ZFM Zoetermeer TV (720p)

@@ -55,8 +55,6 @@ https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Education" tvg-group="Country: Romania;Type: Education;Type: Kids;Language: Romanian",DeParinti.ro (576p)
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",Digi 4K (2160p)
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: News" tvg-group="Country: Romania;Type: News;Language: Romanian",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Digi Sport 4 (576i)
@@ -81,6 +79,8 @@ https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Culture" tvg-group="Country: Romania;Type: Culture;Language: Romanian",Hora TV (576i)
+http://91.235.165.117:8001/play/a02f/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",Hunedoara 1 (480p) [Not 24/7]
 https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",IasiTV Life (1080p) [Not 24/7]
@@ -117,6 +117,8 @@ https://stream1.kanald.ro/iphone/knd-live.m3u8
 https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",M9TV Romania (576i)
 https://netstreaming.eu/m9tv.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",mditv (576i) [Not 24/7]
+http://91.235.165.117:8001/play/a01p/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Lifestyle" tvg-group="Country: Romania;Type: Lifestyle;Language: Romanian",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",Metropola TV (1080p) [Not 24/7]
@@ -231,6 +233,8 @@ http://83.103.149.75:8085/udp/239.30.0.9:4000
 https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Kids" tvg-group="Country: Romania;Type: Kids;Language: Romanian",TraLaLa TV
 https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Travel" tvg-group="Country: Romania;Type: Travel;Language: Romanian",Travel Mix 4K (576i)
+http://91.235.165.117:8001/play/a08c/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Travel" tvg-group="Country: Romania;Type: Travel;Language: Romanian",Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",Trinitas TV (576i)
@@ -239,8 +243,8 @@ https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
 https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",TV Buzau (576p)
 http://78.96.33.89:8080
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",TV SE (576p) [Not 24/7]
-http://89.38.8.130:39419
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",TV SE (576i)
+http://91.235.165.117:8001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: News" tvg-group="Country: Romania;Type: News;Language: Romanian",TV SUD (1080p)
 https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",TVPlus Suceava (576p)

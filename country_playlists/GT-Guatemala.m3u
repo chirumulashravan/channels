@@ -9,6 +9,8 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Canal 6 Panadish (720p)
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Canal 13 Chiquimula (1080p)
+https://www.tl.com.gt/live.php?file=0.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: General" tvg-group="Country: Guatemala;Type: General;Language: Spanish",Canal 13 Esquipulas (720p)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-country="GT" tvg-language="spa" group-title="Type: Religious" tvg-group="Country: Guatemala;Type: Religious;Language: Spanish",Canal 30 TV Bethel (720p) [Not 24/7]

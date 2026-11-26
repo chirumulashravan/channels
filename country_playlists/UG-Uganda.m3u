@@ -29,5 +29,7 @@ https://live.esteem.africa/kstv/hls/0/stream.m3u8
 https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8
 #EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Type: General" tvg-group="Country: Uganda;Type: General;Language: English;Language: Swahili",Tayari West TV (1080p)
 https://stream.hydeinnovations.com/tarari-west/index.m3u8
+#EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Type: General" tvg-group="Country: Uganda;Type: General;Language: English;Language: Swahili",Tooro TV (1080p)
+https://media.hydeinnovations.com/Tooro_TV-srt/index.m3u8
 #EXTINF:-1 tvg-country="UG" tvg-language="eng,swa" group-title="Type: General" tvg-group="Country: Uganda;Type: General;Language: English;Language: Swahili",Wan Luo TV (576p)
 https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8

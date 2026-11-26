@@ -99,8 +99,8 @@ https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",Tele Fe Bolivia (720p)
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
-#EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Country: Bolivia" tvg-group="Country: Bolivia;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",TL Estrella (720p)
-http://190.181.61.93:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Country: Bolivia" tvg-group="Country: Bolivia;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",TL Estrella (1080p)
+https://edge.enhdtv.com/teleestrella/index.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",TransMedia (720p)
 https://edge.enhdtv.com/8064/index.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: Music" tvg-group="Country: Bolivia;Type: Music;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",Tv Carigso (720p)
