@@ -229,7 +229,7 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Religious" tvg-group="Country: Brazil;Type: Religious;Language: Portuguese",Rede Vida (720p)
 http://46.151.196.223:14244
-#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Country: Brazil" tvg-group="Country: Brazil;Language: Portuguese",RedeTV! Parana (1080p)
+#EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: General" tvg-group="Country: Brazil;Type: General;Language: Portuguese",RedeTV! Parana (1080p)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="por" group-title="Type: Classic" tvg-group="Country: Brazil;Type: Classic;Language: Portuguese",Retro Cartoon (720p)
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8

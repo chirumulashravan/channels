@@ -87,8 +87,8 @@ http://190.181.61.93:8000/play/a002/index.m3u8
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",SABCO Vision (720p)
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-#EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",Siglo XXI TV (576p)
-http://190.181.61.93:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",Siglo XXI TV (720p)
+https://edge.enhdtv.com/sigloxxi/index.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",SPC Canal 15 (1080p)
 https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",Sucremanta TV (1080p)

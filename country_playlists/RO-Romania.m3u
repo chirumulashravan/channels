@@ -31,6 +31,8 @@ https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Music" tvg-group="Country: Romania;Type: Music;Language: Romanian",Atomic TV (360p)
 https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Music" tvg-group="Country: Romania;Type: Music;Language: Romanian",Balcan Music TV (1080i)
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/balkmus/usergenko4x0g.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Lifestyle" tvg-group="Country: Romania;Type: Lifestyle;Language: Romanian",Beauty ON (576i)
@@ -41,6 +43,8 @@ https://bihor-tv.ro/hls/bihortv.m3u8
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Country: Romania" tvg-group="Country: Romania;Language: Romanian",Bucovina TV (576i)
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Cooking" tvg-group="Country: Romania;Type: Cooking;Language: Romanian",Chefi la cutite (576p)
+https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Cooking" tvg-group="Country: Romania;Type: Cooking;Language: Romanian",Chefi.ro (1080p)
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Movies" tvg-group="Country: Romania;Type: Movies;Language: Romanian",Cinemaraton Plus (1080i)
@@ -75,8 +79,8 @@ http://91.235.165.117:8002/play/a00o/index.m3u8
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Formula 1 AntenaPlay (576p) [Not 24/7]
 https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
-#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Formula 2 AntenaPlay (576i) [Not 24/7]
-https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Formula 2 AntenaPlay (576p) [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-2-qatar-27-2911/chunklist.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: General" tvg-group="Country: Romania;Type: General;Language: Romanian",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Culture" tvg-group="Country: Romania;Type: Culture;Language: Romanian",Hora TV (576i)
@@ -145,6 +149,8 @@ http://novapress.ro:2022/live/nova/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: News" tvg-group="Country: Romania;Type: News;Language: Romanian",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Prima PPV 3 (576p)
+https://rundle.tv/proxy5.php?src=https://pulse1.sanseny001.shop/puki2/usergendxpk2s6utg0l.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Prima Sport 1 (576p)
 http://91.235.165.117:8001/play/a07x/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-language="ron" group-title="Type: Sports" tvg-group="Country: Romania;Type: Sports;Language: Romanian",Prima Sport 2 (576p)
