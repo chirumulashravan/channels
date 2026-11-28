@@ -54,7 +54,7 @@ http://158.172.155.130:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",PI MEDIA TV (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Country: Bolivia" tvg-group="Country: Bolivia;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",Plus TLT (720p)
-http://15.204.246.24:8080/PlusTLTHD/index.m3u8
+http://190.181.61.93:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: Religious" tvg-group="Country: Bolivia;Type: Religious;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",Poder de Dios TV (1080p)
 http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",RA Television (720p)
@@ -97,8 +97,6 @@ https://183.giatvcdn.com/ssh101/ssh101/ok2026/playlist.m3u8
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",TELE 6 (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
-#EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",Tele Fe Bolivia (720p)
-https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Country: Bolivia" tvg-group="Country: Bolivia;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",TL Estrella (1080p)
 https://edge.enhdtv.com/teleestrella/index.m3u8
 #EXTINF:-1 tvg-country="BO" tvg-language="aym,grn,que,spa" group-title="Type: General" tvg-group="Country: Bolivia;Type: General;Language: Aymara;Language: Guarani;Language: Quechua;Language: Spanish",TransMedia (720p)

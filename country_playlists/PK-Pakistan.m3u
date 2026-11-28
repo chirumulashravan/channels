@@ -109,6 +109,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 http://103.250.28.74:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan" tvg-group="Country: Pakistan;Language: English;Language: Urdu",PMI TV (720p) [Not 24/7]
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+#EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Country: Pakistan" tvg-group="Country: Pakistan;Language: English;Language: Urdu",PTV Home
+http://103.86.132.58:9981/stream/service/2c87c87feb544ce8d317aa60f5cafa62
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Type: News" tvg-group="Country: Pakistan;Type: News;Language: English;Language: Urdu",PTV News (1080p)
 http://103.250.28.74:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-language="eng,urd" group-title="Type: Sports" tvg-group="Country: Pakistan;Type: Sports;Language: English;Language: Urdu",PTV Sports (1080p)

@@ -902,7 +902,7 @@ https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Sports" tvg-group="Country: United States;Type: Sports;Language: English;Language: Spanish",ESPN 4 Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Sports" tvg-group="Country: United States;Type: Sports;Language: English;Language: Spanish",ESPN 5 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Sports" tvg-group="Country: United States;Type: Sports;Language: English;Language: Spanish",ESPN 6 Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Sports" tvg-group="Country: United States;Type: Sports;Language: English;Language: Spanish",ESPN 7 Latin America (1080p)
@@ -947,6 +947,8 @@ https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",FilmRise Forensic Files (720p)
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Business" tvg-group="Country: United States;Type: Business;Language: English;Language: Spanish",FINTECH.TV (1080p)
+https://ftv247iovescdn1.fintech.tv/hls/main.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Sports" tvg-group="Country: United States;Type: Sports;Language: English;Language: Spanish",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Movies" tvg-group="Country: United States;Type: Movies;Language: English;Language: Spanish",Flicks of Fury
@@ -1175,6 +1177,8 @@ https://986a99ca.wurl.com/v1/hsn_samsung/vizio_us/latest/main/hls/playlist.m3u8
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Legislative" tvg-group="Country: United States;Type: Legislative;Language: English;Language: Spanish",HTV 2 Houston Television (720p)
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Comedy" tvg-group="Country: United States;Type: Comedy;Language: English;Language: Spanish",Humor Mill (1080p)
+https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Cooking" tvg-group="Country: United States;Type: Cooking;Language: English;Language: Spanish",Hungry (720p)
 https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Comedy" tvg-group="Country: United States;Type: Comedy;Type: Classic;Language: English;Language: Spanish",I Love Lucy
@@ -2201,10 +2205,14 @@ https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Country: United States" tvg-group="Country: United States;Language: English;Language: Spanish",Real America's Voice (1080p)
 https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Religious" tvg-group="Country: United States;Type: Religious;Language: English;Language: Spanish",Real Life Network (1080p)
+https://300abc84139140e9b7942f8bfa6edc1a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1170-REALLIFENETWORK-FREECAST/mt/freecast/1170/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Cooking" tvg-group="Country: United States;Type: Cooking;Language: English;Language: Spanish",Recipe.TV (720p)
 https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Education" tvg-group="Country: United States;Type: Education;Language: English;Language: Spanish",Red Apple 21 (480p) [Not 24/7]
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Documentary" tvg-group="Country: United States;Type: Documentary;Language: English;Language: Spanish",Reelz (720p)
+https://a-cdn.klowdtv.com/live2/reelz_720p/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Documentary" tvg-group="Country: United States;Type: Documentary;Language: English;Language: Spanish",Reelz Famous & Infamous (1080p)
 https://linear-190.frequency.stream/mt/vizio/190/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="eng,spa" group-title="Type: Classic" tvg-group="Country: United States;Type: Classic;Language: English;Language: Spanish",Retro TV (720p)

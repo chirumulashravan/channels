@@ -218,4 +218,4 @@ https://eu1.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Outdoor" tvg-group="Country: Colombia;Type: Outdoor;Language: Spanish",UMC TV (720p)
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-language="spa" group-title="Type: Sports" tvg-group="Country: Colombia;Type: Sports;Language: Spanish",Win+ Futbol (1080p)
-http://181.78.12.119:16123/play/ch19/index.m3u8
+http://190.61.42.218:9000/play/a01s/index.m3u8

@@ -264,7 +264,7 @@ http://s7.merlive.am/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Language: Russian",Kinosvidanie (1080p)
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Movies" tvg-group="Country: Russia;Type: Movies;Language: Russian",Kinouzhas (1080p)
-http://s1.merlive.am/Kinoujas/index.m3u8
+http://s7.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Entertainment" tvg-group="Country: Russia;Type: Entertainment;Language: Russian",Klukva TV (1080p)
 https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Comedy" tvg-group="Country: Russia;Type: Comedy;Language: Russian",Komedia (576p)
@@ -310,7 +310,7 @@ http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Sports" tvg-group="Country: Russia;Type: Sports;Language: Russian",Match! Igra (720p)
 http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Sports" tvg-group="Country: Russia;Type: Sports;Language: Russian",Match! Planeta (576p)
-http://s1.merlive.am/matchplaneta/index.m3u8
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Sports" tvg-group="Country: Russia;Type: Sports;Language: Russian",Match! Premier (576p)
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Sports" tvg-group="Country: Russia;Type: Sports;Language: Russian",Match! Strana (720p)
@@ -386,11 +386,9 @@ http://stream.mcquack.net/207/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: General" tvg-group="Country: Russia;Type: General;Language: Russian",NTM (720p) [Not 24/7]
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia" tvg-group="Country: Russia;Language: Russian",NTV Law (576p)
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Culture" tvg-group="Country: Russia;Type: Culture;Language: Russian",NTV Mir (576p)
-http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+http://s7.merlive.am/ntvpravo/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Series" tvg-group="Country: Russia;Type: Series;Language: Russian",NTV Series (576p)
-http://stream.mcquack.net/301/index.m3u8
+http://s7.merlive.am/NTVSerial/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Country: Russia" tvg-group="Country: Russia;Language: Russian",NTV Sledstviye veli (1080p)
 https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="rus" group-title="Type: Lifestyle" tvg-group="Country: Russia;Type: Lifestyle;Language: Russian",NTV Stil zhizn (576p)

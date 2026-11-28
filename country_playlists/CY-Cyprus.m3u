@@ -3,6 +3,8 @@
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-country="CY" tvg-language="ell,tur" group-title="Type: Entertainment" tvg-group="Country: Cyprus;Type: Entertainment;Language: Greek;Language: Turkish",ANT1 Cyprus (1080p)
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-country="CY" tvg-language="ell,tur" group-title="Country: Cyprus" tvg-group="Country: Cyprus;Language: Greek;Language: Turkish",BRT 1 (1080p)
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-country="CY" tvg-language="ell,tur" group-title="Type: General" tvg-group="Country: Cyprus;Type: General;Language: Greek;Language: Turkish",ERT Cosmos Cyprus (1080p)
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
 #EXTINF:-1 tvg-country="CY" tvg-language="ell,tur" group-title="Type: Religious" tvg-group="Country: Cyprus;Type: Religious;Language: Greek;Language: Turkish",Middle East TV (1080p)

@@ -55,6 +55,8 @@ http://cdn12.henico.net:8080/live/dncal/index.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Religious" tvg-group="Country: Canada;Type: Religious;Language: English;Language: French",Erfan Halgheh TV (720p)
 https://hls.erfanhalgheh.live/hls/stream.m3u8
+#EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Entertainment" tvg-group="Country: Canada;Type: Entertainment;Language: English;Language: French",FEVA TV (1080p)
+https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Sports" tvg-group="Country: Canada;Type: Sports;Language: English;Language: French",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Sports" tvg-group="Country: Canada;Type: Sports;Language: English;Language: French",Game+ (720p)
@@ -69,6 +71,8 @@ http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: News" tvg-group="Country: Canada;Type: News;Language: English;Language: French",Hamdard TV (1080p)
 https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Sports" tvg-group="Country: Canada;Type: Sports;Language: English;Language: French",Hard Knocks (1080p) [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Series" tvg-group="Country: Canada;Type: Series;Language: English;Language: French",HauntTV (1080p)
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-language="eng,fra" group-title="Type: Culture" tvg-group="Country: Canada;Type: Culture;Language: English;Language: French",Hyder TV (720p)

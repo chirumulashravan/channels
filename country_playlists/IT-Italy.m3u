@@ -147,8 +147,8 @@ http://102.129.186.182:81/la7d/index.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: General" tvg-group="Country: Italy;Type: General;Language: Italian",La C TV (720p)
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
-#EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: General" tvg-group="Country: Italy;Type: General;Language: Italian",La Nuova TV (720p)
-https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+#EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: General" tvg-group="Country: Italy;Type: General;Language: Italian",La Nuova TV (1080p)
+https://play.video.serverroom.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: General" tvg-group="Country: Italy;Type: General;Language: Italian",La TR3 Marsala (720p)
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 tvg-country="IT" tvg-language="ita" group-title="Type: News" tvg-group="Country: Italy;Type: News;Language: Italian",LaC News 24 (720p)

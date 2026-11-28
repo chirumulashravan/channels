@@ -763,6 +763,8 @@ https://galaxyott.live/hls/ntv.m3u8
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Culture" tvg-group="Country: India;Type: Culture;Language: English;Language: Hindi;Language: Tamil",Odisha TV (720p)
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Religious" tvg-group="Country: India;Type: Religious;Language: English;Language: Hindi;Language: Tamil",Om Shanti
+https://webcastcdnbkwsu.b-cdn.net/live/godlywood_1/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Religious" tvg-group="Country: India;Type: Religious;Language: English;Language: Hindi;Language: Tamil",OM TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",One Paschima (400p)
@@ -901,6 +903,8 @@ https://cdn.pishow.tv/ott/live/1510/master.m3u8
 https://cdn.pishow.tv/ott/live/270/master.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Republic Bharat (576p)
 http://163.61.226.31:9981/stream/channelid/1090287783?profile=pass
+#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Business" tvg-group="Country: India;Type: Business;Language: English;Language: Hindi;Language: Tamil",Republic Business (576p)
+https://rbusiness.cdn.runn.tv/amg01218c8/hls.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Republic Kannada (720p)
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: News" tvg-group="Country: India;Type: News;Language: English;Language: Hindi;Language: Tamil",Republic TV (1080p)
@@ -1025,8 +1029,6 @@ https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Sony Max HD (1080p)
-https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Entertainment" tvg-group="Country: India;Type: Entertainment;Language: English;Language: Hindi;Language: Tamil",Sony Pal (576p)
 http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
 #EXTINF:-1 tvg-country="IN" tvg-language="eng,hin,tam" group-title="Type: Sports" tvg-group="Country: India;Type: Sports;Language: English;Language: Hindi;Language: Tamil",Sony Sports Ten 2 (1080p)

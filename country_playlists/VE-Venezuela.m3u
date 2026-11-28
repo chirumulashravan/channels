@@ -115,6 +115,8 @@ http://186.148.196.100:8000/play/a01d
 http://181.78.8.199:8000/play/a0if/index.m3u8
 #EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Type: General" tvg-group="Country: Venezuela;Type: General;Language: Spanish",Venevision Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Type: General" tvg-group="Country: Venezuela;Type: General;Language: Spanish",Venezolana de Television (480p)
+http://200.59.191.177:8000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Type: General" tvg-group="Country: Venezuela;Type: General;Language: Spanish",Vepaco TV (480p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-country="VE" tvg-language="spa" group-title="Type: Education" tvg-group="Country: Venezuela;Type: Education;Language: Spanish",Vive (576p)
